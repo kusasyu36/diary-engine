@@ -1,0 +1,50 @@
+name: deploy-site
+
+# site/ などサイト関連ファイルが main に push されたら、
+# LLM を叩かずに publish_site.py だけ走らせて Pages を再デプロイする。
+# 日次の日記生成は daily.yml 側で行う。
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "publish_site.py"
+      - "site/**"
+      - "output/daily/**"
+      - "characters.py"
+      - ".github/workflows/deploy-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # publish_site.py は標準ライブラリのみ使う設計だが、
+      # characters.py が persona*.py をインポートするだけなので追加依存なし
+      - name: Build static site
+        run: python publish_site.py
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

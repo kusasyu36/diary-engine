@@ -53,6 +53,16 @@ nav a { color: #666; margin-right: 0.5em; }
 .character-list a { font-weight: 600; }
 .archive-list { padding-left: 1em; }
 .archive-list li { margin: 0.3em 0; }
+.toc { background: #efece4; padding: 0.6em 0.9em; border-radius: 4px;
+       font-size: 0.9em; margin: 1em 0; line-height: 1.5; }
+.toc a { color: #444; margin: 0 0.2em; }
+.nav-pn { margin: 1.5em 0; padding: 0.6em 0.8em; background: #f0eee8;
+          border-radius: 4px; font-size: 0.9em; }
+.nav-pn a { color: #555; }
+.nav-pn .nav-label { color: #888; margin-right: 0.4em; }
+.nav-pn .nav-sep { color: #ccc; }
+.latest-date { font-size: 1.05em; margin-top: 1.6em; color: #555; }
+.latest-date a { color: #555; }
 footer { margin-top: 3em; padding-top: 1em; border-top: 1px solid #ddd;
          color: #888; font-size: 0.85em; }
 """
@@ -158,11 +168,10 @@ def parse_diary_md(md_path: Path) -> dict:
     return sections
 
 
-def render_character_page(char_id: str, date_iso: str, sections: dict) -> str:
-    title = sections.get("title", char_id)
+def _extract_diary_parts(sections: dict) -> tuple[str, str, str, str, str]:
+    """sections から (title, meta, diary_md, reflection_md, angle, life_update_md) を抽出。"""
+    title = sections.get("title", "")
     meta = sections.get("meta", "")
-
-    # diary section の見出し名は "## 日記"
     diary_md = ""
     reflection_md = ""
     angle = ""
@@ -179,52 +188,185 @@ def render_character_page(char_id: str, date_iso: str, sections: dict) -> str:
                 angle = m.group(1).strip()
         elif k == "life_state 更新":
             life_update_md = v
+    return title, meta, diary_md, reflection_md, angle, life_update_md
 
+
+def render_diary_block(char_id: str, date_iso: str, sections: dict, link_to_full: bool = True) -> str:
+    """1キャラ1日分の日記ブロック。日付ページ・トップページに埋め込み用。"""
+    title, meta, diary_md, reflection_md, angle, life_update_md = _extract_diary_parts(sections)
+    out: list[str] = [f'<article class="entry" id="{html.escape(char_id)}">']
+    if link_to_full:
+        out.append(
+            f'<h2><a href="/{html.escape(date_iso)}/{html.escape(char_id)}.html">'
+            f'{html.escape(title)}</a></h2>'
+        )
+    else:
+        out.append(f"<h2>{html.escape(title)}</h2>")
+    if meta:
+        out.append('<div class="meta">' + html.escape(meta).replace("\n", "<br>") + "</div>")
+    if diary_md:
+        out.append('<div class="diary">' + html.escape(diary_md) + "</div>")
+    if reflection_md:
+        head = "内省" + (f"（角度: {html.escape(angle)}）" if angle else "")
+        out.append(f"<h3>{head}</h3>")
+        out.append('<div class="reflection">' + html.escape(reflection_md) + "</div>")
+    if life_update_md:
+        out.append(f'<p class="life-update">life_state 更新: {html.escape(life_update_md)}</p>')
+    out.append("</article>")
+    return "\n".join(out)
+
+
+def _nav_within_day(
+    char_id: str,
+    date_iso: str,
+    day_entries: list[tuple[str, dict]],
+) -> str:
+    """同じ日付内の前後キャラへのリンク。"""
+    ids = [cid for cid, _ in day_entries]
+    try:
+        idx = ids.index(char_id)
+    except ValueError:
+        return ""
+    prev_html = ""
+    next_html = ""
+    if idx > 0:
+        pid = ids[idx - 1]
+        ptitle = CHARACTERS[pid].display_name if pid in CHARACTERS else pid
+        prev_html = f'<a href="/{html.escape(date_iso)}/{html.escape(pid)}.html">← {html.escape(ptitle)}</a>'
+    if idx + 1 < len(ids):
+        nid = ids[idx + 1]
+        ntitle = CHARACTERS[nid].display_name if nid in CHARACTERS else nid
+        next_html = f'<a href="/{html.escape(date_iso)}/{html.escape(nid)}.html">{html.escape(ntitle)} →</a>'
+    if not prev_html and not next_html:
+        return ""
+    return (
+        '<nav class="nav-pn"><span class="nav-label">同じ日の他キャラ:</span> '
+        f'{prev_html}<span class="nav-sep"> | </span>'
+        f'<a href="/{html.escape(date_iso)}/">{html.escape(date_iso)} 全員</a>'
+        f'<span class="nav-sep"> | </span>{next_html}</nav>'
+    )
+
+
+def _nav_across_days(
+    char_id: str,
+    date_iso: str,
+    char_posts: list[tuple[str, dict]],
+) -> str:
+    """同じキャラの前後日付へのリンク。char_posts は時系列昇順。"""
+    dates = [d for d, _ in char_posts]
+    try:
+        idx = dates.index(date_iso)
+    except ValueError:
+        return ""
+    prev_html = ""
+    next_html = ""
+    if idx > 0:
+        pd = dates[idx - 1]
+        prev_html = f'<a href="/{html.escape(pd)}/{html.escape(char_id)}.html">← {html.escape(pd)}</a>'
+    if idx + 1 < len(dates):
+        nd = dates[idx + 1]
+        next_html = f'<a href="/{html.escape(nd)}/{html.escape(char_id)}.html">{html.escape(nd)} →</a>'
+    if not prev_html and not next_html:
+        return ""
+    return (
+        '<nav class="nav-pn"><span class="nav-label">同じキャラの前後の日:</span> '
+        f'{prev_html}<span class="nav-sep"> | </span>'
+        f'<a href="/{html.escape(char_id)}/">{html.escape(char_id)} アーカイブ</a>'
+        f'<span class="nav-sep"> | </span>{next_html}</nav>'
+    )
+
+
+def render_character_page(
+    char_id: str,
+    date_iso: str,
+    sections: dict,
+    day_entries: list[tuple[str, dict]],
+    char_posts: list[tuple[str, dict]],
+) -> str:
+    title = sections.get("title", char_id)
     breadcrumb = (
         f'<nav><a href="/">トップ</a> / '
         f'<a href="/{html.escape(date_iso)}/">{html.escape(date_iso)}</a> / '
         f'<a href="/{html.escape(char_id)}/">{html.escape(char_id)} アーカイブ</a></nav>'
     )
-
-    body_parts: list[str] = []
-    if meta:
-        body_parts.append('<div class="meta">' + html.escape(meta).replace("\n", "<br>") + "</div>")
-    body_parts.append("<h2>日記</h2>")
-    body_parts.append('<div class="diary">' + html.escape(diary_md) + "</div>")
-    if reflection_md:
-        head = f"内省" + (f"（角度: {html.escape(angle)}）" if angle else "")
-        body_parts.append(f"<h2>{head}</h2>")
-        body_parts.append('<div class="reflection">' + html.escape(reflection_md) + "</div>")
-    if life_update_md:
-        body_parts.append(f'<p class="life-update">life_state 更新: {html.escape(life_update_md)}</p>')
-
-    return page_shell(title, "\n".join(body_parts), breadcrumb)
+    body = render_diary_block(char_id, date_iso, sections, link_to_full=False)
+    body += "\n" + _nav_within_day(char_id, date_iso, day_entries)
+    body += "\n" + _nav_across_days(char_id, date_iso, char_posts)
+    return page_shell(title, body, breadcrumb)
 
 
-def render_date_index(date_iso: str, entries: list[tuple[str, dict]]) -> str:
-    """その日付の5キャラ一覧。"""
+def render_date_index(
+    date_iso: str,
+    entries: list[tuple[str, dict]],
+    sorted_dates: list[str],
+) -> str:
+    """その日付の5キャラを全文埋め込みで1ページに並べる。日付間ナビあり。"""
     breadcrumb = f'<nav><a href="/">トップ</a></nav>'
     body_parts: list[str] = [f"<p class='meta'>実カレンダー: {date_iso}</p>"]
+    # 日付内の目次 (アンカーリンク)
+    body_parts.append('<nav class="toc"><strong>このページの目次:</strong> ')
+    toc_links = []
     for cid, sec in entries:
         title = sec.get("title", cid)
-        # 先頭200字スニペット
-        diary = sec.get("日記", "")
-        snippet = re.sub(r"\s+", " ", diary)[:140]
+        toc_links.append(f'<a href="#{html.escape(cid)}">{html.escape(title)}</a>')
+    body_parts.append(" / ".join(toc_links))
+    body_parts.append("</nav>")
+    # 全文埋め込み
+    for cid, sec in entries:
+        body_parts.append(render_diary_block(cid, date_iso, sec, link_to_full=True))
+    # 前後日付ナビ
+    try:
+        idx = sorted_dates.index(date_iso)
+    except ValueError:
+        idx = -1
+    prev_html = ""
+    next_html = ""
+    if idx > 0:
+        pd = sorted_dates[idx - 1]
+        prev_html = f'<a href="/{html.escape(pd)}/">← {html.escape(pd)}</a>'
+    if 0 <= idx < len(sorted_dates) - 1:
+        nd = sorted_dates[idx + 1]
+        next_html = f'<a href="/{html.escape(nd)}/">{html.escape(nd)} →</a>'
+    if prev_html or next_html:
         body_parts.append(
-            f'<div class="entry">'
-            f'<h3><a href="/{html.escape(date_iso)}/{html.escape(cid)}.html">{html.escape(title)}</a></h3>'
-            f'<p>{html.escape(snippet)}…</p>'
-            f"</div>"
+            '<nav class="nav-pn"><span class="nav-label">前後の日付:</span> '
+            f'{prev_html}<span class="nav-sep"> | </span>'
+            f'<a href="/">トップ</a>'
+            f'<span class="nav-sep"> | </span>{next_html}</nav>'
         )
     return page_shell(f"{date_iso} の日記", "\n".join(body_parts), breadcrumb)
 
 
-def render_top_index(latest_date: str | None, all_dates: list[str]) -> str:
+def render_top_index(
+    latest_date: str | None,
+    all_dates: list[str],
+    latest_entries: list[tuple[str, dict]],
+) -> str:
     body_parts: list[str] = []
-    if latest_date:
-        body_parts.append(f'<p>最新: <a href="/{html.escape(latest_date)}/">{html.escape(latest_date)}</a></p>')
+    body_parts.append(
+        '<p class="meta">5人のAIキャラが毎日12:00 (JST) に日記を書きます。'
+        ' 最新の5本を以下にすべて掲載。古い日付はページ末尾のアーカイブから。</p>'
+    )
 
-    body_parts.append("<h2>キャラクター</h2><ul class='character-list'>")
+    if latest_date and latest_entries:
+        body_parts.append(
+            f'<h2 class="latest-date"><a href="/{html.escape(latest_date)}/">'
+            f'{html.escape(latest_date)} の5本</a></h2>'
+        )
+        # 目次
+        toc_links = []
+        for cid, sec in latest_entries:
+            title = sec.get("title", cid)
+            toc_links.append(
+                f'<a href="/{html.escape(latest_date)}/{html.escape(cid)}.html">'
+                f'{html.escape(title)}</a>'
+            )
+        body_parts.append('<nav class="toc">' + " / ".join(toc_links) + "</nav>")
+        # 全文埋め込み
+        for cid, sec in latest_entries:
+            body_parts.append(render_diary_block(cid, latest_date, sec, link_to_full=True))
+
+    body_parts.append("<h2>キャラクター別アーカイブ</h2><ul class='character-list'>")
     for cid in all_ids():
         cfg = CHARACTERS[cid]
         body_parts.append(
@@ -308,9 +450,10 @@ def main() -> int:
     sorted_dates = sorted(posts_by_date.keys())
     latest = sorted_dates[-1] if sorted_dates else None
 
-    # トップページ
+    # トップページ (最新日付の全文埋め込み)
+    latest_entries = posts_by_date.get(latest, []) if latest else []
     (SITE_DIR / "index.html").write_text(
-        render_top_index(latest, sorted_dates), encoding="utf-8",
+        render_top_index(latest, sorted_dates, latest_entries), encoding="utf-8",
     )
 
     # 日付別ページ + 個別ページ + note テキスト
@@ -318,13 +461,14 @@ def main() -> int:
         d = SITE_DIR / date_iso
         d.mkdir(exist_ok=True)
         (d / "index.html").write_text(
-            render_date_index(date_iso, entries), encoding="utf-8",
+            render_date_index(date_iso, entries, sorted_dates), encoding="utf-8",
         )
         nd = notes_dir / date_iso
         nd.mkdir(exist_ok=True)
         for cid, sec in entries:
             (d / f"{cid}.html").write_text(
-                render_character_page(cid, date_iso, sec), encoding="utf-8",
+                render_character_page(cid, date_iso, sec, entries, posts_by_char[cid]),
+                encoding="utf-8",
             )
             (nd / f"{cid}.txt").write_text(
                 render_note_text(cid, date_iso, sec), encoding="utf-8",

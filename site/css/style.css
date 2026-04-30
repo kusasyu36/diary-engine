@@ -21,5 +21,15 @@ nav a { color: #666; margin-right: 0.5em; }
 .character-list a { font-weight: 600; }
 .archive-list { padding-left: 1em; }
 .archive-list li { margin: 0.3em 0; }
+.toc { background: #efece4; padding: 0.6em 0.9em; border-radius: 4px;
+       font-size: 0.9em; margin: 1em 0; line-height: 1.5; }
+.toc a { color: #444; margin: 0 0.2em; }
+.nav-pn { margin: 1.5em 0; padding: 0.6em 0.8em; background: #f0eee8;
+          border-radius: 4px; font-size: 0.9em; }
+.nav-pn a { color: #555; }
+.nav-pn .nav-label { color: #888; margin-right: 0.4em; }
+.nav-pn .nav-sep { color: #ccc; }
+.latest-date { font-size: 1.05em; margin-top: 1.6em; color: #555; }
+.latest-date a { color: #555; }
 footer { margin-top: 3em; padding-top: 1em; border-top: 1px solid #ddd;
          color: #888; font-size: 0.85em; }
