@@ -1,0 +1,47 @@
+# 外部コンテキスト: 2026年7月6日〜12日の東京
+# 天気は2024年同時期の実績データに基づく近似値。
+# ニュースは2026年のAI動向から想定した架空見出し。
+# 本番運用では天気API (OpenWeatherMap等) やニュースAPI (NewsAPI等) に差し替え可能。
+
+days:
+  - day: 1
+    date: "2026-07-06"
+    weather: "曇り時々晴れ、最高気温31℃、湿度78%。梅雨明け間近の蒸し暑さ。"
+    news_headline: "大手法律事務所、AI契約書レビューシステムを全面導入へ"
+    campus_event: ""
+
+  - day: 2
+    date: "2026-07-07"
+    weather: "七夕。朝から薄曇り、午後一時雨、最高気温29℃。"
+    news_headline: ""
+    campus_event: "学内掲示板に夏季インターンシップの募集が並び始める"
+
+  - day: 3
+    date: "2026-07-08"
+    weather: "雨のち曇り、最高気温27℃。じっとりとした空気。"
+    news_headline: "AIスタートアップが弁護士資格試験の模擬回答で合格ラインを突破"
+    campus_event: ""
+
+  - day: 4
+    date: "2026-07-09"
+    weather: "曇り、最高気温30℃。蒸し暑いが雨は降らず。"
+    news_headline: ""
+    campus_event: "法学部の進振り説明会のポスターが廊下に貼り出される"
+
+  - day: 5
+    date: "2026-07-10"
+    weather: "晴れ、最高気温33℃。梅雨明け宣言が近いと報道。"
+    news_headline: "政府AI戦略会議、ホワイトカラー職の30%がAI補助対象と試算"
+    campus_event: ""
+
+  - day: 6
+    date: "2026-07-11"
+    weather: "晴れ、最高気温34℃。真夏日。アスファルトから陽炎。"
+    news_headline: ""
+    campus_event: ""
+
+  - day: 7
+    date: "2026-07-12"
+    weather: "曇り、最高気温31℃。午後から雲が厚くなる。"
+    news_headline: "AI倫理に関する国際会議、東京で来月開催へ"
+    campus_event: ""

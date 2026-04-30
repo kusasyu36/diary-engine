@@ -1,0 +1,25 @@
+
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+       max-width: 720px; margin: 2em auto; padding: 0 1em; line-height: 1.7;
+       color: #2a2a2a; background: #fafaf7; }
+header { border-bottom: 1px solid #ddd; padding-bottom: 0.5em; margin-bottom: 1.5em; }
+h1 { font-size: 1.6em; margin: 0; }
+h2 { font-size: 1.2em; margin-top: 1.8em; padding-left: 0.4em; border-left: 3px solid #888; }
+h3 { font-size: 1.05em; color: #555; margin-top: 1.4em; }
+nav { font-size: 0.9em; margin-bottom: 1em; color: #666; }
+nav a { color: #666; margin-right: 0.5em; }
+.entry { margin-bottom: 2.4em; padding-bottom: 1.5em; border-bottom: 1px dashed #ccc; }
+.entry:last-child { border-bottom: none; }
+.meta { color: #888; font-size: 0.9em; margin-bottom: 0.6em; }
+.diary { white-space: pre-wrap; }
+.reflection { background: #f3f0e8; padding: 0.8em 1em; border-radius: 4px;
+              font-size: 0.95em; color: #444; }
+.life-update { color: #999; font-size: 0.85em; font-style: italic; }
+.character-list { list-style: none; padding: 0; }
+.character-list li { margin: 0.6em 0; }
+.character-list a { font-weight: 600; }
+.archive-list { padding-left: 1em; }
+.archive-list li { margin: 0.3em 0; }
+footer { margin-top: 3em; padding-top: 1em; border-top: 1px solid #ddd;
+         color: #888; font-size: 0.85em; }

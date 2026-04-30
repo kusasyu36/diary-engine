@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "Ryzen AI 400搭載で約1.27kgの14型モバイルノート。日本エイサー(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/ae8f7eccb65ee45f0d614d8f9020f8e30e34c00f?source=rss",
+        "summary": "日本エイサーは4月30日、CPUにRyzen AI 400シリーズを搭載し、重量が約1.27kgの14型モバイルノート「Aspire 14 AI」シリーズ2機種を公式直販サイトおよびAmazonで発",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "SwitchBot、AIハブ向け「AIエージェントプラン」 月269円でLLM利用(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/4a83dc8f15625692a0e834ca1efaeafdcfae82f4?source=rss",
+        "summary": "SWITCHBOTは29日、SwitchBotアプリ V9.26アップデートにおいて、「SwitchBot AIハブ」向けのサービス「AIエージェントプラン」を提供開始した。初月無料、翌月以降は月額2",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AIエージェントが職場に浸透する時代へ--シスコシステムズが提唱する3つの保護機能(ZDNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/f8e72e352b1a6aaa0cf7a9ec760292bda9aa45b7?source=rss",
+        "summary": "シスコシステムズは、「『エージェント型AIエコシステム』を保護するための包括的なセキュリティ機能」として、「Cisco Identity Intelligence」や「Cisco Secure Ac",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高14℃ / 最低11℃、降水量 3mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+        "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+        "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+        "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+        "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon’s cloud business is surging — and so is its capital spending",
+        "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+        "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+        "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+        "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高14℃ / 最低11℃、降水量 3mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+        "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+        "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+        "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+        "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "More Gemini features are coming to Google TV",
+        "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+        "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高14℃ / 最低11℃、降水量 3mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高14℃ / 最低11℃、降水量 3mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+        "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+        "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+        "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+        "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+        "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+        "summary": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Christchurch mass killer loses bid to overturn conviction",
+        "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
+        "summary": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高20℃ / 最低10℃"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "president": {
+    "items": [
+      {
+        "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+        "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+        "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+        "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+        "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+        "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+        "summary": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Christchurch mass killer loses bid to overturn conviction",
+        "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
+        "summary": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨 (弱)、最高19℃ / 最低6℃、降水量 3mm"
+  }
+}

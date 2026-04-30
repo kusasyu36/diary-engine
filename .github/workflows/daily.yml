@@ -1,0 +1,99 @@
+name: daily-diary
+
+# 毎日 12:00 JST (= 03:00 UTC) に5キャラ分の日記を生成し、
+# 静的サイトを GitHub Pages にデプロイ。
+# 状態ファイル (state/*_life.json, output/daily_*.json, output/daily/) は
+# リポジトリにコミットして履歴を残す。
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:        # GitHub UI から手動でも叩けるように
+
+permissions:
+  contents: write           # 自動コミット用
+  pages: write              # Pages デプロイ用
+  id-token: write
+
+concurrency:
+  group: daily-diary
+  cancel-in-progress: false
+
+# このワークフローはリポジトリ直下が pattern_saeki_ren 相当として動く想定。
+# サブフォルダに移すなら WORKDIR を変更する。
+env:
+  WORKDIR: .
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: ${{ env.WORKDIR }}/requirements.txt
+
+      - name: Install dependencies
+        working-directory: ${{ env.WORKDIR }}
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate today's diaries
+        working-directory: ${{ env.WORKDIR }}
+        env:
+          LLM_PROVIDER: gemini-2.5
+          GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          GEMINI_API_KEY_7: ${{ secrets.GEMINI_API_KEY_7 }}
+        run: python daily_run.py
+
+      - name: Build static site
+        working-directory: ${{ env.WORKDIR }}
+        run: python publish_site.py
+
+      - name: Commit & push state changes
+        id: commit
+        run: |
+          git config user.name "diary-bot"
+          git config user.email "diary-bot@users.noreply.github.com"
+          git add output/daily \
+                  output/cache \
+                  output/daily_*.json \
+                  state/*.json \
+                  site
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "(no changes today)"
+          else
+            git commit -m "daily: $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
