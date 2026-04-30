@@ -30,6 +30,19 @@ BASE_DIR = Path(__file__).parent
 DAILY_DIR = BASE_DIR / "output" / "daily"
 SITE_DIR = BASE_DIR / "site"
 
+# GitHub Pages のサブパス。ユーザーサイト (kusasyu36.github.io) の下の
+# /diary-engine/ 配下に配信される前提。空文字にすればルート配信用。
+# 環境変数 SITE_BASE で上書き可能 (例: ローカルプレビュー時に "" にする)
+import os as _os
+SITE_BASE = _os.environ.get("SITE_BASE", "/diary-engine").rstrip("/")
+
+
+def url(path: str) -> str:
+    """サブパス付きのURLを返す。path は先頭スラッシュなしでも有りでもOK。"""
+    if not path.startswith("/"):
+        path = "/" + path
+    return SITE_BASE + path
+
 CSS = """
 * { box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
@@ -128,9 +141,9 @@ def page_shell(title: str, body: str, breadcrumb_html: str = "") -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title>
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="{url('/css/style.css')}">
 </head><body>
-<header><h1>{html.escape(title)}</h1></header>
+<header><h1><a href="{url('/')}" style="color:inherit;text-decoration:none">{html.escape(title)}</a></h1></header>
 {breadcrumb_html}
 {body}
 <footer>5体のAIが毎日12時に書く日記。生成は Gemini 2.5 Flash。</footer>
@@ -197,7 +210,7 @@ def render_diary_block(char_id: str, date_iso: str, sections: dict, link_to_full
     out: list[str] = [f'<article class="entry" id="{html.escape(char_id)}">']
     if link_to_full:
         out.append(
-            f'<h2><a href="/{html.escape(date_iso)}/{html.escape(char_id)}.html">'
+            f'<h2><a href="{url(f"/{date_iso}/{char_id}.html")}">'
             f'{html.escape(title)}</a></h2>'
         )
     else:
@@ -232,17 +245,17 @@ def _nav_within_day(
     if idx > 0:
         pid = ids[idx - 1]
         ptitle = CHARACTERS[pid].display_name if pid in CHARACTERS else pid
-        prev_html = f'<a href="/{html.escape(date_iso)}/{html.escape(pid)}.html">← {html.escape(ptitle)}</a>'
+        prev_html = f'<a href="{url(f"/{date_iso}/{pid}.html")}">← {html.escape(ptitle)}</a>'
     if idx + 1 < len(ids):
         nid = ids[idx + 1]
         ntitle = CHARACTERS[nid].display_name if nid in CHARACTERS else nid
-        next_html = f'<a href="/{html.escape(date_iso)}/{html.escape(nid)}.html">{html.escape(ntitle)} →</a>'
+        next_html = f'<a href="{url(f"/{date_iso}/{nid}.html")}">{html.escape(ntitle)} →</a>'
     if not prev_html and not next_html:
         return ""
     return (
         '<nav class="nav-pn"><span class="nav-label">同じ日の他キャラ:</span> '
         f'{prev_html}<span class="nav-sep"> | </span>'
-        f'<a href="/{html.escape(date_iso)}/">{html.escape(date_iso)} 全員</a>'
+        f'<a href="{url(f"/{date_iso}/")}">{html.escape(date_iso)} 全員</a>'
         f'<span class="nav-sep"> | </span>{next_html}</nav>'
     )
 
@@ -262,16 +275,16 @@ def _nav_across_days(
     next_html = ""
     if idx > 0:
         pd = dates[idx - 1]
-        prev_html = f'<a href="/{html.escape(pd)}/{html.escape(char_id)}.html">← {html.escape(pd)}</a>'
+        prev_html = f'<a href="{url(f"/{pd}/{char_id}.html")}">← {html.escape(pd)}</a>'
     if idx + 1 < len(dates):
         nd = dates[idx + 1]
-        next_html = f'<a href="/{html.escape(nd)}/{html.escape(char_id)}.html">{html.escape(nd)} →</a>'
+        next_html = f'<a href="{url(f"/{nd}/{char_id}.html")}">{html.escape(nd)} →</a>'
     if not prev_html and not next_html:
         return ""
     return (
         '<nav class="nav-pn"><span class="nav-label">同じキャラの前後の日:</span> '
         f'{prev_html}<span class="nav-sep"> | </span>'
-        f'<a href="/{html.escape(char_id)}/">{html.escape(char_id)} アーカイブ</a>'
+        f'<a href="{url(f"/{char_id}/")}">{html.escape(char_id)} アーカイブ</a>'
         f'<span class="nav-sep"> | </span>{next_html}</nav>'
     )
 
@@ -285,9 +298,9 @@ def render_character_page(
 ) -> str:
     title = sections.get("title", char_id)
     breadcrumb = (
-        f'<nav><a href="/">トップ</a> / '
-        f'<a href="/{html.escape(date_iso)}/">{html.escape(date_iso)}</a> / '
-        f'<a href="/{html.escape(char_id)}/">{html.escape(char_id)} アーカイブ</a></nav>'
+        f'<nav><a href="{url("/")}">トップ</a> / '
+        f'<a href="{url(f"/{date_iso}/")}">{html.escape(date_iso)}</a> / '
+        f'<a href="{url(f"/{char_id}/")}">{html.escape(char_id)} アーカイブ</a></nav>'
     )
     body = render_diary_block(char_id, date_iso, sections, link_to_full=False)
     body += "\n" + _nav_within_day(char_id, date_iso, day_entries)
@@ -301,7 +314,7 @@ def render_date_index(
     sorted_dates: list[str],
 ) -> str:
     """その日付の5キャラを全文埋め込みで1ページに並べる。日付間ナビあり。"""
-    breadcrumb = f'<nav><a href="/">トップ</a></nav>'
+    breadcrumb = f'<nav><a href="{url("/")}">トップ</a></nav>'
     body_parts: list[str] = [f"<p class='meta'>実カレンダー: {date_iso}</p>"]
     # 日付内の目次 (アンカーリンク)
     body_parts.append('<nav class="toc"><strong>このページの目次:</strong> ')
@@ -323,15 +336,15 @@ def render_date_index(
     next_html = ""
     if idx > 0:
         pd = sorted_dates[idx - 1]
-        prev_html = f'<a href="/{html.escape(pd)}/">← {html.escape(pd)}</a>'
+        prev_html = f'<a href="{url(f"/{pd}/")}">← {html.escape(pd)}</a>'
     if 0 <= idx < len(sorted_dates) - 1:
         nd = sorted_dates[idx + 1]
-        next_html = f'<a href="/{html.escape(nd)}/">{html.escape(nd)} →</a>'
+        next_html = f'<a href="{url(f"/{nd}/")}">{html.escape(nd)} →</a>'
     if prev_html or next_html:
         body_parts.append(
             '<nav class="nav-pn"><span class="nav-label">前後の日付:</span> '
             f'{prev_html}<span class="nav-sep"> | </span>'
-            f'<a href="/">トップ</a>'
+            f'<a href="{url("/")}">トップ</a>'
             f'<span class="nav-sep"> | </span>{next_html}</nav>'
         )
     return page_shell(f"{date_iso} の日記", "\n".join(body_parts), breadcrumb)
@@ -350,7 +363,7 @@ def render_top_index(
 
     if latest_date and latest_entries:
         body_parts.append(
-            f'<h2 class="latest-date"><a href="/{html.escape(latest_date)}/">'
+            f'<h2 class="latest-date"><a href="{url(f"/{latest_date}/")}">'
             f'{html.escape(latest_date)} の5本</a></h2>'
         )
         # 目次
@@ -358,7 +371,7 @@ def render_top_index(
         for cid, sec in latest_entries:
             title = sec.get("title", cid)
             toc_links.append(
-                f'<a href="/{html.escape(latest_date)}/{html.escape(cid)}.html">'
+                f'<a href="{url(f"/{latest_date}/{cid}.html")}">'
                 f'{html.escape(title)}</a>'
             )
         body_parts.append('<nav class="toc">' + " / ".join(toc_links) + "</nav>")
@@ -370,7 +383,7 @@ def render_top_index(
     for cid in all_ids():
         cfg = CHARACTERS[cid]
         body_parts.append(
-            f'<li><a href="/{html.escape(cid)}/">{html.escape(cfg.display_name)}</a> '
+            f'<li><a href="{url(f"/{cid}/")}">{html.escape(cfg.display_name)}</a> '
             f'<span class="meta">({html.escape(cid)})</span></li>'
         )
     body_parts.append("</ul>")
@@ -378,7 +391,7 @@ def render_top_index(
     if all_dates:
         body_parts.append("<h2>過去の日付</h2><ul class='archive-list'>")
         for d in reversed(all_dates):
-            body_parts.append(f'<li><a href="/{html.escape(d)}/">{html.escape(d)}</a></li>')
+            body_parts.append(f'<li><a href="{url(f"/{d}/")}">{html.escape(d)}</a></li>')
         body_parts.append("</ul>")
 
     return page_shell("5体のAI日記", "\n".join(body_parts))
@@ -393,11 +406,11 @@ def render_character_archive(char_id: str, posts: list[tuple[str, dict]]) -> str
     for date_iso, sec in reversed(posts):
         title = sec.get("title", char_id)
         body_parts.append(
-            f'<li><a href="/{html.escape(date_iso)}/{html.escape(char_id)}.html">'
+            f'<li><a href="{url(f"/{date_iso}/{char_id}.html")}">'
             f'{html.escape(date_iso)} — {html.escape(title)}</a></li>'
         )
     body_parts.append("</ul>")
-    breadcrumb = f'<nav><a href="/">トップ</a></nav>'
+    breadcrumb = f'<nav><a href="{url("/")}">トップ</a></nav>'
     return page_shell(f"{cfg.display_name} アーカイブ", "\n".join(body_parts), breadcrumb)
 
 
@@ -490,7 +503,7 @@ def main() -> int:
     for date_iso in reversed(sorted_dates):
         for cid, sec in posts_by_date[date_iso]:
             title = sec.get("title", cid)
-            link = f"/{date_iso}/{cid}.html"
+            link = url(f"/{date_iso}/{cid}.html")
             desc = sec.get("日記", "")[:300]
             feed_items.append(
                 f"<item><title>{html.escape(title)}</title>"
