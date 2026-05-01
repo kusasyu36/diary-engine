@@ -2,7 +2,7 @@
   "id": "hinata",
   "display_name": "星野 ひなた",
   "start_date": "2026-04-07",
-  "current_day_num": 9,
+  "current_day_num": 10,
   "fields": {
     "age": 15,
     "occupation": "東京都内の公立中学3年生（成績は中の上、ただしテスト・レポートはAI製）",
@@ -21,14 +21,15 @@
       "応募中のビジネスコンテスト",
       "美咲との距離感（自分でも気になっている）",
       "AIで仲間を呼ぶこと",
-      "AIを活用した新しいデザインの可能性"
+      "AIを活用した新しいデザインの可能性",
+      "AIを通じたグローバルなクリエイティブ活動への参加"
     ],
     "notes": "毎晩ブログを更新（読者に語りかけるスタイル）。中2の冬にChatGPTに出会って人生が変わった。"
   },
   "milestones": [
     {
       "label": "AI部設立への意欲",
-      "status": "done"
+      "status": "ongoing"
     }
   ],
   "life_events": [

@@ -27,5 +27,84 @@
       }
     ],
     "weather": "Washington 雨 (弱)、最高19℃ / 最低6℃、降水量 3mm"
+  },
+  "ren": {
+    "items": [
+      {
+        "title": "コニカミノルタ、教育データと生成AIの事例をEDIXで紹介(こどもとIT)",
+        "link": "https://news.yahoo.co.jp/articles/bf7a87303e69b989be6a09cd86b0205954c8e6aa?source=rss",
+        "summary": "コニカミノルタジャパン株式会社は、2026年5月13日（水）から15日（金）まで東京ビッグサイトで開催される「第17回 EDIX（教育総合展）東京」について、同社ブースで実施するセミナー日程を発表した",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "なぜ？　ChatGPTの回答で「ゴブリン」増殖の謎　OpenAIが対策済み(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/68eca6b1c76df48299df56d15cd4325da5362b76?source=rss",
+        "summary": "「ChatGPT」の回答で「ゴブリン」の比喩が増殖――そんな珍事件のメカニズムを米OpenAIが突き止めた。原因はChatGPTの人格カスタマイズ機能を作る上での学習過程で、モンスターの名前の出力を",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "オラクル、Google Cloudとのパートナーシップ拡大によりエンタープライズデータ全体でAIを運用可能にする手法を提供(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/0f3fb82478c2ae0a58155e99fe6325ae64239910?source=rss",
+        "summary": "米Oracle（以下、オラクル）は現地時間4月22日、Google Cloudとのパートナーシップを拡大し、両社共通の顧客に対し、エンタープライズデータ全体でAIを運用可能にする新たな手法を提供する",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高21℃ / 最低10℃、降水量 55mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+        "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+        "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+        "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+        "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+        "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+        "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+        "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高21℃ / 最低10℃、降水量 55mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+        "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple was surprised by AI-driven demand for Macs",
+        "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+        "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+        "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+        "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高21℃ / 最低10℃、降水量 55mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高21℃ / 最低10℃、降水量 55mm"
   }
 }
