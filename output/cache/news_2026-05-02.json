@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米国防総省 機密情報にAI導入「AI第一の戦闘部隊」へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113371000.html",
+        "summary": "アメリカ国防総省は軍の意思決定に重要な影響を及ぼす機密情報のネットワークで最先端のAI技術を活用することでテクノロジー企業8社と合意したと発表しました。軍を「AI第一の戦闘部隊」にするとして、AIの軍事利用をいっそう加速させています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "中国で“スパイ容疑”拘束 北海道教育大学の元教授釈放",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113211000.html",
+        "summary": "7年前、中国に一時帰国中にスパイ容疑で拘束され、現地の裁判所で懲役6年の実刑判決を受けていた北海道教育大学の元教授が釈放されたことが関係者への取材でわかりました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "高市首相 ベトナムに到着 あす会談 大学で外交演説へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113041000.html",
+        "summary": "高市総理大臣は、日本時間の1日夜、ベトナムに到着しました。2日にレ・ミン・フン首相との会談に臨むほか、現地で演説し「自由で開かれたインド太平洋」を進化させ、エネルギーや重要物資のサプライチェーンの強じん化などを盛り込んだ外交方針を打ち出す見通しです。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低13℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+        "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+        "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musely secures $360M from General Catalyst without giving up equity",
+        "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+        "summary": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+        "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+        "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+        "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+        "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低13℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+        "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+        "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+        "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+        "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+        "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低13℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高27℃ / 最低13℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+        "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+        "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+        "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+        "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+        "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+        "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高18℃ / 最低9℃"
+  }
+}
