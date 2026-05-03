@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米国防総省 機密情報にAI導入「AI第一の戦闘部隊」へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113371000.html",
+        "summary": "アメリカ国防総省は軍の意思決定に重要な影響を及ぼす機密情報のネットワークで最先端のAI技術を活用することでテクノロジー企業8社と合意したと発表しました。軍を「AI第一の戦闘部隊」にするとして、AIの軍事利用をいっそう加速させています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "エージェントAI「Manus」の使い方。調査もアプリ作成もこなせるMetaも欲しがった高い実力(BUSINESS INSIDER JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/776237ee6c8fa1e1013d4a4ab31d9c0ece1f5bc0?source=rss",
+        "summary": "「Manus（マナス）」というサービスがニュースで話題になることが増えた。  2025年12月にMeta（メタ）が買収を決めたものの、その後中国政府の状況が変わり、2026年4月末に入ると買収中止命令",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "数学者が7年悩んだ難問、AIが「80分」で解く──取り組んできた本人が美しいと評価(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/2a603e7c56fbf5fba1a1b80b7f0270ed7bc33dbd?source=rss",
+        "summary": "ジャレド・デューカー・リクトマンは、博士課程の4年間を費やし、数学で「原始集合（Primitive Set）」と呼ばれる集合について、素数がその種の集合の中で最も効率的（エルデシュ和を最大にする）、す",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高22℃ / 最低12℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "AI-generated actors and scripts are now ineligible for Oscars",
+        "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+        "summary": "Bad news for Tilly Norwood.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Farewell, Jeeves: Ask.com shuts down",
+        "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+        "summary": "Owner IAC says it's discontinuing its search business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+        "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+        "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The best AI dictation apps, tested and ranked",
+        "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+        "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高22℃ / 最低12℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "AI-generated actors and scripts are now ineligible for Oscars",
+        "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+        "summary": "Bad news for Tilly Norwood.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The best AI dictation apps, tested and ranked",
+        "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+        "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+        "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+        "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高22℃ / 最低12℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高22℃ / 最低12℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
+        "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+        "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
+        "source": "BBC News"
+      },
+      {
+        "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+        "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+        "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+        "source": "BBC News"
+      },
+      {
+        "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+        "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+        "source": "BBC News"
+      },
+      {
+        "title": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+        "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 晴れ、最高17℃ / 最低5℃"
+  }
+}
