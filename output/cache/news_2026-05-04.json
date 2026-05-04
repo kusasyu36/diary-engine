@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "メタ、社員のPC操作をAIに学習させる──「人間の挙動」で競争優位を築く(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/56a6335e20bf60c6eb0654eb0b94348cee68058c?source=rss",
+        "summary": "金で買うことも、借りることも、あるいは公開されたウェブサイトから収集することもできない、AI業界における特殊な「参入障壁」（英語では「moat=堀」という比喩で表現）が存在する。それは、人間が実際にど",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "アンソロピックClaudeやChatGPTなど、AIのトークンがかつてない速さで枯渇──その理由とは？(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/9c6165a62aa461f767f32ae109242abd7d9c3ad2?source=rss",
+        "summary": "アプリを「バイブコーディング」で作ったり、出力コンテンツを生成したりと調子よく進めていると、突然、作業が壁に当たる。トークンを使い切り、サブスクリプションの利用上限に達してしまうのだ。始めた頃は、たま",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "眼鏡の聖地・鯖江発の『SABERA』が挑む「かけっぱなし前提」のAIスマートグラス(リアルサウンド)",
+        "link": "https://news.yahoo.co.jp/articles/159187485ea409e101e37a64e8a37eb0031a9416?source=rss",
+        "summary": "眼鏡の世界的産地である福井県鯖江市の技術と国内企業の知見を結集した、新たなスマートグラスが登場した。株式会社jig.jpが発表した『SABERA（サベラ）』だ。  　2026年4月中旬に実施された製",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低16℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+        "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+        "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘This is fine’ creator says AI startup stole his art",
+        "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+        "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+        "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低16℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+        "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+        "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘This is fine’ creator says AI startup stole his art",
+        "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+        "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低16℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低16℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+        "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+        "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+        "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+        "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+        "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+        "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Nigeria summons South African envoy over attacks on its nationals",
+        "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+        "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高25℃ / 最低8℃"
+  }
+}
