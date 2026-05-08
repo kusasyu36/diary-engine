@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "英アーム、AI需要好調で4～6月期見通しが市場予想を上回る。供給網には懸念も(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/a26bdff0397bec5febb6936010d41665fda9958d?source=rss",
+        "summary": "ソフトバンクグループ傘下の英半導体設計大手アーム・ホールディングスが発表した第1四半期（4～6月）の売上高見通しは、AIデータセンター向け需要の拡大を背景に市場予想を上回った。一方で、新たに発表した",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "サークル、AIエージェント向けUSDC少額決済「ナノペイメンツ」をメインネットで提供開始(あたらしい経済)",
+        "link": "https://news.yahoo.co.jp/articles/2754aeff524730a64967cae724cad3f992550f8f?source=rss",
+        "summary": "米ドル連動型ステーブルコイン「USDC」の発行元サークル（Circle）が、AIエージェント向けUSDC決済レール「ナノペイメンツ（Nanopayments）」のメインネット移行を4月29日に発表した",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AIはいつ、無視できないほど「危険なもの」になるのか？(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/62f32ad960c0fafc2d37f922c42e675d9fc3e916?source=rss",
+        "summary": "伝えられるところによれば、OpenAIはもともと、GPT-3.5を搭載した初の一般公開版ChatGPTのリリースを2023年以降に延期する予定だった。安全性に確信が持てなかったためである。  しかし、",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高25℃ / 最低15℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Why you can never get your doctor to call you back",
+        "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+        "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the foun",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
+        "link": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+        "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches new voice intelligence features in its API",
+        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+        "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+        "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高25℃ / 最低15℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI launches new voice intelligence features in its API",
+        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+        "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+        "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+        "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+        "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高25℃ / 最低15℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高25℃ / 最低15℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+        "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+        "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+        "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+        "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+        "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高23℃ / 最低8℃"
+  }
+}
