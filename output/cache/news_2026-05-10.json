@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "Anthropic CEO、AIサイバーリスク 今は「危険な状況」防御側の猶予は6ヵ月(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/9f7d8c427b3353c7f39725dc9faa8626368cc66f?source=rss",
+        "summary": "米Anthropicのダリオ・アモデイCEOは、金融業界向けイベントにおいて、中国のAIモデルが6～12カ月以内に同社の最新モデル「Claude Mythos Preview」と同等のサイバーセキュ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "無料で使えるAI「ローカルLLM」の進化がすごいよって話(ギズモード・ジャパン)",
+        "link": "https://news.yahoo.co.jp/articles/c49fa6b933af3446c89b58a1d8a536911c548fb7?source=rss",
+        "summary": "2026年も進化を続ける生成AIですが、伸びているのはOpenAIのGPTやAnthropicのClaudeだけではありません。  無料で公開されていてダウンロードして自分のPCで動かせる「ローカルL",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "世界クラウド市場、年間売上高5000億ドルを突破　OpenAIら「ネオクラウド」5社が世界トップ30入り(ITmedia エンタープライズ)",
+        "link": "https://news.yahoo.co.jp/articles/7eca6a0de1488448aff10c9939220aea346a2a34?source=rss",
+        "summary": "Synergy Research Groupは2026年4月29日（現地時間）、クラウドインフラサービス市場に関する最新データを公表し、2026年第1四半期の企業による支出が前年同期から350億ドル",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高22℃ / 最低12℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+        "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+        "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fintech startup Parker files for bankruptcy",
+        "link": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+        "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+        "link": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
+        "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高22℃ / 最低12℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+        "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+        "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia has already committed $40B to equity AI deals this year",
+        "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+        "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高22℃ / 最低12℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ、最高22℃ / 最低12℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
+        "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+        "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Lebanon says Israeli strikes killed 39",
+        "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+        "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+        "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧雨 (強)、最高29℃ / 最低12℃、降水量 2mm"
+  }
+}
