@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "グーグル、超リアルな動画生成AI「Gemini Omni」発表か　海外報道(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/7baf7cfa794544869cd2f699506a2dd6770b63a3?source=rss",
+        "summary": "グーグルが新しい動画生成AI「Gemini Omni」を準備している可能性が浮上した。海外メディア「9to5Google」が5月11日、報じている。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "サイバー犯罪者がAI支援のもと強力なハッキングツールを作成、グーグルが警告(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/b97c2b3336ce4eb6485df062ed3bcca4d5e15c5d?source=rss",
+        "summary": "サイバー犯罪者がAIを用いてゼロデイ攻撃（ゼロデイ・エクスプロイト）を開発したことが判明した。テック大手のグーグルが最新報告で明らかにしたところによれば、これは不法行為のためにAIがソフトウェアを解析",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "日立とX LABS、北米AIデータセンター向けに「エネルギーパーク」を共同開発(ZDNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/f50db71c30cd5c439a53aee1270672420922de7b?source=rss",
+        "summary": "日立製作所と米国のエネルギーインフラ投資・運営会社のX LABSは5月12日、北米のAIデータセンター向けに、GW級の電力を供給する「エネルギーパーク」の開発で戦略的パートナーシップを締結したと発表",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高24℃ / 最低14℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+        "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+        "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+        "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+        "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+        "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+        "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高24℃ / 最低14℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+        "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+        "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+        "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+        "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高24℃ / 最低14℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ、最高24℃ / 最低14℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump says Iran ceasefire is on 'massive life support'",
+        "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+        "source": "BBC News"
+      },
+      {
+        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+        "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+        "source": "BBC News"
+      },
+      {
+        "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+        "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+        "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+        "link": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel passes a law that permits the death penalty and public trials for those involved in the unprecedented Hamas-led attacks.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高22℃ / 最低7℃"
+  }
+}
