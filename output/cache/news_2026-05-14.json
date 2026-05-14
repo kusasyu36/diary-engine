@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アマゾン、買い物AIをアレクサに統合　価格チェックから自動注文まで対応(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/1bb5a7c65c8c917904213e7d9594060cf651bd87?source=rss",
+        "summary": "米アマゾンは5月13日、買い物や価格比較など複数の機能に対応した購買用AI「Alexa for Shopping」を公開した。提供対象は米国のユーザーで、今後1週間以内に順次展開する。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "評価額3847億円の音楽生成AI「Suno」、商業的成功を収めるか(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/053908c16a209ec08b0f549e3b5307614489b0da?source=rss",
+        "summary": "米スタートアップSuno（スーノ）は、人工知能（AI）を使った音楽生成アプリで、世界の数百万人の楽曲制作の仕方を根本から変えつつある。同時に、レコード会社や怒れるアーティストとの対立も抱えている。だが",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Jane Street、ビットコインETFとStrategy株を8.4億ドル削減──ETH・AI関連へ資金シフト(NADA NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/c33e57a98ec5febd3bc4bb58b3223f55bbea6928?source=rss",
+        "summary": "・Jane Streetは2026年第1四半期、ビットコインETFとStrategy株へのエクスポージャーを8億4000万ドル超削減する一方、イーサリアムETFのポジションを約8200万ドル積み増した",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高24℃ / 最低15℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+        "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+        "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+        "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+        "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+        "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+        "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高24℃ / 最低15℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+        "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+        "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+        "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+        "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高24℃ / 最低15℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高24℃ / 最低15℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+        "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+        "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+        "summary": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+        "link": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+        "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高16℃ / 最低10℃"
+  }
+}

@@ -2,7 +2,7 @@
   "id": "hinata",
   "display_name": "星野 ひなた",
   "start_date": "2026-04-07",
-  "current_day_num": 22,
+  "current_day_num": 23,
   "fields": {
     "age": 15,
     "occupation": "東京都内の公立中学3年生（成績は中の上、ただしテスト・レポートはAI製）",
@@ -47,6 +47,10 @@
     },
     {
       "label": "AI批判への反論とAI推進の決意",
+      "status": "done"
+    },
+    {
+      "label": "AIによる物理世界への進出を目撃",
       "status": "done"
     }
   ],
@@ -116,6 +120,12 @@
       "summary": "AIが道路の穴を検知・修復するニュースを知り、AIの現実世界への影響力を実感。",
       "day_num": 22,
       "in_world_date": "2026-04-28"
+    },
+    {
+      "label": "AIによる物理世界での問題解決の具体例を目撃",
+      "summary": "AIが道路の穴を直すニュースを見て、自身のビジネスアイデアの実現可能性を確信した。",
+      "day_num": 23,
+      "in_world_date": "2026-04-29"
     }
   ]
 }
