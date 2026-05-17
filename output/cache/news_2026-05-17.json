@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "企業の生成AI活用、大企業は46.5％に　一方で半数が情報の正確性に懸念　帝国データバンク調査(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/95f2c8f5ccbd6966e39310839b92f6c8bde54796?source=rss",
+        "summary": "帝国データバンクは5月14日、生成AIに関する企業の動向調査結果を公表した。業務で生成AIを「活用している」と回答した企業は34.5％に達し、そのうち86.7％が「業務への効果が出ている」と回答。文",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "なぜ米国メガリテーラーは自社AIアシスタントを育成するのか？ 理由は顧客接点を外部のAIに渡さない＋コモディティ化を防ぐ(ネットショップ担当者フォーラム)",
+        "link": "https://news.yahoo.co.jp/articles/22b038b73873d391b0067a65a7063b129dccb908?source=rss",
+        "summary": "AIエージェントが消費者の代わりに買い物をする――。そんな購買体験が、いよいよ現実味を帯びてきました。生成AIの進化によって、消費者の情報収集の起点は大きく変化。これまで主流だった「検索して比較する」",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "“基幹系AI”の実装をオラクルクラウドで進める国産SaaS事業者　データ×業務×ガバナンスが競争優位性に(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/59d06182f0f0e9c6ea0ed3a20b2cef5acc797f3b?source=rss",
+        "summary": "日本オラクルは、国内のISV・SaaS事業者へのAI実装支援に関する説明会を開催。同社が「基幹系AI」と位置づける業務プロセスを実行するAIの実装について、その支援策やウイングアーク１ｓｔ、NSW、ソ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 快晴、最高28℃ / 最低13℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Apple’s Siri revamp could include auto-deleting chats",
+        "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+        "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+        "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+        "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 快晴、最高28℃ / 最低13℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+        "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+        "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 快晴、最高28℃ / 最低13℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 快晴、最高28℃ / 最低13℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+        "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+        "source": "BBC News"
+      },
+      {
+        "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+        "source": "BBC News"
+      },
+      {
+        "title": "How worrying is the Ebola outbreak in DR Congo?",
+        "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+        "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+        "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高31℃ / 最低17℃"
+  }
+}
