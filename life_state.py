@@ -43,6 +43,44 @@ from pathlib import Path
 from typing import Any
 
 
+def _normalize_relationships(value: Any) -> dict[str, str]:
+    """LLM が relationships を list 形式で返しても dict に揃える。
+
+    受け付ける形:
+      - dict[str, str]                            → そのまま
+      - list[dict{name|who|person, summary|desc|description|relation}]
+      - list[str]                                 → "key1", "key2"... を仮キーに
+    壊れた値は無視して空 dict を返す。
+    """
+    if not value:
+        return {}
+    if isinstance(value, dict):
+        return {str(k): str(v) for k, v in value.items() if v is not None}
+    if isinstance(value, list):
+        out: dict[str, str] = {}
+        for i, item in enumerate(value):
+            if isinstance(item, dict):
+                key = (
+                    item.get("name")
+                    or item.get("who")
+                    or item.get("person")
+                    or item.get("relation")
+                    or f"関係{i+1}"
+                )
+                desc = (
+                    item.get("summary")
+                    or item.get("desc")
+                    or item.get("description")
+                    or item.get("detail")
+                    or ""
+                )
+                out[str(key)] = str(desc)
+            elif isinstance(item, str):
+                out[f"関係{i+1}"] = item
+        return out
+    return {}
+
+
 class LifeState:
     """キャラクターの可変層を扱う。Storage / Reflection と同じ append-only 系列。"""
 
@@ -111,7 +149,7 @@ class LifeState:
             if v not in (None, "", []):
                 lines.append(f"- {label}: {v}")
 
-        rel = f.get("relationships") or {}
+        rel = _normalize_relationships(f.get("relationships"))
         if rel:
             lines.append("- 主な人間関係:")
             for who, desc in rel.items():
@@ -197,10 +235,14 @@ class LifeState:
         if new_fields:
             cur = self.data.setdefault("fields", {})
             for key, val in new_fields.items():
-                if key == "relationships" and isinstance(val, dict):
-                    rel = cur.setdefault("relationships", {})
-                    rel.update(val)
-                    applied.append(f"fields.relationships({len(val)})")
+                if key == "relationships":
+                    normalized = _normalize_relationships(val)
+                    if not normalized:
+                        continue
+                    rel = _normalize_relationships(cur.get("relationships"))
+                    rel.update(normalized)
+                    cur["relationships"] = rel
+                    applied.append(f"fields.relationships({len(normalized)})")
                 else:
                     cur[key] = val
                     applied.append(f"fields.{key}")
