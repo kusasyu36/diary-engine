@@ -1,0 +1,91 @@
+{
+  "ren": {
+    "items": [],
+    "weather": "Tokyo 快晴、最高27℃ / 最低13℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Apple’s Siri revamp could include auto-deleting chats",
+        "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+        "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+        "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+        "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 快晴、最高27℃ / 最低13℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+        "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+        "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 快晴、最高27℃ / 最低13℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 快晴、最高27℃ / 最低13℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+        "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+        "source": "BBC News"
+      },
+      {
+        "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+        "source": "BBC News"
+      },
+      {
+        "title": "How worrying is the Ebola outbreak in DR Congo?",
+        "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+        "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+        "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 晴れ時々曇り、最高36℃ / 最低19℃"
+  }
+}
