@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "G7財務相・中銀総裁会議が開幕 世界経済やAIリスクなど議論へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124781000.html",
+        "summary": "G7＝主要7か国の財務相・中央銀行総裁会議がフランス・パリで始まりました。イラン情勢を受けて混乱が続く世界経済や金融市場の安定に向けた対応のほか、金融システムへのリスクも指摘される新たなAIモデルをめぐっても議論が行われる見通しです。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民AI・オンチェーン金融構想PTが提言(NADA NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/83754240300182437b247147d6849f8dbde414c6?source=rss",
+        "summary": "自民党「次世代のAI・オンチェーン金融構想PT」がまとめた提言が5月19日、公表された。同PTは12日の第5回会合で提言案をまとめていたが、この日の自民党政調審議会で了承された。   この日、NADA",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "メガネ店「opteria-Glassias」、代表の過去の発信内容から開発したAIを導入(BCN)",
+        "link": "https://news.yahoo.co.jp/articles/0a75955945b9d257dfddb77115c9c2e35c624a74?source=rss",
+        "summary": "ojimは5月15日に、同社の代表である伊藤次郎氏による過去の発信内容をもとに開発したAI「あいじろう」の運用を、同社が運営する東京・吉祥寺にてメガネ店「opteria-Glassias（オプテリア",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高28℃ / 最低15℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+        "link": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+        "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OSHA probing worker death at SpaceX’s Starbase site",
+        "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+        "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+        "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+        "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高28℃ / 最低15℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+        "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+        "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高28℃ / 最低15℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高28℃ / 最低15℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump says he called off new Iran attack at request of Gulf states",
+        "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+        "source": "BBC News"
+      },
+      {
+        "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+        "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+        "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+        "source": "BBC News"
+      },
+      {
+        "title": "At least 131 dead in Ebola outbreak in DR Congo, official says",
+        "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+        "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+        "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+        "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高37℃ / 最低22℃"
+  }
+}
