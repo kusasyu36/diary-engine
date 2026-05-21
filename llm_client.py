@@ -53,6 +53,14 @@ class AllKeysExhausted(QuotaExhausted):
     pass
 
 
+class EmptyResponse(Exception):
+    """LLM が空応答を返した (safety filter / RECITATION / 空生成等)。
+    同じプロンプトで再試行しても結果は変わらないことが多いので、
+    fallback_model 経由でモデルを変えての再試行を促す。
+    """
+    pass
+
+
 def _is_quota_error(err: Exception) -> bool:
     """例外メッセージを見て「枠切れ系のエラー」かどうか判定する。"""
     msg = str(err)
@@ -111,9 +119,19 @@ def call_llm(
         return _do(primary)
     except Exception as primary_err:
         msg = str(primary_err)
-        is_retriable = _is_quota_error(primary_err) or "503" in msg or "UNAVAILABLE" in msg
+        is_empty = isinstance(primary_err, EmptyResponse)
+        is_retriable = (
+            _is_quota_error(primary_err)
+            or "503" in msg or "UNAVAILABLE" in msg
+            or is_empty
+        )
         if fallback_model and is_retriable:
-            reason = "枠切れ" if _is_quota_error(primary_err) else "server error"
+            if is_empty:
+                reason = "empty response"
+            elif _is_quota_error(primary_err):
+                reason = "枠切れ"
+            else:
+                reason = "server error"
             print(f"    🔄 {primary} {reason} → fallback: {fallback_model}")
             try:
                 return _do(fallback_model)
@@ -276,7 +294,24 @@ def _call_gemini(
                 config=types.GenerateContentConfig(**config_kwargs),
                 contents=user_prompt,
             )
-            return response.text
+            text = response.text
+            if text is None or text == "":
+                finish_reason = None
+                safety_ratings = None
+                try:
+                    cand = response.candidates[0]
+                    finish_reason = getattr(cand, "finish_reason", None)
+                    safety_ratings = getattr(cand, "safety_ratings", None)
+                except (AttributeError, IndexError, TypeError):
+                    pass
+                prompt_feedback = getattr(response, "prompt_feedback", None)
+                raise EmptyResponse(
+                    f"Gemini returned empty text. model={model} key={label} "
+                    f"finish_reason={finish_reason} "
+                    f"safety_ratings={safety_ratings} "
+                    f"prompt_feedback={prompt_feedback}"
+                )
+            return text
         except Exception as e:
             err_msg = str(e)
             if _is_quota_error(e):
