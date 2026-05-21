@@ -68,6 +68,13 @@ def _is_quota_error(err: Exception) -> bool:
             or "quota" in msg.lower() or "limit" in msg.lower())
 
 
+def _is_server_error(err: Exception) -> bool:
+    """5xx 系のサーバ一時障害かどうか判定する (500/502/503/UNAVAILABLE)。"""
+    msg = str(err)
+    return ("500" in msg or "502" in msg or "503" in msg
+            or "UNAVAILABLE" in msg or "Bad Gateway" in msg)
+
+
 def call_llm(
     system_prompt: str,
     user_prompt: str,
@@ -122,7 +129,7 @@ def call_llm(
         is_empty = isinstance(primary_err, EmptyResponse)
         is_retriable = (
             _is_quota_error(primary_err)
-            or "503" in msg or "UNAVAILABLE" in msg
+            or _is_server_error(primary_err)
             or is_empty
         )
         if fallback_model and is_retriable:
@@ -184,10 +191,8 @@ def _retry(fn, max_retries: int = 1, **kwargs) -> str:
             last_err = e
             msg = str(e)
 
-            is_quota = ("429" in msg or "RESOURCE_EXHAUSTED" in msg
-                        or "quota" in msg.lower())
-            is_server = ("503" in msg or "UNAVAILABLE" in msg
-                         or "500" in msg)
+            is_quota = _is_quota_error(e)
+            is_server = _is_server_error(e)
 
             if not (is_quota or is_server):
                 # クォータでもサーバ障害でもない → リトライ不可
@@ -320,8 +325,8 @@ def _call_gemini(
                 last_quota_err = e
                 print(f"    🔑 {label} 枠切れ → 次のキーを試行")
                 continue
-            if "503" in err_msg or "UNAVAILABLE" in err_msg:
-                # サーバー混雑: このキーは一時的に使えないが、別キーなら通るかも
+            if _is_server_error(e):
+                # サーバー混雑/障害 (502/503): このキーは一時的に使えないが、別キーなら通るかも
                 print(f"    🔑 {label} server error → 次のキーを試行")
                 last_quota_err = e
                 continue
