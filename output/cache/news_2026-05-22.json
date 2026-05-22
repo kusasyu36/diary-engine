@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "Anthropicとマイクロソフトの契約は、AIインフラの大きな転換を映し出す(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/e06f69e2f77dc04228171d7929eb2e5d4c5d2dc5?source=rss",
+        "summary": "現在AI分野で最も大きな話題の1つは、ここ数年で目覚ましく規模を拡大してきたある企業に関するものだ。エージェント型モデルで広く知られる存在となり、AIの安全性をめぐる懸念をめぐって、大口顧客の1つであ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "VAIOが個人向け製品を統一価格で提供する「指定価格制度」を開始(ITmedia PC USER)",
+        "link": "https://news.yahoo.co.jp/articles/cc0507d31924354ad69f5aba43c327a6c3c77bc0?source=rss",
+        "summary": "VAIOは5月22日、同社製個人向け製品の販売価格をメーカー側が指定し同一価格での販売を実施する「指定価格制度」を発表、本日より開始する。対象となるのは2026年5月22日発売以降の個人向け新製品だ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "若年層を中心に好評の「dynabook G／GS」シリーズに新モデル、軽量AIノートPCを発売(BCN)",
+        "link": "https://news.yahoo.co.jp/articles/68d843342b2e09f070a8d51e95575c29424037f9?source=rss",
+        "summary": "Dynabookは、若年層を中心に好評の13.3型モバイルノートPC「dynabook G／GS」シリーズに、Copilot＋PCに準拠した「dynabook G7」を新たにラインアップした。5in",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高15℃ / 最低13℃、降水量 22mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+        "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+        "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+        "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+        "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+        "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+        "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+        "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+        "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高15℃ / 最低13℃、降水量 22mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+        "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+        "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+        "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+        "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+        "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+        "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高15℃ / 最低13℃、降水量 22mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高15℃ / 最低13℃、降水量 22mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+        "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+        "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+        "source": "BBC News"
+      },
+      {
+        "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
+        "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+        "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+        "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+        "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨、最高15℃ / 最低12℃、降水量 9mm"
+  }
+}
