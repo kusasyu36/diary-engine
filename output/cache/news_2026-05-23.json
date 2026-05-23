@@ -1,0 +1,104 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "人型ロボが家庭に普及するのは少なくとも3〜5年先──ブームに異を唱えるSanctuary AI(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/0e3b478ab7ee7a7335f15b101175a03fdb806b8b?source=rss",
+        "summary": "ヒューマノイドロボット（二足歩行型ロボット）が家庭で仕事を得るのは、最後の最後になるのだろうか。Sanctuary AI（サンクチュアリAI）のジェームズ・ウェルズCEOによれば、おそらくそうだ。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "マスクやザッカーバーグなど大富豪らがトランプのAI大統領令を阻止、その理由とは(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/eb62a3245a7ccac03eca7f660aadbff39b0c2fdd?source=rss",
+        "summary": "ドナルド・トランプ大統領は、複数のテック企業幹部からの圧力により、米国時間5月21日に予定されていた新しいAI大統領令への署名を直前で見送ったと報じられている。この業界幹部には、大富豪のイーロン・マス",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高18℃ / 最低12℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+        "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+        "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+        "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+        "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+        "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+        "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高18℃ / 最低12℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+        "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+        "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+        "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高18℃ / 最低12℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高18℃ / 最低12℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "At least 82 dead in Chinese coal mine explosion, state media reports",
+        "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+        "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+        "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+        "source": "BBC News"
+      },
+      {
+        "title": "SpaceX launches massive Starship V3 rocket on test flight",
+        "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+        "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Rubio tries to reassure Nato allies over US troop deployments",
+        "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+        "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨、最高14℃ / 最低10℃、降水量 9mm"
+  }
+}
