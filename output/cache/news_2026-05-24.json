@@ -1,0 +1,104 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "AI搭載のエクソスケルトン「Hypershell Xシリーズ」新型3モデルが発売　TUV認証取得の世界初モデルも(テクノエッジ)",
+        "link": "https://news.yahoo.co.jp/articles/910f86a68b3e6a6b33535ac24239855d0c50abca?source=rss",
+        "summary": "ウェアラブル外骨格メーカーのHypershellは、AI駆動の動作制御アルゴリズム「HyperIntuition」を搭載したエクソスケルトン（外骨格）新製品「New Hypershell Xシリーズ」",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "あの“ロボットマラソン”でHONORが優勝していた　スマホ技術を応用した「Robot Phone」から家庭用ロボット実現へ、AI戦略の全貌(ITmedia Mobile)",
+        "link": "https://news.yahoo.co.jp/articles/f345bfb1ed426b8cb689de190d462c730a6a4196?source=rss",
+        "summary": "HONORは3月に発表した「Robot Phone」によって、スマートフォンの新しい形を提示しました。そのイベントでは、ロボット技術の存在も明らかになり、ステージでは自律的にダンスするロボットが登場",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高20℃ / 最低13℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+        "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+        "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These special phone and app features can help protect you from spyware",
+        "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+        "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+        "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+        "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高20℃ / 最低13℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+        "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+        "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高21℃ / 最低13℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高21℃ / 最低13℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Suspect killed after opening fire on Secret Service near White House",
+        "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+        "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+        "source": "BBC News"
+      },
+      {
+        "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+        "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+        "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨 (弱)、最高20℃ / 最低12℃、降水量 2mm"
+  }
+}
