@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "大学や企業の小型衛星など公開 H3ロケットで6月打ち上げへ",
+        "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130901000.html",
+        "summary": "来月、H3ロケットで打ち上げられる大学や企業などが開発した5つの小型衛星が25日、鹿児島県の種子島宇宙センターで報道関係者に公開されました。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "データセンターを渇望するAI企業、反発する住民　米調査で浮き彫りに(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/9d5204388469dd53478fc10d165a96caed756823?source=rss",
+        "summary": "人工知能（AI）を支えるため、演算用の大量の電力と冷却用の水を消費するデータセンターの建設に対し、地元の反発が強まっている。Gallupが発表した調査結果によると、米国人の71％が居住地域での新しい",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "パワポにChatGPTを召喚できるアドイン、OpenAIがβ版公開　スライド作成から編集まで指示するだけ(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/30af4560fb49ee2b96dd36280282ef2bffd7f37f?source=rss",
+        "summary": "米OpenAIは5月22日（現地時間）、Microsoft PowerPointと連携するアドイン「ChatGPT for PowerPoint」のβ版を公開した。PowerPointの操作画面から",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高25℃ / 最低16℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "summary": "We're in the transition period -- all of us.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+        "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+        "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "6 kitchen gadgets that make adulting feel easier",
+        "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+        "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: Robotaxi reality check",
+        "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高25℃ / 最低16℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "summary": "We're in the transition period -- all of us.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高25℃ / 最低16℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高25℃ / 最低16℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Rubio says 'solid' Iran deal may come on Monday",
+        "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+        "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Oil prices slide on hopes of US-Iran peace deal",
+        "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+        "source": "BBC News"
+      },
+      {
+        "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+        "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+        "summary": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+        "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+        "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨 (弱)、最高24℃ / 最低16℃、降水量 8mm"
+  }
+}
