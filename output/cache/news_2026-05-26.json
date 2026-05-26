@@ -1,0 +1,91 @@
+{
+  "ren": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高26℃ / 最低16℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "What ClickUp’s mass layoff tells us about the future of work",
+        "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+        "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The pope’s AI encyclical isn’t really about AI",
+        "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+        "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+        "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+        "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+        "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高26℃ / 最低16℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "The pope’s AI encyclical isn’t really about AI",
+        "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+        "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+        "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "summary": "We're in the transition period -- all of us.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高26℃ / 最低16℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高26℃ / 最低16℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US launches new strikes on Iran, targeting missile sites and boats",
+        "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+        "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+        "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Deal with US not imminent, Iran says",
+        "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+        "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高24℃ / 最低18℃"
+  }
+}
