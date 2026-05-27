@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "北朝鮮 キム総書記 AI誘導の巡航ミサイルなどの発射実験視察",
+        "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132461000.html",
+        "summary": "北朝鮮のメディアは、キム・ジョンウン（金正恩）総書記の立ち会いのもと、26日、AI＝人工知能による誘導システムを導入した戦術巡航ミサイルなどの発射実験が行われたと伝えました。北朝鮮が26日、朝鮮半島西側の黄海に向けて、短距離の弾道ミサイルなど複数の種類の飛しょう体を発射したことを指すとみられます。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "GMOあおぞらネット銀行、「AIのためのAI銀行」実現めざす(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/7ef12112faa377d97f418babfb9bb105be700a7f?source=rss",
+        "summary": "GMOあおぞらネット銀行は5月27日、顧客対応・社内業務への本格的なAIエージェントの導入と、外部向けAPIの整備を柱とする中長期戦略を公表した。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "レノボ、日本初の水冷AIインフラ検証拠点「Neptuneラボ」を開設--MCDRらと共創(ZDNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/68293ca292e0e8d435397b4c7ad63053ce2558f6?source=rss",
+        "summary": "レノボ・ジャパンは5月26日、AI推論ワークロードの本格化に伴う電力・冷却課題の解決を目指し、日本初となる水冷AIインフラ検証拠点「Neptuneラボ」を開設した。  　MCデジタル・リアルティ（M",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低17℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+        "link": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+        "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+        "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+        "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+        "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+        "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+        "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+        "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低17℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+        "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+        "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+        "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+        "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The pope’s AI encyclical isn’t really about AI",
+        "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低17℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高27℃ / 最低17℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
+        "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+        "summary": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+        "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+        "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+        "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+        "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+        "summary": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington にわか雨、最高29℃ / 最低20℃、降水量 3mm"
+  }
+}
