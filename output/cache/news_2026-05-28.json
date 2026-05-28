@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "「モームリ」から退職希望者紹介 弁護士起訴内容認める",
+        "link": "http://www3.nhk.or.jp/news/html/20260528/k10015134021000.html",
+        "summary": "退職代行サービス「モームリ」の運営会社の元社長らから、退職希望者の紹介を受けたとして在宅起訴された弁護士の初公判が開かれ、弁護士は起訴された内容を認め「スタートアップの会社に協力したい気持ちだった。私のせいで元社長らが起訴され、申し訳ない」と述べました。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "GSX、生成AIを組み込んだWebアプリケーションの脆弱性を診断する「AIプロンプト診断」を提供(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/617d913ba170c10f0e46e56d619c8d71e65f3de4?source=rss",
+        "summary": "グローバルセキュリティエキスパート株式会社（以下、GSX）は27日、生成AIをセキュアに活用するための「AIプロンプト診断（AI Prompt Security）」サービスの提供を開始した。  　サ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "アマゾン、AIで映像制作を支援　プライム・ビデオで配信予定の3作品とは(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/3bd5d3921983c3b6baf28b3e5a0650985e9d3640?source=rss",
+        "summary": "Amazonは生成AIの取り組みを進めており、次はエンターテインメント分野で「Prime Video」の視聴者が、3本の新しいアニメシリーズでその成果に触れることになりそうだ。同社は米国時間5月27",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低19℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+        "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+        "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why Google’s AI can’t spell Google (or anything else)",
+        "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "summary": "Google is embarrassing itself, again.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian will deliver the first R2 SUVs on June 9",
+        "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+        "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+        "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+        "summary": "The Series B round was led by Battery Ventures.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低19℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Why Google’s AI can’t spell Google (or anything else)",
+        "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "summary": "Google is embarrassing itself, again.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+        "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+        "summary": "The Series B round was led by Battery Ventures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+        "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+        "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低19℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低19℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US strikes Iran targets for second time in three days",
+        "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+        "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israel strikes southern Lebanon after evacuation orders",
+        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+        "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+        "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+        "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高26℃ / 最低17℃"
+  }
+}
