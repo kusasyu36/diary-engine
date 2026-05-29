@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米司法省 性的暴行でトランプ大統領を告発の女性を捜査",
+        "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134521000.html",
+        "summary": "アメリカのトランプ大統領からかつて性的暴行を受けたと訴えていた女性が、裁判に関連してうその証言を行った疑いがあるとして、現地メディアは、司法省が捜査を始めたと伝えました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米アンソロピック 「ミュトス」級AI 数週間以内に全顧客提供へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134691000.html",
+        "summary": "アメリカのAI新興企業アンソロピックは28日、サイバー攻撃に悪用されるおそれがあるとして一般への公開を見送っていた高性能なAIモデル「クロード・ミュトス」と同じ水準のモデルを数週間以内にすべての顧客に提供できる見通しだと発表しました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "SCSK、AI駆動型開発基盤「DevCond.AI」を導入し案件に適用(BCN)",
+        "link": "https://news.yahoo.co.jp/articles/0cee65259921932e236bda9ee7f4d5e474621d7a?source=rss",
+        "summary": "SCSKは5月29日、システム開発・保守における生成AI活用を組織的に推進するAI駆動型開発基盤「DevCond.AI」を開発したと発表した。同社内で活用し、顧客のシステム開発・保守において生成AI",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高30℃ / 最低19℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+        "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+        "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+        "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+        "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+        "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+        "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+        "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+        "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高30℃ / 最低19℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+        "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+        "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Asana acquires no-code agent-builder StackAI",
+        "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+        "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky embraces long-form content to counter X Articles",
+        "link": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
+        "summary": "In its latest update, Bluesky is getting into long-form content.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高30℃ / 最低19℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高30℃ / 最低19℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Russian drone crashes into apartment building in Romania",
+        "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The drone hit a residential building, injuring two people and causing a fire, officials said.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+        "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+        "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Are US and Iran close to peace or sliding back to war?",
+        "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+        "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+        "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The expansion in control by Israel would contradict the terms of the ceasefire  Israel and Hamas agreed to in October 2025.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 晴れ、最高27℃ / 最低13℃"
+  }
+}
