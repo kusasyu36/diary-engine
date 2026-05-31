@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "Google 500万人1兆のウェアラブルデータに基づく「ヘルスケアAI基盤モデル」を開発(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/8a09b5e4afb36a2cc149fe7c8c0570fe47c41bb6?source=rss",
+        "summary": "Googleの研究チームが500万人のウェアラブル端末から得られた1兆のヘルスケアデータを用いて、自然言語による健康状態の説明を生成するAI基盤モデルを発表した。このモデルは35種類の健康指標予測タ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AIの「脳」の中の解明に挑む新興企業Goodfire──AIは概念を「形」で捉えていた(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/7a0dadf5ef22a27d72fc756c9f6d7309a0ce1b26?source=rss",
+        "summary": "AIチャットボットに質問を入力する。数秒後、ほら、回答が目の前に表示される。しかし、そのボットがなぜその答えを出したのかは、今なお謎に近い。開発した人々にとってさえそうである。AIが実際にどう働いてい",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AMDのCEO、リサ・スーがMIT卒業式で述べた祝辞「難問に挑め、AI時代の未来は人間が決める」(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/17fb88945908038d0667d8f7a725562f7ba1e613?source=rss",
+        "summary": "今年の卒業式をめぐってさまざまな騒ぎがある中、私はAMDのCEOであるリサ・スーの卒業式祝辞に出席できたことをうれしく思った。スー自身もMITコミュニティの一員であり、人間性、AI、そして未来について",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低17℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+        "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+        "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This weekend’s two biggest movies were both directed by YouTubers",
+        "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+        "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snap alums unveil Ghost Angels fund",
+        "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+        "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+        "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低17℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Meta is reportedly developing an AI pendant",
+        "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "summary": "Meta seems to be making big bets on AI-powered hardware.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+        "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+        "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+        "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+        "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低17℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低17℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Hundreds arrested in France after wild Champions League celebrations",
+        "link": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+        "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+        "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+        "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+        "link": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
+        "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 快晴、最高25℃ / 最低10℃"
+  }
+}
