@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "ソフトバンクG 仏で14兆円投じAIデータセンター開発へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260601/k10015136711000.html",
+        "summary": "世界的にAIの開発競争が激しくなる中、ソフトバンクグループはフランスでAI向けのデータセンターを建設する計画を発表しました。投資額は最大で750億ユーロ、日本円でおよそ14兆円を見込んでいて、アメリカに続きヨーロッパでも巨額の投資に乗り出します。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "全編AI生成の映画がトライベッカ映画祭へ　ネットは賛否両論(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/bb6056a661a71cb7c8fd38b5e6d79e61893498d5?source=rss",
+        "summary": "ライト、カメラ……人工知能（AI）？  　2026年初めにイランで起きた抗議活動への暴力と虐殺に着想を得た長編映画「Dreams of Violets」が、米国時間6月10日にトライベッカ映画祭で上",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】(NADA NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/2965db3cb72f16098cb222e7878c96150c1cef75?source=rss",
+        "summary": "2026年5月25日、マルタ金融サービス庁（MFSA）の監督下でステーブルコインを発行するStablRが、自社システムへの不正アクセスを公表しました。発行ウォレットが侵害され、米ドル建てのUSDRとユ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高30℃ / 最低16℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+        "summary": "Environmental activist Erin Brockovich has a new mission.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This weekend’s two biggest movies were both directed by YouTubers",
+        "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+        "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+        "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+        "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
+        "link": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高30℃ / 最低16℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+        "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+        "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Making sense of the debate over AI psychosis",
+        "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+        "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is reportedly developing an AI pendant",
+        "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "summary": "Meta seems to be making big bets on AI-powered hardware.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高30℃ / 最低16℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高30℃ / 最低16℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+        "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran and the US say they have carried out fresh attacks around the Strait of Hormuz, the third known escalation in a week.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+        "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+        "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+        "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+        "summary": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高26℃ / 最低13℃"
+  }
+}
