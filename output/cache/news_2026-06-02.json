@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米AI新興企業「アンソロピック」新規株式公開を申請と発表",
+        "link": "http://www3.nhk.or.jp/news/html/20260602/k10015137731000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は1日、証券取引委員会にIPO＝新規株式公開の申請をしたと発表しました。複数の現地メディアは、早ければことしの秋ごろに上場する見通しだと伝えています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "ソフトバンクG 仏で14兆円投じAIデータセンター開発へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260601/k10015136711000.html",
+        "summary": "世界的にAIの開発競争が激しくなる中、ソフトバンクグループはフランスでAI向けのデータセンターを建設する計画を発表しました。投資額は最大で750億ユーロ、日本円でおよそ14兆円を見込んでいて、アメリカに続きヨーロッパでも巨額の投資に乗り出します。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "「生成AIの回答、口コミより信頼できる」　買い物の情報源として……博報堂調査(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/217f9b1a5aa1580a8887f8d49c8a35021ddb41ad?source=rss",
+        "summary": "買い物時、生成AIの回答を信頼する人は、ECサイトのレビューや、個人のSNSやブログを信頼する人より多い――博報堂のシンクタンク・博報堂買物研究所が、こんな調査結果を発表した。買い物で生成AIを活用",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低18℃、降水量 4mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+        "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+        "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Alphabet plans to raise $80B to pay for AI buildout",
+        "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+        "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+        "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+        "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低18℃、降水量 4mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Alphabet plans to raise $80B to pay for AI buildout",
+        "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+        "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statemen",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+        "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低18℃、降水量 4mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低18℃、降水量 4mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Massive Russian attack on cities across Ukraine kills at least 13 people",
+        "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rescuers are racing to find people feared trapped beneath rubble after the overnight missile and drone attack.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+        "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+        "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+        "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+        "summary": "The justice department says it  \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Three Ebola vaccines in development amid growing outbreak fears",
+        "link": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+        "summary": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高24℃ / 最低12℃"
+  }
+}
