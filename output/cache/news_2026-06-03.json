@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "トランプ大統領 AI安全対策の大統領令 不介入姿勢を転換か",
+        "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139491000.html",
+        "summary": "高度なAIモデルがサイバー攻撃などに悪用されるのを防ごうと、アメリカのトランプ大統領は2日、AI企業に対して新たなモデルを公開する前に、政府によるリスクの検証を受けるよう自主的な協力を求める大統領令に署名しました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "MSIブースは「RTX Spark」と「Intel Arc G」で熱い！　40周年記念モデルやAI制御ディスプレイ、ゴッホ、フリーレンまで、バラエティ豊かな現地レポート(ITmedia PC USER)",
+        "link": "https://news.yahoo.co.jp/articles/ee87c047724081ecd2a487ffc643f4772ba8be15?source=rss",
+        "summary": "COMPUTEX TAIPEI 2026のMSIブースでは、創立40周年を記念したアニバーサリーモデルをはじめ、最新プロセッサ搭載PCや、次世代のAIユーザーエクスペリエンスを体現する多彩な製品群が",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AIチャットでデザイン“瞬組み”　各社のデザインシステムに準拠　電通デジタル「HOZO」(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/a5bf04527dd7f6ec50d08ad092811980b5b69a14?source=rss",
+        "summary": "電通デジタルは6月3日、AIと自然言語で対話しながら、企業ごとのデザインシステムに準拠したWebサイトのUIを設計・実装する新手法「HOZO」（ホゾ）を開発し、同日から運用を始めたと発表した。",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高19℃ / 最低17℃、降水量 177mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+        "link": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+        "summary": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+        "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+        "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+        "link": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+        "summary": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse c",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+        "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+        "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高19℃ / 最低17℃、降水量 177mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+        "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+        "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+        "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+        "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+        "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+        "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高19℃ / 最低17℃、降水量 177mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高19℃ / 最低17℃、降水量 177mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+        "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+        "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+        "summary": "Kuwait says its international airport has been badly damaged by Iranian drones, and traffic is suspended.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
+        "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+        "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+        "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 晴れ、最高28℃ / 最低12℃"
+  }
+}
