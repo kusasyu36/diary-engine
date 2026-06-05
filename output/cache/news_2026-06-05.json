@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "日立 最新AI「クロード・ミュトス」導入 インフラ防御強化へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142001000.html",
+        "summary": "極めて高性能で悪用された場合の深刻なリスクが懸念されている最新のAIモデル「クロード・ミュトス」をめぐって、「日立製作所」は、開発企業と契約し利用できるようになったと明らかにしました。自社で手がけている鉄道などのインフラシステムへのサイバー攻撃の対策に役立てるとしています。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "TOEIC替え玉受験 中国籍の大学院生に猶予付き有罪判決",
+        "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142131000.html",
+        "summary": "英語能力テスト「TOEIC」の試験会場で他人になりすます「替え玉受験」を行ったとして中国籍の大学院生が有印私文書偽造などの罪に問われた裁判で、東京地方裁判所は、「犯行の実行役を担い、刑事責任は軽視できない」として、執行猶予の付いた懲役3年の有罪判決を言い渡しました。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "AI拡大で電力・水の消費が5年で倍増か 国連大学の報告書",
+        "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141031000.html",
+        "summary": "AIの普及でデータセンターの設置が各国で急拡大する中、その運用に欠かせない電力や水の消費量が2030年までに倍増するという報告書を国連大学の研究所がまとめ、環境に影響を及ぼす可能性があると指摘しています。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高19℃ / 最低16℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Mira Murati steps back into the spotlight, carefully",
+        "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+        "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+        "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+        "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高19℃ / 最低16℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高19℃ / 最低16℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高19℃ / 最低16℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+        "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+        "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+        "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+        "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高35℃ / 最低16℃"
+  }
+}
