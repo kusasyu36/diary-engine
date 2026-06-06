@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "トランプ大統領 AIの安全保障分野での利用加速を文書で指示",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142851000.html",
+        "summary": "アメリカのトランプ大統領はアメリカ軍やCIA＝中央情報局などに対し、AIの安全保障分野での利用を加速させるよう文書で指示しました。一方、AIが制御可能であることを明確にするとともに、国民に対する違法な監視などに使用されてはならないとしています。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "トランプ大統領 AIの安全保障分野での利用加速を文書で指示",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142851000.html",
+        "summary": "アメリカのトランプ大統領はアメリカ軍やCIA＝中央情報局などに対し、AIの安全保障分野での利用を加速させるよう文書で指示しました。一方、AIが制御可能であることを明確にするとともに、国民に対する違法な監視などに使用されてはならないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米大統領“AI企業の株式取得し 国民に利益還元する構想ある”",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142731000.html",
+        "summary": "アメリカのトランプ大統領は、政府がAI企業の株式の一部を取得し、そこから生まれる利益を国民に還元する構想があると明らかにしました。トランプ政権は、レアアース企業や半導体大手「インテル」の株式を取得する異例の措置を相次いで講じていて、構想の行方が注目されます。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高22℃ / 最低16℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+        "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+        "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Founders share VC horror stories, and some are naming names",
+        "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+        "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+        "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+        "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Startup Battlefield 200 applications officially close in 3 days",
+        "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+        "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高22℃ / 最低16℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+        "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+        "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+        "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+        "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高22℃ / 最低16℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高22℃ / 最低16℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+        "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+        "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+        "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高35℃ / 最低18℃"
+  }
+}
