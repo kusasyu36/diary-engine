@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "トランプ大統領 AIの安全保障分野での利用加速を文書で指示",
+        "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142851000.html",
+        "summary": "アメリカのトランプ大統領はアメリカ軍やCIA＝中央情報局などに対し、AIの安全保障分野での利用を加速させるよう文書で指示しました。一方、AIが制御可能であることを明確にするとともに、国民に対する違法な監視などに使用されてはならないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米Google、ノートPCで動作する軽量マルチモーダルAI Gemma 4 12B公開(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/f16426adbce169e1e632beed2a05a0c0225cf8f2?source=rss",
+        "summary": "米Googleは2026年6月3日、テキスト、画像、音声を直接処理できるオープンウェイトのマルチモーダルAIモデル「Gemma 4 12B」を発表した。パラメータ数は約120億で、16GBのメインメ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "板ガムサイズで、なんと「96GB」！  AIサーバー向けの超爆速メモリーを見た！(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/11e4270a7197d76df99141677efff2f40777d7ef?source=rss",
+        "summary": "6月2日から6月5日まで、アジア最大級のコンピューター見本市「COMPUTEX TAIPEI 2026」が台北で開催された。",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高20℃ / 最低16℃、降水量 8mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+        "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+        "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+        "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+        "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+        "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Trump administration might take an equity stake in OpenAI",
+        "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+        "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高20℃ / 最低16℃、降水量 8mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+        "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+        "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+        "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Trump administration might take an equity stake in OpenAI",
+        "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+        "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高20℃ / 最低16℃、降水量 8mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高20℃ / 最低16℃、降水量 8mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+        "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+        "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran says staff blocked from entering US after players given World Cup visas",
+        "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+        "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+        "link": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+        "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低20℃"
+  }
+}
