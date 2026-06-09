@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "司法長官に側近指名 トランプ政権人事で波紋",
+        "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145051000.html",
+        "summary": "アメリカのトランプ大統領は、司法長官代行を務めているブランチ氏を正式に長官に指名しました。トランプ大統領に忠実な姿勢を示すブランチ氏に対し、議員の一部からは反発の声も出ていて議会上院の承認に必要な支持を得られるか、不透明だという見方も出ています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "オープンAI 新規株式公開を申請 評価額は3月末時点で約136兆円",
+        "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144701000.html",
+        "summary": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、証券取引委員会に対し、IPO＝新規株式公開の申請を非公開で行ったことを明らかにしました。この企業の評価額はことし3月末時点でおよそ136兆円に達したとされ、生成AIの急速な普及をけん引した注目企業の上場に市場の関心が高まっています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "MetaMask、AIエージェント向けセルフカストディ型ウォレットを発表(NADA NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/774a0ddd754b7b577d4a5b69ab4d0b442f15f8d5?source=rss",
+        "summary": "Consensys（コンセンシス）が開発するセルフカストディ型ウォレットMetaMask（メタマスク）は6月8日、AIエージェント向けに設計されたセルフカストディ型ウォレット「MetaMask Age",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高22℃ / 最低19℃、降水量 17mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+        "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+        "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+        "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+        "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+        "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+        "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+        "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+        "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高22℃ / 最低19℃、降水量 17mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+        "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+        "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+        "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+        "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+        "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+        "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高22℃ / 最低19℃、降水量 17mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高22℃ / 最低19℃、降水量 17mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+        "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump tells BBC Netanyahu did not defy him",
+        "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+        "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+        "source": "BBC News"
+      },
+      {
+        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+        "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+        "summary": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高31℃ / 最低15℃"
+  }
+}

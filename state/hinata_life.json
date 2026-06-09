@@ -2,7 +2,7 @@
   "id": "hinata",
   "display_name": "星野 ひなた",
   "start_date": "2026-04-07",
-  "current_day_num": 46,
+  "current_day_num": 47,
   "fields": {
     "age": 15,
     "occupation": "東京都内の公立中学3年生（成績は中の上、ただしテスト・レポートはAI製）",
@@ -170,6 +170,10 @@
     },
     {
       "label": "AIへの巨額投資による未来インフラ化への確信",
+      "status": "done"
+    },
+    {
+      "label": "AIエージェントPCの登場と思考との一体化",
       "status": "done"
     }
   ],
@@ -359,6 +363,12 @@
       "summary": "OpenAIの発表を受け、AIがチャットの枠を超え、思考と直接繋がる未来への確信を深める。",
       "day_num": 46,
       "in_world_date": "2026-05-22"
+    },
+    {
+      "label": "AIエージェントPCの登場と思考との一体化",
+      "summary": "AIエージェントPCの登場により、思考とAIがデバイスを超えて一体化する未来を確信し、自身の可能性が拡張されることに興奮している。",
+      "day_num": 47,
+      "in_world_date": "2026-05-23"
     }
   ]
 }
