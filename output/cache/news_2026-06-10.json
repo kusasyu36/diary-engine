@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "株価 一時1600円超値下がり AI・半導体銘柄に売り注文広がる",
+        "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145901000.html",
+        "summary": "10日の東京株式市場、午後に入って売り注文が増え、日経平均株価の値下がり幅は1600円を超えました。これまで値上がりが続いてきたAIや半導体に関連した銘柄に売り注文が広がっているほか、イラン情勢の先行きに懸念が広がっていることも売り注文につながっています。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+        "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145721000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用されるおそれがあるとしてこれまで一般への提供は見送ってきましたが、悪用される可能性がある指示には直接答えないなどの対策を加えたとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米アップル AIアシスタント機能刷新を発表 開発者会議で",
+        "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145131000.html",
+        "summary": "アメリカのIT大手アップルは開発者向けの会議で、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AIを活用し、機能を刷新したと発表しました。複数のアプリから必要な情報を引き出して質問への回答やメールの作成でユーザーを支援するとしていて、AIアシスタント機能の提供をめぐって競争が激しくなる中、巻き返しにつながるかが課題となっています。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高22℃ / 最低18℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Meta signs first AI data center deal in India with Reliance",
+        "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+        "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
+        "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+        "summary": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google just fired a warning shot in the AI subscription price wars",
+        "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+        "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+        "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高22℃ / 最低18℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Meta signs first AI data center deal in India with Reliance",
+        "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+        "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google just fired a warning shot in the AI subscription price wars",
+        "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+        "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM joins race to build batteries for AI data centers and the grid",
+        "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+        "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高22℃ / 最低18℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高22℃ / 最低18℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+        "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US strikes Iran in response to downing of military helicopter",
+        "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+        "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+        "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
+        "summary": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
+        "source": "BBC News"
+      },
+      {
+        "title": "Twelve killed in mass shooting in Johannesburg, police say",
+        "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington にわか雨 (強)、最高33℃ / 最低21℃、降水量 38mm"
+  }
+}
