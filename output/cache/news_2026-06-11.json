@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アンソロピックがミュトス級AI「Fable 5」を公開──数日間の自律稼働が可能だが高コスト(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/10a56e273dc2197f0de2fb18593e5e389419aef7?source=rss",
+        "summary": "Anthropic（アンソロピック）が最も期待されていたモデルをリリースした。ここ数週間、同社のClaude Mythos（クロード・ミュトス）モデルをめぐる議論が続いてきたが、その流れを受けての提供",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "「Siri」の超進化版「Siri AI」は、メールや写真を理解し、アプリも操作(窓の杜)",
+        "link": "https://news.yahoo.co.jp/articles/f185f7ce8d94eed0b6cfe0df8d8dcd3449a666c3?source=rss",
+        "summary": "Appleは6月8日（日本時間）、独自の次世代技術「Apple Intelligence」を活用した、まったく新しいバージョンのアシスタント「Siri AI」を発表した。同日より開発者向けにテスト提",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/7d0279c61a00c6c68d912a7c77538a2cf89e16f2?source=rss",
+        "summary": "NECと米Anthropicは6月11日、三井住友フィナンシャルグループ（FG）など日本の大手金融機関8社と、生成AI「Claude」を活用した金融業務の効率化やサイバーセキュリティ強化に向けた共同",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": null
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+        "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+        "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei has just one direct report",
+        "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+        "summary": "If you doubted his genius, doubt no more.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why Andrew Yang is building instead of waiting for Washington",
+        "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+        "summary": "Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": null
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+        "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+        "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+        "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": null
+  },
+  "mimamori": {
+    "items": [],
+    "weather": null
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US and Iran exchange strikes across Middle East for second day in a row",
+        "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+        "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+        "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "The furious dispute over what caused Air India flight 171 to crash",
+        "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+        "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+        "summary": "India's government said 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高37℃ / 最低22℃"
+  }
+}

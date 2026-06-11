@@ -2,7 +2,7 @@
   "id": "president",
   "display_name": "ジェームズ・ハリントン",
   "start_date": "2026-04-07",
-  "current_day_num": 49,
+  "current_day_num": 50,
   "fields": {
     "age": 68,
     "occupation": "アメリカ合衆国 第48代大統領（就任2年目）",
@@ -171,6 +171,12 @@
       "summary": "イランとの歴史的な合意を「速攻」で成立させ、その盤石さに自負を持つ。",
       "day_num": 49,
       "in_world_date": "2026-05-25"
+    },
+    {
+      "label": "イランとの歴史的合意",
+      "summary": "不可能とされたイランとの交渉を「速攻」で成功させ、中東に安定をもたらしたと確信している。",
+      "day_num": 50,
+      "in_world_date": "2026-05-26"
     }
   ]
 }

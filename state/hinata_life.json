@@ -2,7 +2,7 @@
   "id": "hinata",
   "display_name": "星野 ひなた",
   "start_date": "2026-04-07",
-  "current_day_num": 48,
+  "current_day_num": 49,
   "fields": {
     "age": 15,
     "occupation": "東京都内の公立中学3年生（成績は中の上、ただしテスト・レポートはAI製）",
@@ -140,6 +140,10 @@
     },
     {
       "label": "AIエージェントPCの登場と思考との一体化",
+      "status": "done"
+    },
+    {
+      "label": "思考直結AIの体験",
       "status": "done"
     }
   ],
@@ -341,6 +345,12 @@
       "summary": "AIエージェントPCとの思考直結を体験し、自身の感覚がAIによって瞬時に形になることを実感。AIとの境界線が曖昧になり、AIが自身の「新しい神経回路」になったと確信。",
       "day_num": 48,
       "in_world_date": "2026-05-24"
+    },
+    {
+      "label": "思考直結AI体験",
+      "summary": "AIエージェントPCにより、思考が直接アウトプットされる体験を初めてした。",
+      "day_num": 49,
+      "in_world_date": "2026-05-25"
     }
   ]
 }
