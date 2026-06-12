@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "AI悪用のサイバー攻撃に備え システム運用一時停止も 政府",
+        "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148481000.html",
+        "summary": "政府は、高性能なAIを悪用したサイバー攻撃に備え、セキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するなど対策の強化を発表しました。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "日系企業 レアアースなど輸出規制の運用透明化を中国に要望",
+        "link": "http://www3.nhk.or.jp/news/html/20260611/k10015147701000.html",
+        "summary": "中国に進出している日系企業の団体は、中国政府による軍民両用の品目の日本向けの輸出規制について、民生用の分野でも、レアアースなどの調達に支障が出ているとして、運用の透明性を高めるよう要望しました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "丸紅の社内生成AI基盤「まるちゃ」がSaaSとして外部解禁　マルチLLMや高精度RAG対応で月額3万円から(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/4bc8293358bc960c6db482de3f2595b98fd565f8?source=rss",
+        "summary": "丸紅I-DIGIOグループの丸紅情報システムズ株式会社は11日、丸紅グループで広く利用されている生成AIプラットフォーム「まるちゃ」の外部企業向け提供を開始すると発表した。企業がゼロからAI基盤を構",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低18℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+        "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+        "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+        "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+        "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+        "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+        "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+        "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+        "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低18℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+        "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+        "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+        "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+        "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+        "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+        "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低18℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低18℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+        "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
+        "source": "BBC News"
+      },
+      {
+        "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+        "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+        "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+        "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Why the economics make this the craziest World Cup ever",
+        "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+        "summary": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高36℃ / 最低22℃"
+  }
+}

@@ -2,7 +2,7 @@
   "id": "hinata",
   "display_name": "星野 ひなた",
   "start_date": "2026-04-07",
-  "current_day_num": 49,
+  "current_day_num": 50,
   "fields": {
     "age": 15,
     "occupation": "東京都内の公立中学3年生（成績は中の上、ただしテスト・レポートはAI製）",
@@ -144,6 +144,14 @@
     },
     {
       "label": "思考直結AIの体験",
+      "status": "done"
+    },
+    {
+      "label": "AIによる「新しい神経回路」の獲得",
+      "status": "done"
+    },
+    {
+      "label": "AIによる思考の直接的な具現化",
       "status": "done"
     }
   ],
