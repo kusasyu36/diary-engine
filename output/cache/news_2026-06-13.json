@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への提供をただちに停止すると発表しました。政府から国家安全保障を理由に外国人による「ミュトス5」などへのアクセスを禁じる命令を受けたことによる措置だとしています。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "パラマウントによるワーナー買収 アメリカ司法省が承認",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149191000.html",
+        "summary": "アメリカ司法省は12日、メディア大手「パラマウント・スカイダンス」による「ワーナー・ブラザース・ディスカバリー」の買収について、アメリカの消費者にとって有害になる可能性は低いなどとして承認したことを明らかにしました。",
+        "source": "NHKニュース"
+      },
+      {
+        "title": "歌詞も曲もAIが生成した音楽「著作物に該当しない」JASRAC方針",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015148991000.html",
+        "summary": "生成AIを利用して作られた音楽が急速に広がる中、JASRACは、単純な指示に基づいてAIが歌詞も曲も生成したものは「人間の創作的寄与が認められない作品」として、著作物に該当しないなどとするガイドラインを公表しました。",
+        "source": "NHKニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高27℃ / 最低17℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+        "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+        "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the ",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX IPO: Live updates on everything you need to know",
+        "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+        "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+        "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高27℃ / 最低17℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the ",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX IPO: Live updates on everything you need to know",
+        "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+        "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+        "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高27℃ / 最低17℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高27℃ / 最低17℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+        "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+        "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+        "source": "BBC News"
+      },
+      {
+        "title": "French town buries murdered child as questions mount over police failings",
+        "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+        "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+        "summary": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高32℃ / 最低21℃"
+  }
+}
