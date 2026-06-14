@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への提供をただちに停止すると発表しました。政府から国家安全保障を理由に外国人による「ミュトス5」などへのアクセスを禁じる命令を受けたことによる措置だとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "パラマウントによるワーナー買収 アメリカ司法省が承認",
+        "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149191000.html",
+        "summary": "アメリカ司法省は12日、メディア大手「パラマウント・スカイダンス」による「ワーナー・ブラザース・ディスカバリー」の買収について、アメリカの消費者にとって有害になる可能性は低いなどとして承認したことを明らかにしました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "トイレの頑固な汚れ、むやみにゴシゴシ…はムダかも。AIに相談するべきワケと“意外な指示のコツ”とは？(ハフポスト日本版)",
+        "link": "https://news.yahoo.co.jp/articles/55ccbedaf9a2ba321c5ee39af576d8ded9b9af32?source=rss",
+        "summary": "トイレ掃除で悩ましい便器のフチの汚れ…洗剤をかけてブラシでゴシゴシこすってもビクともしないことも。   そんなやみくもに頑張る前に、AIに相談してみるのも手です。  『AI×家事　毎日バタバタな3児マ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高27℃ / 最低18℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+        "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高27℃ / 最低18℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI faces investigation from state attorneys general",
+        "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高27℃ / 最低18℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高27℃ / 最低18℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Switzerland votes on plan to cap population at 10 million",
+        "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+        "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+        "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+        "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+        "source": "BBC News"
+      },
+      {
+        "title": "New York Knicks win NBA championship for first time in over 50 years",
+        "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss",
+        "summary": "The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高34℃ / 最低20℃"
+  }
+}
