@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "AIを使ったサイバー攻撃「黒船襲来より怖い」--孫正義が危機感　OpenAIと対抗サービス発表(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/5a06a272568d8a6b61c00c6801a47cb07871ae7d?source=rss",
+        "summary": "ソフトバンクグループとOpenAIの合弁会社「SB OAI Japan合同会社」は6月16日、AIを使ったサイバー攻撃から国内の重要インフラを守るサービス「Patching as a Service",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "「Agentforce」に顧客対応AIを統合へ、米セールスフォースがFinを約36億ドルで買収(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/89b46f5f9aafb651f23d3bb50ce3d43541c9dc68?source=rss",
+        "summary": "米セールスフォースは2026年6月15日、顧客対応向けAIエージェントを展開するFin（旧Intercom）を約36億ドルで買収する正式契約を締結したと発表した。自社のプラットフォーム「Agentf",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "CPUやGPUだけ見てる場合じゃない！ AI時代のコンピューター進化がかなり未来(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/1760cb391d2493af6d7205f88d2dab7b8dea2ea3?source=rss",
+        "summary": "処理されるデータ量の増加や複雑化、そして生成AIの普及などなどによって、コンピューターを取り巻く環境は大きく変わりつつあります。",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低16℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+        "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+        "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+        "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+        "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+        "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+        "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低16℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+        "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+        "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+        "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+        "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高27℃ / 最低16℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高27℃ / 最低16℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump may release US-Iran deal before Friday, Vance says",
+        "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran deal presents political nightmare for Netanyahu",
+        "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+        "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Eight dead after US Air Force B-52 bomber crashes in California",
+        "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+        "summary": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Japan raises interest rate to highest for 31 years",
+        "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Bank of Japan has been raising rates from near-zero since 2024.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高28℃ / 最低15℃"
+  }
+}
