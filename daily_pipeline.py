@@ -20,7 +20,7 @@ from __future__ import annotations
 import re
 import time
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -61,8 +61,9 @@ def _build_system_prompt(
     target_real_date: date,
     base_dir: Path,
 ) -> str:
-    """persona (不変) → 記憶 → 内省角度履歴 → 感情 → life_state (現在の状態) → 外部 context (ライブ)"""
-    memory_block = storage.get_recent_context(n=3, snippet_chars=200)
+    """persona (不変) → 長期アーク → 記憶 → 内省角度履歴 → 感情 → life_state (現在の状態) → 外部 context (ライブ)"""
+    arc_block = _build_arc_block(life, day_num)
+    memory_block = storage.get_recent_context(n=5, snippet_chars=260)
 
     past_angles = reflection_store.get_past_angles()
     angles_block = ""
@@ -78,12 +79,35 @@ def _build_system_prompt(
 
     return "\n\n".join(filter(None, [
         config.persona_const,
+        arc_block,
         memory_block,
         angles_block,
         emotion_block,
         life_block,
         ext_block,
     ]))
+
+
+def _build_arc_block(life: LifeState, day_num: int) -> str:
+    """長期アーク: 経過日数の重みと、これまでの節目(life_events)の全履歴を見せる。
+    『直近3日の鏡』しか見えていなかった従来の弱点を補い、"もう何日もここにいる"
+    という時間の蓄積を本人に意識させる。"""
+    events = life.data.get("life_events") or []
+    lines = [
+        "【あなたの長期的な軌跡（俯瞰）】",
+        f"- あなたは今 Day {day_num}。物語が始まってから {day_num - 1} 日が経過した。",
+        "  これは『昨日の続き』ではなく、もう何十日もこの生を生きてきたということ。",
+        "  同じ場所で足踏みしているなら、それ自体に本人が気づき、倦み、痺れを切らしてよい。",
+    ]
+    if events:
+        lines.append("- これまでに起きた節目（古い順）:")
+        for e in events:
+            d = e.get("in_world_date", "?")
+            lines.append(f"  - Day {e.get('day_num','?')} ({d}): {e.get('label','')} — {e.get('summary','')}")
+    else:
+        lines.append("- まだ『節目』と呼べる出来事は一度も起きていない。"
+                     "それは静かな日々の証でもあるが、何かが動いてよい頃合いでもある。")
+    return "\n".join(lines)
 
 
 def _format_in_world(d: date) -> tuple[str, str]:
@@ -93,12 +117,61 @@ def _format_in_world(d: date) -> tuple[str, str]:
 
 # ─── ステップ実装 ────────────────────────────────────────────
 
+def _build_change_directive(
+    life: LifeState,
+    storage: Storage,
+    day_num: int,
+) -> str:
+    """この日記で『昨日と違うこと』を必ず起こさせるための指示を組み立てる。
+    - 状況の反復禁止（過去の書き出しを具体的に列挙して封じる）
+    - 超過している節目があれば、今日その決着に一歩踏み込ませる
+    これが従来エンジンに欠けていた最大の弁。語彙の反復ではなく、状況の反復を断つ。"""
+    lines = ["【今日、物語を前に進めるための厳守ルール】",
+             "- 今日は『昨日までと状況が動く』ことを最低1つ必ず書く。",
+             "  次のいずれかを具体的に: ①小さくても決断する ②行動を起こす ③誰かと具体的にやり取りする"
+             " ④予想外の出来事が起きる ⑤環境や関係が一段変わる。",
+             "- 心情の反芻・同じ風景・同じ嘆きの言い換えだけで終わらせない。"
+             "『考えた』で終えず、『何かが起きた／動いた』を書く。"]
+
+    # 直近の日記の書き出しを禁止（状況の反復を封じる）
+    recent = storage.data.get("days", [])[-6:]
+    openings = []
+    for d in recent:
+        head = (d.get("diary", "") or "").strip().replace("\n", " ")[:40]
+        if head:
+            openings.append(f"  - Day {d.get('day')}: 「{head}…」")
+    if openings:
+        lines.append("- 過去に使った書き出し・状況をなぞらない（下記と同じ入り方を禁止）:")
+        lines.extend(openings)
+
+    # 超過した節目があれば決着を促す
+    today = life.in_world_date(day_num)
+    for m in (life.data.get("milestones") or []):
+        if m.get("status", "pending") != "pending":
+            continue
+        try:
+            diff = (date.fromisoformat(m["date"]) - today).days
+        except (KeyError, ValueError):
+            continue
+        if diff < 0:
+            lines.append(
+                f"- 【最重要】節目「{m.get('label','')}」は既に {-diff} 日超過し、未決着のまま放置されている。"
+                "これ以上『過ぎてしまった』と嘆くだけの描写は禁止。今日はこの件に対して"
+                "具体的な動き（あきらめて別の道を選ぶ／誰かに打ち明ける／代替の一手を打つ／締切の事後対応をする 等）を"
+                "起こし、状況を一段進めること。")
+        elif diff == 0:
+            lines.append(f"- 節目「{m.get('label','')}」は本日。今日その結末（決断・行動・結果）を必ず描く。")
+
+    return "\n".join(lines)
+
+
 def _generate_diary(
     config: CharacterConfig,
     system_prompt: str,
     day_num: int,
     in_world_date_str: str,
     weekday: str,
+    change_directive: str,
 ) -> str:
     user_prompt = f"""今日は{in_world_date_str}（{weekday}）、Day {day_num} です。
 
@@ -106,11 +179,15 @@ def _generate_diary(
 
 {config.direction_instruction}
 
+{change_directive}
+
 【共通のルール】
 - 「明日も頑張ろう」「頑張るしかない」のような定型的な締めは避ける。
 - 日付と曜日を最初に書いてから、本文を続けてください。
 - 『現在の状態』に書かれた最新情報（年齢・所属・進路など）を必ず尊重し、
-  冒頭の persona に書かれた古い情報とは矛盾させない。"""
+  冒頭の persona に書かれた古い情報とは矛盾させない。
+- 抽象的な問い（「どこへ向かうのだろう」等）で締めるのを避け、
+  今日起きた具体的な変化の余韻で終える。"""
 
     return call_llm(
         system_prompt=system_prompt,
@@ -282,6 +359,8 @@ def _maybe_update_life(
 - 新しい関心事が日記の中で繰り返し出現し、定着しつつある
 - 年齢が物理的に変わった (誕生日)
 - 重大な出来事 (引っ越し、卒業、入院、発見) があった
+- 小さな一歩でも、それが今後の行動・関係・関心に継続的な影響を残すなら記録してよい
+  (例: 初めて親に本音を漏らした、ある人との関係が一段深まった/壊れた、新しい習慣を始めた)
 
 更新しない基準:
 - 一日限りの感情の波 (それは emotion_state が拾う)
@@ -316,6 +395,88 @@ NO_UPDATE
     if diff is None:
         return []
     return life.apply_update(diff, day_num)
+
+
+def _ensure_forward_goal(
+    config: CharacterConfig,
+    life: LifeState,
+    day_num: int,
+    diary_text: str,
+) -> list[str]:
+    """前を向く目標（pending milestone）が一つも無ければ、新しい目標を立てる。
+
+    停滞の深層原因は『目標が達成/喪失された後、次の行き先が生成されないこと』だった。
+    人は目標を一つ終えれば次の目標を持つ。それを欠くと "賽の河原" になる。
+    pending が一つでもあれば何もしない（既に行き先がある）。
+    """
+    milestones = life.data.get("milestones") or []
+    if any(m.get("status", "pending") == "pending" for m in milestones):
+        return []  # 既に行き先がある
+
+    today = life.in_world_date(day_num)
+    done_labels = [m.get("label", "") for m in milestones if m.get("status") == "done"]
+    current_state = life.to_prompt_block(day_num)
+    user_prompt = f"""あなたは {config.character_label} の人生の『次の行き先』を見立てる観察者です。
+
+【現在の状態】
+{current_state}
+
+【今日の日記】
+===
+{diary_text}
+===
+
+【状況】
+{config.character_label} は今、明確な目標（次の節目）を持っていません。
+これまでに区切りがついた節目: {', '.join(done_labels) if done_labels else 'なし'}
+
+【タスク】
+今日の日記と現在の状態から自然に芽生える、{config.character_label} 自身の「次の目標・気がかり・向かおうとしている先」を1つだけ立ててください。
+- 大げさな人生目標でなくてよい。数週間〜数ヶ月先に具体的な区切りが来るもの。
+- 今日の日記で芽生えた動き（関心・関係・行動）の延長線上にあること。
+- 本人がまだ無自覚でも、向かいつつある方向を言語化する。
+
+出力フォーマット (JSON 単独行のみ。前置き禁止):
+{{"label": "<10〜20字の目標ラベル>", "horizon_days": <今日から何日後に区切りが来るか。14〜90の整数>, "concern": "<その目標に伴う今の気がかりを20字程度で>"}}"""
+
+    response = call_llm(
+        system_prompt=config.persona_const,
+        user_prompt=user_prompt,
+        temperature=0.7,
+        repetition_control=0.0,
+        model="gemini-2.5-flash-lite",
+        fallback_model="gemini-2.5-flash",
+    )
+    import json as _json
+    chunk = None
+    for c in re.findall(r"\{[\s\S]*?\}", response):
+        try:
+            chunk = _json.loads(c)
+            break
+        except _json.JSONDecodeError:
+            continue
+    if not chunk or not chunk.get("label"):
+        return []
+
+    try:
+        horizon = int(chunk.get("horizon_days", 30))
+    except (TypeError, ValueError):
+        horizon = 30
+    horizon = max(14, min(90, horizon))
+    target = today + timedelta(days=horizon)
+
+    life.data.setdefault("milestones", []).append({
+        "date": target.isoformat(),
+        "label": chunk["label"],
+        "status": "pending",
+    })
+    concern = (chunk.get("concern") or "").strip()
+    if concern:
+        concerns = life.data.setdefault("fields", {}).setdefault("current_concerns", [])
+        if concern not in concerns:
+            concerns.append(concern)
+    life.save()
+    return [f"new_goal:{chunk['label']}({target.isoformat()})"]
 
 
 # ─── エントリ ───────────────────────────────────────────────
@@ -375,7 +536,10 @@ def run_one_day(
     )
     if verbose:
         print(f"    ① 日記生成中...")
-    diary = _generate_diary(config, system_prompt, day_num, in_world_date_str, weekday)
+    change_directive = _build_change_directive(life, storage, day_num)
+    diary = _generate_diary(
+        config, system_prompt, day_num, in_world_date_str, weekday, change_directive
+    )
     storage.append_day(day_num, in_world_date_str, weekday, diary)
     if verbose:
         print(f"       → 保存 ({len(diary)}字)")
@@ -417,6 +581,14 @@ def run_one_day(
         else:
             print(f"       → NO_UPDATE")
 
+    # ⑤b 行き先（pending milestone）が空なら次の目標を自動生成する
+    new_goal = _ensure_forward_goal(config, life, day_num, diary)
+    if new_goal:
+        applied += new_goal
+        if verbose:
+            print(f"       → 次の目標を生成: {', '.join(new_goal)}")
+    time.sleep(sleep_sec)
+
     # day_num を進める (skip 判定の終端)
     life.advance(day_num)
 
@@ -428,8 +600,8 @@ def run_one_day(
         f"## 日記\n\n{diary.strip()}\n\n"
         f"## 内省（角度: {angle}）\n\n{reflection_text.strip()}\n"
     )
-    if applied:
-        md += f"\n## life_state 更新\n\n- {', '.join(applied)}\n"
+    # 注: 旧版は内部状態タグ「## life_state 更新 — milestones(+N)」を本文に出力していた。
+    # これが最大の「AI臭」と指摘されたため、本文からは除去（applied はログ・戻り値にのみ残す）。
     out_path.write_text(md, encoding="utf-8")
 
     return DayResult(
