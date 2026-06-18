@@ -1,0 +1,104 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "G7 AIで各国首脳と企業トップが議論 ミュトスも話題に",
+        "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153031000.html",
+        "summary": "G7サミットは最終日、世界有数のAI企業のトップが参加して、各国の首脳との議論が行われました。出席者によりますと、アメリカのAI新興企業「アンソロピック」がアメリカ政府からの命令を受けて最新モデルの提供を停止したことについても意見が交わされたということです。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "100万円超えの最上位機も。Dynabook、Core Ultraシリーズ3のAI PC(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/ebc6358d77faaa3d4126b9773b5d163754938ba7?source=rss",
+        "summary": "Dynabookは、法人向けノートPCとして、Copilot+ PC準拠でCore Ultraシリーズ3を搭載する13.3型の「dynabook G83R/PA」と、14型の「dynabook X7",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高24℃ / 最低20℃、降水量 17mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+        "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+        "summary": "Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to turn off AI in your Google Docs",
+        "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+        "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+        "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+        "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+        "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高24℃ / 最低20℃、降水量 17mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "How to turn off AI in your Google Docs",
+        "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+        "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+        "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+        "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+        "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高24℃ / 最低20℃、降水量 17mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高24℃ / 最低20℃、降水量 17mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "What's in the US-Iran agreement?",
+        "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+        "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran sends tankers loaded with oil past US military blockade",
+        "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+        "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+        "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+        "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高34℃ / 最低23℃"
+  }
+}
