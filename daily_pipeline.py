@@ -376,7 +376,10 @@ UPDATE: {{"fields": {{...}}, "life_events": [{{"label": "...", "summary": "..."}
   - relationships を更新するときは fields.relationships の中に追加したい人物だけ書く。
   - current_concerns を更新したい場合はリストごと上書き (新しい関心事リスト全文)。
   - life_events は今日の節目を追記する (label と summary を簡潔に)。
+  - 【重要】milestones は『日付つきの具体的な目標』だけに使う。日々の関心・気づき・感想は
+    milestones ではなく life_events に書くこと（日付のない milestone は無視される）。
   - 既存の milestone を完了にする場合は label を一致させ status を done にする。
+    ただし、まだ期日が来ていない目標を勝手に done にしない。
 
 [B] 更新が不要な場合:
 NO_UPDATE
@@ -410,8 +413,10 @@ def _ensure_forward_goal(
     pending が一つでもあれば何もしない（既に行き先がある）。
     """
     milestones = life.data.get("milestones") or []
-    if any(m.get("status", "pending") == "pending" for m in milestones):
-        return []  # 既に行き先がある
+    # 日付つきで未完了(pending/in_progress)の目標が一つでもあれば、既に行き先がある。
+    if any(m.get("date") and m.get("status", "pending") in ("pending", "in_progress")
+           for m in milestones):
+        return []
 
     today = life.in_world_date(day_num)
     done_labels = [m.get("label", "") for m in milestones if m.get("status") == "done"]

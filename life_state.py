@@ -43,6 +43,14 @@ from pathlib import Path
 from typing import Any
 
 
+def _norm_label(label: Any) -> str:
+    """milestone ラベルの重複判定用に正規化（空白・記号・「の」を無視）。"""
+    s = str(label or "")
+    for ch in " 　、。!！「」『』・…\t\n":
+        s = s.replace(ch, "")
+    return s
+
+
 def _normalize_relationships(value: Any) -> dict[str, str]:
     """LLM が relationships を list 形式で返しても dict に揃える。
 
@@ -92,6 +100,9 @@ class LifeState:
                 f"初回は state/ に手動で作成するか、初期化スクリプトで作ってください。"
             )
         self.data = json.loads(self.path.read_text(encoding="utf-8"))
+        # 読み込み時に毎回 milestones を整理（日付なし・重複を一掃する自己修復）。
+        # 旧データに溜まった大量の日付なし done も、次回の保存時に永続的に掃除される。
+        self._prune_milestones()
 
     # ─── 永続化 ───
     def save(self) -> None:
@@ -258,19 +269,62 @@ class LifeState:
         new_milestones = diff.get("milestones") or []
         if new_milestones:
             current = self.data.setdefault("milestones", [])
+            today = self.in_world_date(day_num)
+            changed = 0
             for m in new_milestones:
-                # 同じ label の既存があれば上書き、なければ append
+                if not m.get("label"):
+                    continue
                 idx = next(
                     (i for i, existing in enumerate(current)
-                     if existing.get("label") == m.get("label")),
+                     if _norm_label(existing.get("label")) == _norm_label(m.get("label"))),
                     None,
                 )
+                # 日付なしの新規 milestone は「目標」ではなく日々の関心メモ。
+                # milestones を汚染するので採用しない（life_events / concerns が拾う）。
+                if idx is None and not m.get("date"):
+                    continue
+                # 早すぎる完了の拒否: 期日がまだ十分先(>7日)の目標を done にしない。
+                # これを許すと立てた直後の目標が翌日消え、目標生成が毎日再発火して JSON が肥大化する。
+                if m.get("status") == "done":
+                    md = m.get("date") or (current[idx].get("date") if idx is not None else None)
+                    if md:
+                        try:
+                            if (date.fromisoformat(md) - today).days > 7:
+                                m["status"] = "pending"
+                        except ValueError:
+                            pass
                 if idx is None:
                     current.append(m)
                 else:
                     current[idx].update(m)
-            applied.append(f"milestones(+{len(new_milestones)})")
+                changed += 1
+            self._prune_milestones()
+            if changed:
+                applied.append(f"milestones(+{changed})")
 
         if applied:
             self.save()
         return applied
+
+    def _prune_milestones(self) -> None:
+        """milestones を『日付つきの本物の目標』だけに整理する（自己修復）。
+        - 日付なしの milestone は日々の関心メモの誤登録なので除去（life_events/concerns が担う）。
+        - 同じ正規化ラベルの重複は1つに統合（pending を優先、なければ末尾）。
+        旧データに溜まった大量の日付なし done も、次回更新時にこれで一掃される。
+        """
+        ms = self.data.get("milestones") or []
+        by_label: dict[str, dict] = {}
+        order: list[str] = []
+        for m in ms:
+            if not m.get("date"):
+                continue  # 日付なし = 目標ではない → 捨てる
+            key = _norm_label(m.get("label"))
+            if key not in by_label:
+                by_label[key] = m
+                order.append(key)
+            else:
+                # pending を優先して残す。それ以外は新しい方(後勝ち)で更新。
+                prev = by_label[key]
+                if prev.get("status") != "pending":
+                    by_label[key] = m
+        self.data["milestones"] = [by_label[k] for k in order]
