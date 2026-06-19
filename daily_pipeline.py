@@ -165,6 +165,15 @@ def _build_change_directive(
     return "\n".join(lines)
 
 
+_MARKUP_RE = re.compile(r"</?[a-zA-Z][a-zA-Z0-9]*(?:\s[^>]*)?>")
+
+
+def _strip_markup(text: str) -> str:
+    """LLM が稀に混入させる HTML/マークアップタグ（<blockquote> 等）を除去する。
+    日本語本文中の不等号は <英字 で始まるタグ形だけを対象にするので残る。"""
+    return _MARKUP_RE.sub("", text).strip()
+
+
 def _generate_diary(
     config: CharacterConfig,
     system_prompt: str,
@@ -544,9 +553,9 @@ def run_one_day(
     if verbose:
         print(f"    ① 日記生成中...")
     change_directive = _build_change_directive(life, storage, day_num)
-    diary = _generate_diary(
+    diary = _strip_markup(_generate_diary(
         config, system_prompt, day_num, in_world_date_str, weekday, change_directive
-    )
+    ))
     storage.append_day(day_num, in_world_date_str, weekday, diary)
     if verbose:
         print(f"       → 保存 ({len(diary)}字)")
@@ -572,7 +581,7 @@ def run_one_day(
     # ④ 内省本文
     if verbose:
         print(f"    ④ 内省文生成中...")
-    reflection_text = _generate_reflection(config, day_num, diary, angle).strip()
+    reflection_text = _strip_markup(_generate_reflection(config, day_num, diary, angle))
     reflection_store.append(day_num, reflection_text, angle=angle)
     if verbose:
         print(f"       → ({len(reflection_text)}字)")
