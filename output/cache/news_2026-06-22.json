@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "中国政府 米企業10社に輸出規制 政府調達禁止も 米措置に対抗",
+        "link": "http://www3.nhk.or.jp/news/html/20260622/k10015156221000.html",
+        "summary": "中国政府は、アメリカ企業10社を対象に軍民両用の品目の中国からの輸出を禁止すると発表しました。アメリカが中国軍と関わりがあるとする企業のリストに中国のIT大手などを追加したことへの対抗措置だとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "ダイハツ、自動車部品のキズ検査をAIで自動化　“人の目と感性”を代替(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/fdbdb4b37d0a5dcda6f133b5c2d03ef309004e58?source=rss",
+        "summary": "ダイハツ工業は6月22日、AIを使った自動車部品の品質検査システムを、滋賀（竜王）工場第1地区に導入したと発表した。  　アルミ加工ラインで生産されているトランスミッション用の部品について、AIで加",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "ドコモがAIで通信混雑をリアルタイム解消、国内初でノキア「MantaRay AutoPilot」導入(ケータイ Watch)",
+        "link": "https://news.yahoo.co.jp/articles/94c6efff375b8a16219e6179444d28fb3eae1b18?source=rss",
+        "summary": "NTTドコモは22日、ノキアが開発したAI駆動型のネットワーク品質最適化システム「MantaRay AutoPilot」を19日に導入したと発表した。同システムの導入は国内初となる。  　あわせて、",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低20℃、降水量 2mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Ethan Thornton is trying to do everything all at once",
+        "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+        "summary": "Mach's approach differs sharply from some of its peers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+        "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+        "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+        "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+        "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+        "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低20℃、降水量 2mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+        "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+        "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低20℃、降水量 2mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低20℃、降水量 2mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
+        "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+        "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
+        "source": "BBC News"
+      },
+      {
+        "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
+        "link": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+        "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+        "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨 (強)、最高33℃ / 最低20℃、降水量 18mm"
+  }
+}
