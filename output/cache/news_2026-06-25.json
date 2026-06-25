@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アンソロピック “AIモデルに中国企業が不正アクセス”報道",
+        "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159541000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は、中国のIT大手「アリババグループ」が、自社のAIモデルへ不正にアクセスして機能を抜き出そうとしたとしてアメリカの上院議員やホワイトハウスの高官に非難する書簡を送ったと複数の欧米メディアが報じました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "中国 李首相 AIなど開発加速を強調 “夏のダボス会議”で",
+        "link": "http://www3.nhk.or.jp/news/html/20260624/k10015158481000.html",
+        "summary": "中国で景気が減速するなか、李強首相は経済フォーラムで行った演説で、AI＝人工知能などの先端技術の開発を加速させる方針を強調しました。成長分野を後押しする姿勢を示すことで、外国からの投資を呼び込むねらいがあるとみられます。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "FPGAの新たな役割？ Efinixが狙うエッジAIの「前処理」分野(EE Times Japan)",
+        "link": "https://news.yahoo.co.jp/articles/edfbc2dd9736be73310c734b3131717aca79fe4f?source=rss",
+        "summary": "Efinixは、エッジAIアプリケーションをターゲットとするFPGAファミリー「Titanium Edge」を発表した。AI向けに命令拡張を備えたソフト／ハードRISC-Vコアをベースとしているとい",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高21℃ / 最低20℃、降水量 20mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Europe is pushing back on Washington’s chip war",
+        "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+        "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+        "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon suffers another day short of trillionaire status",
+        "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+        "summary": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+        "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+        "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高21℃ / 最低20℃、降水量 20mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+        "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+        "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI researchers continue to leave Google for its rivals",
+        "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+        "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高21℃ / 最低20℃、降水量 20mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高21℃ / 最低20℃、降水量 20mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+        "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+        "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5.",
+        "source": "BBC News"
+      },
+      {
+        "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+        "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+        "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+        "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Air conditioning creates political divide after France records hottest day",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+        "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高31℃ / 最低17℃"
+  }
+}
