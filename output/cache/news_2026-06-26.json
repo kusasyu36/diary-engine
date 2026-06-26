@@ -1,0 +1,98 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160551000.html",
+        "summary": "25日のニューヨーク株式市場では、建設機械や金融といった銘柄に買い注文が広がって、ダウ平均株価は一時、前日から800ドルあまり値上がりして取り引き時間中の最高値を更新しました。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 29mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+        "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+        "summary": "YouTube Shorts is getting a makeover.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Polymarket says hackers stole users’ funds",
+        "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+        "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 29mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+        "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 29mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 29mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+        "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+        "summary": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+        "source": "BBC News"
+      },
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+        "source": "BBC News"
+      },
+      {
+        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+        "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低21℃"
+  }
+}
