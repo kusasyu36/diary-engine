@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アンソロピック AI「ミュトス5」米の一部企業などに提供再開へ",
+        "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162581000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は、26日、政府からの命令を受けて、すべての顧客への提供を停止していた最新のAIモデル「クロード・ミュトス5」について、アメリカの一部企業などに提供を再開すると発表しました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "ボルトン元大統領補佐官 司法取引で機密情報の所持認める",
+        "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162511000.html",
+        "summary": "アメリカの1期目のトランプ政権で大統領補佐官を務め、機密情報を違法に取り扱った罪で起訴されたジョン・ボルトン氏が裁判で罪の一部を認めました。当初は政権側からの報復だとして、争う姿勢をみせていましたが、司法取引に応じたということです。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "国際刑事裁判所とアジアの大学の共同拠点が慶應大に開設",
+        "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161851000.html",
+        "summary": "戦争犯罪などを裁く国際刑事司法の分野での人材育成や学術的な交流の拡大を目指して、ICC＝国際刑事裁判所とアジアの10の大学が共同で東京に拠点を開設しました。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高23℃ / 最低22℃、降水量 45mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+        "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+        "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+        "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+        "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+        "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高23℃ / 最低22℃、降水量 45mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+        "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+        "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+        "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高23℃ / 最低22℃、降水量 38mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高23℃ / 最低22℃、降水量 38mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US strikes Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+        "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+        "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+        "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高28℃ / 最低22℃"
+  }
+}
