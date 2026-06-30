@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "高市首相 1日からインド訪問 経済安保やAIで成果文書調整",
+        "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164091000.html",
+        "summary": "高市総理大臣は、1日からインドを訪問しモディ首相との首脳会談に臨みます。経済安全保障とAIの分野でそれぞれ成果文書を発表する方向で調整していて、協力関係の戦略的な構築によって「強い経済の実現」にもつなげるねらいがあるものとみられます。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "2028年までにAIコーディング費用が「開発者の平均給与」を超える　Gartner予測(ITmedia エンタープライズ)",
+        "link": "https://news.yahoo.co.jp/articles/dd51f43f78a672ebe23318b5974cfde6321fdac2?source=rss",
+        "summary": "Gartnerは2026年6月24日（現地時間）、大規模言語モデル（LLM）のトークン消費拡大と、AIコーディングエージェントのライセンス体系が利用量ベースへ移る流れから、2028年までにAIコーデ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "スマホからPCのAIエージェントを操作。モバイル版「OpenClaw」公開(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/201432eea53135c9e222bfa2024db16f15411529?source=rss",
+        "summary": "OpenClaw Foundationは6月30日、iPhoneやAndroidスマートフォンで使えるモバイルアプリ「OpenClaw」を公開した。App StoreやPlayストアから無料でダウン",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低21℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "The AI jobs debate just got messier",
+        "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+        "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+        "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低21℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "The AI jobs debate just got messier",
+        "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+        "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+        "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低21℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低21℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Angry Venezuelans accuse government of negligence and apathy",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+        "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+        "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+        "source": "BBC News"
+      },
+      {
+        "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+        "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+        "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
+        "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高34℃ / 最低20℃"
+  }
+}
