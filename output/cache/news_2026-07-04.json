@@ -1,0 +1,98 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "23万人がAIを使うJPモルガンの全社変革、成果と人員削減方針の両面から教訓を探る(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/c64c1a44c4f24b57894d4da25f3c9f86245ab943?source=rss",
+        "summary": "世界的な銀行大手のJPモルガン・チェース（JPMorgan Chase）は、AIエージェントについて極めて野心的な計画を描いている。会社のほぼ全体を、知的で自動化されたプロセスがつながり合うエコシステ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "The only AI glossary you’ll need this year",
+        "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+        "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+        "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Dune keypad device can be your meeting controller and more",
+        "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+        "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+        "link": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+        "summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "The only AI glossary you’ll need this year",
+        "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (強)、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+        "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+        "summary": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+        "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+        "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+        "source": "BBC News"
+      },
+      {
+        "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+        "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+        "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧雨 (強)、最高40℃ / 最低25℃、降水量 1mm"
+  }
+}
