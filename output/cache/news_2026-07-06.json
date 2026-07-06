@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "中国、AIとの「感情的交流」を規制　バイトダンスとアリババが「擬人化AI」終了へ(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/caee0c4788e42fa0b14390efb7e95e4dfc3ed324?source=rss",
+        "summary": "中国のテクノロジー大手、字節跳動（バイトダンス）と阿里巴巴（アリババ）は、ユーザーが独自の人格や話し方を設定できるAIエージェントの機能を相次いで終了するという。South China Mornin",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Sakana AI、無料の翻訳サービス「Sakana Translate」公開--敬語もネットスラングも温度感ごと訳す(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/b1ded86963ab5d2cf2a0dfd0831e573a56dc3833?source=rss",
+        "summary": "Sakana AIは7月6日、チャットサービス「Sakana Chat」に新機能「Sakana Translate」を追加した。日本語・英語・中国語の双方向翻訳に対応するウェブアプリで、アカウント登",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "ソニービズネットワークス、社内向けチャットボットサービス「Assist AI Chat Bot」に、AIが回答作成をサポートする機能を追加(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/a0f7da6d352ea23a3eab3d26c3a7bcdddc20046f?source=rss",
+        "summary": "ソニービズネットワークス株式会社は3日、法人向けICTソリューションブランド「NURO Biz」の社内向けチャットボットサービス「Assist AI Chat Bot」において、ユーザーからエスカレ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高23℃ / 最低19℃、降水量 14mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+        "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+        "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber’s European expansion plans may have hit a speed bump",
+        "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+        "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+        "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+        "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon will stop accepting new customers for Mechanical Turk",
+        "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+        "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高23℃ / 最低19℃、降水量 14mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+        "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+        "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高23℃ / 最低19℃、降水量 14mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高23℃ / 最低19℃、降水量 14mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "At least 11 killed in second Russian strikes on Kyiv in a week",
+        "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rescue efforts are continuing at more than 20 locations, the city's top military administrator says.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+        "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+        "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+        "summary": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+        "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington にわか雨 (強)、最高33℃ / 最低23℃、降水量 9mm"
+  }
+}
