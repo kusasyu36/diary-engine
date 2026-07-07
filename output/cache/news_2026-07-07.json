@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
+        "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
+        "summary": "連休明け6日のニューヨーク株式市場ではAI関連の銘柄を買い戻す動きが出て、ダウ平均株価は前の営業日と比べて150ドル余り値上がりし、終値は初めて5万3000ドル台に乗せました。2営業日連続の最高値更新です。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "OcuLink／USB4に両対応の万能ミニPC「ACEMAGIC F5A」を試す　Ryzen AI 9 HX 470搭載で圧倒的コスパ(ITmedia PC USER)",
+        "link": "https://news.yahoo.co.jp/articles/8a3b4003d24003f54eae134ae25aa0ad8bc1a103?source=rss",
+        "summary": "中国CYX Industrialが展開するPCブランド、ACEMAGICのミニPC「F5A」は、プロセッサにRyzen AI 9 HX 470を搭載したハイスペックモデルだ。ミニPCの中で基本性能が",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "楽天市場、AI導入で目指す「お店のような接客体験」(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/1a5caab12973b3b134b5ed6c85a5bf5335c0b7b8?source=rss",
+        "summary": "楽天グループは7日、「楽天市場」におけるAI活用についての説明会を開催し、ユーザー向けの新機能のほか、出店者向けの業務効率化などについて説明した。  ユーザー向けには楽天市場の体験向上を軸にAIを導入",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低20℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+        "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+        "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The ‘first’ AI-run ransomware attack still needed a human",
+        "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+        "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+        "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+        "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+        "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低20℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "The ‘first’ AI-run ransomware attack still needed a human",
+        "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+        "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+        "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Every major tech layoff in 2026 that has name-checked AI",
+        "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低20℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高25℃ / 最低20℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump confirms he asked Fifa to review Balogun ban",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+        "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+        "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+        "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington にわか雨 (弱)、最高27℃ / 最低22℃、降水量 12mm"
+  }
+}
