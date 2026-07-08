@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "OpenAI、GPT-5.6は木曜日に一般公開へ(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/2e395b91125a09165b3c1610a0c7a1772ae717d1?source=rss",
+        "summary": "OpenAIは8日、最新のAIモデル「GPT-5.6」を今週木曜日(9日)に一般公開すると発表した。日本時間では10日の金曜日公開になると見られる。  同社では6月26日(米国時間)に、「GPT-5.",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "NTTデータとNTTドコモビジネス、フロンティアAIを活用したサイバーリスク対応サービスを提供(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/d2ca6cb96f89b04f54a09878a0ab611b880195be?source=rss",
+        "summary": "株式会社NTTデータとNTTドコモビジネス株式会社は7日、フロンティアAIを活用したサイバーリスク対応サービスを7月31日に提供開始すると発表した。  　サイバーリスク対応サービスは、フロンティアA",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AI検索で引用されるドメイン、YouTubeが首位維持！ noteは5位→2位に急上昇【Ahrefs調べ】(Web担当者Forum)",
+        "link": "https://news.yahoo.co.jp/articles/71e5c56bf29ba51434583d02729f68bfaebb8e5f?source=rss",
+        "summary": "Ahrefsは、日本における5大AIプラットフォームの引用ドメインランキングを発表した。GoogleのAIモード、AIによる概要（AI Overviews）、ChatGPT、Perplexity、Co",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高28℃ / 最低20℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+        "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+        "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高28℃ / 最低20℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高28℃ / 最低20℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高28℃ / 最低20℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+        "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+        "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Nato allies announce £37bn for new missile project",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
+        "link": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+        "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高29℃ / 最低22℃"
+  }
+}
