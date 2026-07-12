@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アップルがオープンAIを提訴 “企業秘密盗まれた”",
+        "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174381000.html",
+        "summary": "アメリカのIT大手アップルは、自社の機密情報を盗んで独自の端末を開発しようとしているとして、生成AIのChatGPTを開発するオープンAIを訴えました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "OpenAIのサム・アルトマンCEO、最新GPT‑5.6発表でイーロン・マスクと応酬(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/a2e1fb7a3921f7da4a9e56b9b3980dbfcc6a229c?source=rss",
+        "summary": "OpenAIのサム・アルトマンCEOは、自社の最新AIモデルの1つである「GPT‑5.6 Sol」が「現在世界最高のモデル」であると主張した。スペースXAI（旧xAI）を率いるイーロン・マスクが米国時",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AIは「失恋の痛み」を消せない…精神科医が語る、どれだけ賢くなってもAIに届かない“人間の領域”(集英社オンライン)",
+        "link": "https://news.yahoo.co.jp/articles/fad5ba20123518ecacba04c5e5e62c376608b2c0?source=rss",
+        "summary": "AIに悩みを相談し、カウンセリングの相手として使う人が増えている。知識を補い、問題を整理し、24時間寄り添ってくれるAIは、メンタルケアの領域でも大きな可能性を持つ。一方で、精神科医の益田裕介氏は「A",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Reed Jobs would rather talk about curing cancer than his last name",
+        "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+        "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a ",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+        "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+        "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+        "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+        "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta removes controversial AI feature on Instagram after backlash",
+        "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+        "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+        "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+        "source": "BBC News"
+      },
+      {
+        "title": "China's second typhoon in a week makes landfall",
+        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "source": "BBC News"
+      },
+      {
+        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+        "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+        "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+        "source": "BBC News"
+      },
+      {
+        "title": "At least two killed in Toronto street festival shooting",
+        "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+        "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高31℃ / 最低23℃"
+  }
+}
