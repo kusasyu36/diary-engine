@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "AI・DX最前線が浜松町に集結！7月16日・17日はNEXT BUSINESS EXPO(Yahoo!ニュース PR［PR］)",
+        "link": "https://news.yahoo.co.jp/articles/be5cd61975912893d3ac870b3960ed46f3d45988?source=rss",
+        "summary": "AIとDXの最前線が一堂に会する「NEXT BUSINESS EXPO SUMMER 2026」が、7月16日と17日に浜松町で開催されます。堀江貴文氏をはじめとする専門家・実務家たちが、AI活用事例",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "ソフトバンク、AIが脆弱性診断・修正する「Patching as a Service」(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/cc47e4705590b28fac3708299de21e90acc52734?source=rss",
+        "summary": "ソフトバンクとSB OAI Japanは14日、AI駆動型サイバーセキュリティ対策ソリューション「Patching as a Service」の提供対象を3,000社に拡大し、本格提供を開始した。重要",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Wikipediaが25周年で直面する空洞化の危機、AI普及で読者激減(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/21367876d6aebc69ae3e64798a776237bf5f6aeb?source=rss",
+        "summary": "AIアシスタントにほぼどんな質問を投げかけても、答えは瞬時に、自信たっぷりに、なんの引っかかりもなく返ってくる。しかし、その出典元が目に触れることはない。深夜に東京の図書館司書が執筆した一節や、世界規",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高33℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+        "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+        "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+        "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+        "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+        "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+        "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+        "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+        "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高33℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+        "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+        "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Satya Nadella has issued a shocking warning to companies using AI",
+        "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+        "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+        "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+        "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高33℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高33℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+        "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+        "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
+        "source": "BBC News"
+      },
+      {
+        "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+        "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 快晴、最高35℃ / 最低19℃"
+  }
+}
