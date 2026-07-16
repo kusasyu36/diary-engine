@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "AIが文章作成から文書デザインまで支援、メシウスがJavaScript入力ライブラリ「InputManJS V6.1J」リリース(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/1341acee81ef9c8a43e16319ec7a7c9af9c544da?source=rss",
+        "summary": "メシウス株式会社は15日、業務アプリケーションの入力フォーム作成を支援するJavaScriptライブラリ「InputManJS」の新バージョン「InputManJS V6.1J」を7月29日にリリー",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "NVIDIAのジェンスン・フアン氏が秋葉原でセガに賛辞　これは巨大テック企業のトップによる社交辞令ではなく、セガのゲームに脳を焼かれたゲーマーの叫びだ(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/c5cbd7dd57fe613b95f8da955903da9c0c8a6b09?source=rss",
+        "summary": "NVIDIAを「謎の半導体企業」と表現する人は流石にもういないだろう。少し前はPCグラフィックス、今はAI業界を牽引するビッグテック企業である。そんなNVIDIAも創業期に技術選択に失敗して死にかけ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "「Gemini Spark」日本でもリリース、まずUltraから　24時間働く“パーソナルAIエージェント”(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/a5ffc49e5a2d4f420166bba46cf5dd395f0abc5b?source=rss",
+        "summary": "Googleは7月16日、パーソナルAIエージェント「Gemini Spark」の日本での提供を開始した。「Ultra」（月額1万4500円～）加入者向けに、β版として提供する。同社の幹部は、「Pr",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高34℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+        "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+        "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+        "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+        "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+        "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高34℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+        "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高34℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高34℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Argentina face action after waving Falklands banner",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+        "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkla",
+        "source": "BBC News"
+      },
+      {
+        "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+        "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+        "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+        "source": "BBC News"
+      },
+      {
+        "title": "More people around the world now favour China over the US, Pew study suggests",
+        "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+        "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高39℃ / 最低27℃"
+  }
+}
