@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "アジア太平洋地域で、EC・予約サービスを狙うAIボットの攻撃が急増、Akamaiが警告(INTERNET Watch)",
+        "link": "https://news.yahoo.co.jp/articles/23e2c5d7130afc93a09acbaf7ab7081d33d8c107?source=rss",
+        "summary": "Akamaiは7月17日、アジア太平洋地域（APAC）で成長するEC（オンライン通販）やオンライン予約などのサービスが、AIボットを悪用した攻撃のターゲットとなっており、AIボットのアクティビティが",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "「私のAIがやった」が、法廷で使われる次の言い訳になる──しかも実際に通用するかもしれない(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/02007bdeae508c67427174dba25f491ed7b45c22?source=rss",
+        "summary": "AIエージェントがコンピューターを操作する方法は、2通りある。1つは、デジタルフォレンジック（電子鑑識）の調査官が「人がその操作をした」と証明するために使う記録を、一切残さない方法。もう1つは、あたか",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "欧州DMA、Androidに“代替AI”開放要求　Googleは反発(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/7dbac5d78a161de46d58af7fe301056a258bc56f?source=rss",
+        "summary": "欧州委員会は、デジタル市場法(DMA)に基づき、Googleに対して2つの拘束力のあるガイドラインを提示した。ひとつはAndroid上でのサードパーティ製AIの取扱いについてで、もうひとつはGoogl",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低25℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+        "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+        "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+        "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+        "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+        "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+        "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低25℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+        "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+        "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+        "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+        "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Vids now lets you star in your own AI videos",
+        "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+        "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低25℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低25℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US launches new strikes as Iran says civilian infrastructure hit",
+        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+        "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
+        "source": "BBC News"
+      },
+      {
+        "title": "More than 500 Rohingya vanished at sea - what happened?",
+        "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Japan relaxes royal succession rules - but ban on female emperors remain",
+        "link": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高34℃ / 最低23℃"
+  }
+}
