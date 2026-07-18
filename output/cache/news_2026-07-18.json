@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "EU 「排出量取引制度」排出規制の緩和などを提案 産業界に配慮",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015180071000.html",
+        "summary": "EU＝ヨーロッパ連合の執行機関は17日、二酸化炭素の排出枠を取り引きする「排出量取引制度」について排出規制の緩和などを提案しました。環境政策が優先されることで競争力の低下を懸念する産業界に配慮した形です。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "ナスダック株価指数 一時2％超の下落 中国AIへの警戒感で売り",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015180051000.html",
+        "summary": "17日のニューヨーク株式市場では、中国の新興企業が新たなAIモデルを発表したことでアメリカ企業によるAIへの巨額投資などに対する懸念から売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.4％を超える大幅な下落となりました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "中国で日系企業ら会合 金杉大使「輸出規制強化に留意を」",
+        "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179691000.html",
+        "summary": "中国・北京で日系企業の関係者などが参加する会合が開かれ、現地に駐在する金杉憲治大使は、中国で日本人2人がレアアースの輸出に関連して逮捕されたことを念頭に「最も留意すべきことの一つが輸出規制の強化だ」として、不安がある場合は大使館などに相談するよう呼びかけました。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高28℃ / 最低24℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+        "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+        "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with au",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+        "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+        "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高28℃ / 最低24℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+        "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+        "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高28℃ / 最低24℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高28℃ / 最低24℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+        "source": "BBC News"
+      },
+      {
+        "title": "White House defends Argentina team over Falklands banner",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+        "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高37℃ / 最低25℃"
+  }
+}
