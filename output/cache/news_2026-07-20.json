@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "Moonshot AIが2.8兆パラメータのオープンモデル「Kimi K3」を発表(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/70fd4983e20262e5578cac6616939a3a1097be55?source=rss",
+        "summary": "中国のAIスタートアップMoonshot AIは2026年7月16日、2.8兆パラメータを持つ大規模言語モデル「Kimi K3」を発表した。100万トークンのコンテキストウィンドウと視覚理解機能を備",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/b5ca206b452bf3c20516c14ef8f90efbc795acb2?source=rss",
+        "summary": "米AIプラットフォームのHugging Faceは7月16日（現地時間）、本番インフラの一部が自律型AIエージェントによるサイバー攻撃を受けたと発表した。侵入の検知と解析にAIを活用したが、商用のフ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "『Gemini Spark』日本語対応から改めて考えるAIエージェントとは何か　AIに「聞く時代」から「任せる時代」へ(リアルサウンド)",
+        "link": "https://news.yahoo.co.jp/articles/be1c7d319d5ced67722036b9d79ba95e8fb9da3e?source=rss",
+        "summary": "Googleは7月16日、AIエージェント「Gemini Spark」の日本語対応を開始した。  　そもそもAIエージェントとは、「Gemini」や「ChatGPT」のような生成AIをさらに一歩進め",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+        "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What to watch for after Jensen Huang’s Japan visit",
+        "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The battle over robotaxi rules",
+        "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+        "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+        "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "summary": "\"Everybody knows the Greeks are inside.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US soldier killed and one injured after Iranian attack in Iraq",
+        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+        "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Food delivery rider wins China's top literary prize",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Norway opens new memorial for victims of 2011 massacre",
+        "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
+        "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低19℃"
+  }
+}
