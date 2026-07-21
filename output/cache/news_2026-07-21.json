@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "中華企業が「全自動エージェント」搭載AIスマホ発表…“何でも出来すぎ”で騒動になったnubiaから一般商用化(オタク総研)",
+        "link": "https://news.yahoo.co.jp/articles/94e1e2b8165d3e5f232fcbbcc1fcd0a401be0133?source=rss",
+        "summary": "中国ZTE傘下のスマートフォンメーカー・nubia（ヌビア、努比亜）は、17日から開催された人工知能関連展示会「WAIC 2026」において、同社初のAIエージェントスマートフォン「NaviX Ult",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "生成AI利用、日本は5カ国中最下位？ GoogleのAI概要も4割弱がスルー【アウンコンサルティング調べ】(Web担当者Forum)",
+        "link": "https://news.yahoo.co.jp/articles/fc20d5992ff15016888e8335d80014c225673995?source=rss",
+        "summary": "アウンコンサルティングは、「AIツールの利用状況と検索における利用実態調査」を実施した。日本、アメリカ、ドイツ、インド、シンガポールの20歳以上の男女1,969人が回答している。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "NECネクサソリューションズ、鶴舞中央図書館でリコージャパンのAI音声コンシェルジュの実証実験を実施(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/8adae7cb388ac7e798a10657cac26944e1efe643?source=rss",
+        "summary": "NECネクサソリューションズ株式会社は17日、名古屋市教育委員会およびリコージャパン株式会社と連携し、名古屋市の鶴舞中央図書館において、「RICOH Digital Signage AI音声コンシェ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高36℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+        "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+        "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump’s latest AI czar has already resigned",
+        "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高36℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Trump’s latest AI czar has already resigned",
+        "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高36℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高36℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+        "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Tate brothers appear in US court for extradition proceedings",
+        "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+        "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨 (強)、最高36℃ / 最低22℃、降水量 34mm"
+  }
+}
