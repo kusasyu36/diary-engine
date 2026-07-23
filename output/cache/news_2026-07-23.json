@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米テスラ 4～6月決算 EV販売増加もAI投資かさみ減益に",
+        "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183311000.html",
+        "summary": "アメリカのEV＝電気自動車メーカー、「テスラ」が発表したことし4月から先月までの決算は、EVの販売が増えて増収となりましたが、AI関連の投資が膨らみ、営業利益は57％減少しました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "日本参加の米AI活用科学戦略が始動 原子力分野や重要鉱物重視",
+        "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183111000.html",
+        "summary": "AI＝人工知能を使って科学分野の革新を目指すアメリカの新たな国家プロジェクトで、日本も参加する「ジェネシス・ミッション」が22日始まり、原子力分野や重要鉱物の採掘などの研究開発に重点的に取り組む方針が示されました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AI電話受付「SOPHIA」、用件別の通知振り分け機能を提供開始 IVR乗り換えに対応(Yahoo!ニュース PR［PR］)",
+        "link": "https://news.yahoo.co.jp/articles/c417c1077e6562e7ec4aac28412c71f400795cd1?source=rss",
+        "summary": "株式会社Leadsia（本社：東京都渋谷区、代表取締役：岡 龍助）は2026年7月19日、AI電話受付サービス「SOPHIA（ソフィア）」に、受電内容に応じて通知先を自動で振り分ける新機能「通知振り分",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高35℃ / 最低26℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+        "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+        "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高35℃ / 最低26℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高35℃ / 最低26℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ、最高35℃ / 最低26℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US signs landmark nuclear deal with Saudi Arabia",
+        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+        "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Tankers make sharp U-turns after Houthi shipping threat",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+        "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+        "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": null
+  }
+}
