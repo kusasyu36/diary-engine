@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "ナスダック株価指数 2％超の下落 AI過剰投資警戒や金利上昇",
+        "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184741000.html",
+        "summary": "23日のニューヨーク株式市場では、IT大手などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日と比べて550ポイント余り、率にして2.1％を超える大幅な下落となりました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米テスラ 2026年4～6月期決算増収減益、AIロボティクスなどの投資が重荷(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/a5ee0b61425af2311c6612376fc4b9d0b024312a?source=rss",
+        "summary": "米電気自動車大手テスラが発表した2026年4?6月期（第2四半期）決算は、売上高が前年同期比26％増の282億3600万ドルとなり、四半期として過去最高を更新した。一方で、人工知能（AI）や自動運転",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "RTX 5050～5070搭載の16型ゲーミングノート「Nitro V 16 AI」(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/e5ef57ae0452ad9e489bb5e700b489a26df47aa8?source=rss",
+        "summary": "日本エイサーは7月24日、Core Ultra 7355とGeForce RTX 50シリーズを搭載するゲーミングノートPC「Nitro V 16 AI」を発売した。GeForce RTX 5050",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高32℃ / 最低24℃、降水量 26mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meet the judges who will crown Australia’s next breakout startup",
+        "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+        "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+        "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+        "summary": "Shashua has been invited to take the chairman of the board seat.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高32℃ / 最低24℃、降水量 26mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高32℃ / 最低24℃、降水量 26mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高32℃ / 最低24℃、降水量 26mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "summary": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Oil prices hit $100 for the first time since May",
+        "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+        "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+        "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高29℃ / 最低16℃"
+  }
+}
