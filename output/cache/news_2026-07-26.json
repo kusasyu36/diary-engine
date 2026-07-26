@@ -1,0 +1,98 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
+        "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
+        "summary": "韓国のイ・ジェミョン（李在明）大統領は訪問先のアメリカで、エヌビディアやオープンAIなどAI関連の大手企業のCEOを前に演説し、投資を呼びかけました。このあと韓国大統領府は、半導体の生産や供給などの分野で米韓両国の企業が5年間で日本円にして155兆円規模の事業協力で合意したと発表しました。",
+        "source": "NHKニュース|国際"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高33℃ / 最低23℃、降水量 33mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+        "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+        "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The hacker who humiliated spyware makers and was never caught",
+        "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+        "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+        "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+        "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高33℃ / 最低23℃、降水量 33mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+        "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高33℃ / 最低23℃、降水量 33mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高33℃ / 最低23℃、降水量 33mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "More than 300,000 flee wildfires in France and Spain",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+        "source": "BBC News"
+      },
+      {
+        "title": "India's 'cockroach' protest called off after education minister quits",
+        "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+        "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高31℃ / 最低18℃"
+  }
+}
