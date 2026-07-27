@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
+        "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
+        "summary": "韓国のイ・ジェミョン（李在明）大統領は訪問先のアメリカで、エヌビディアやオープンAIなどAI関連の大手企業のCEOを前に演説し、投資を呼びかけました。このあと韓国大統領府は、半導体の生産や供給などの分野で米韓両国の企業が5年間で日本円にして155兆円規模の事業協力で合意したと発表しました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "鵜呑みにしてはダメダメ！　検索すると「詐欺ではない」　AIをだます新手口、警視庁が注意喚起(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/f3a0c6295d7b2a167576e2cca2b0910a82c78001?source=rss",
+        "summary": "警視庁サイバー犯罪対策課は7月24日、詐欺グループが検索サイトとAIの仕組みを悪用し、被害者が誘導先のSNSグループやサイト名を検索した際、「詐欺ではない」とAIに回答させる手口が確認されたとして注",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "NTTデータ、SAPのERPクラウドとAIを導入--新構想のコンサルティングも開始(ZDNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/472e3c4f214b6e7e53319c4281bd77597ced4084?source=rss",
+        "summary": "NTTデータグループは、「SAP S/4HANA」の基幹システムを「SAP Cloud ERP Private」へ移行すると同時に「SAP Business AI」を新たに導入した。またNTTデータ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低23℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Are brain waves the next unlock for physical AI?",
+        "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+        "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+        "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Making sense of the panic over Chinese AI",
+        "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Inside one London founder house rewriting the founder-house rules",
+        "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+        "summary": "How one founder house is betting work-life balance can beat burnout .",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低23℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Are brain waves the next unlock for physical AI?",
+        "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Making sense of the panic over Chinese AI",
+        "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低23℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低23℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+        "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+        "source": "BBC News"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+        "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+        "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高32℃ / 最低22℃"
+  }
+}
