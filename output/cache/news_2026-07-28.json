@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "ムーア氏も予見していたチップレット集積　AI時代に重要性増す(EE Times Japan)",
+        "link": "https://news.yahoo.co.jp/articles/bf4ae01b3caedc67a95454dd1c0e77086ceec87a?source=rss",
+        "summary": "2026年6月10～12日にかけて、半導体製造後工程に焦点を当てた展示会「SEMISOL 2026」が東京ビッグサイトで開催された。基調講演には、横浜国立大学 総合学術高等研究院 半導体量子集積エレ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "KDDI、雑誌や専門メディアと対話できる新AIサービス「バフミー」(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/20babbbc10f7509d087f202aef498bb140816229?source=rss",
+        "summary": "KDDIは、出版・専門メディアと連携し、信頼性の高い情報と対話できるAIサービス「Buffmee」(バフミー)を開始した。無料プランと、月額980円のプレミアムプランが用意される。プレミアムプランは当",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Jetsonを使ったローカル生成AIの解説ライブ。NVIDIAが開催(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/71f6253e8c58149dbf2bd14dff0e4d3c5f00ced3?source=rss",
+        "summary": "NVIDIAは、7月29日1時から1時30分にかけて、QwenなどのオープンソースモデルをNVIDIA Jetson上で動作させ、ローカル生成AIアプリを構築/実行する方法を解説するライブ配信「NV",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高29℃ / 最低22℃、降水量 2mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+        "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+        "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+        "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高29℃ / 最低22℃、降水量 2mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+        "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高29℃ / 最低22℃、降水量 2mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨、最高29℃ / 最低22℃、降水量 2mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
+        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Temperatures are expected to soar past 40C in some regions as a heatwave builds, further hampering firefighting efforts.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump says Iran war talks taking place during lull in strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+        "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+        "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧雨 (強)、最高32℃ / 最低21℃、降水量 2mm"
+  }
+}
