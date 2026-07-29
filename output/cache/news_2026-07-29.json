@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "「やみくもに走るのは油の無駄」鹿児島でAI漁場予測スタート、8月から無償提供　県と大学が共同開発(FNNプライムオンライン)",
+        "link": "https://news.yahoo.co.jp/articles/12e792a1a5612eafc4f340acbacb5361ec654cb2?source=rss",
+        "summary": "鹿児島県と鹿児島大学が、AIを活用して漁場を事前に予測するシステムを共同開発し、県内の漁業者に無償で提供すると発表した。「広大な鹿児島の海域をやみくもに走るのは油を無駄に使ってしまう」——現場の研究者",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "人の動きをまねるロボットで実演　STのフィジカルAI向け製品群(EE Times Japan)",
+        "link": "https://news.yahoo.co.jp/articles/ee8f9e877607713cbd794125412ee8e115b1f4d1?source=rss",
+        "summary": "STマイクロエレクトロニクス（以下、ST）は「TECHNO-FRONTIER 2026」（2026年7月15～17日、東京ビッグサイト）に出展し、フィジカルAI向けのソリューションやデモを紹介した。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "今日の献立すぐ決まる　ホットクック、ついにAI相談係つきに(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/e0a48abde37567c25fe94bff6a8dd44ea1a8842a?source=rss",
+        "summary": "シャープは7月29日、水なし自動調理鍋「ヘルシオ ホットクック」のproシリーズ新製品を発表した。調理容量2.4Lの「KN-HW24K」と1.6Lの「KN-HW16K」。9月17日発売で、直販価格は",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高34℃ / 最低22℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "summary": "The deal is Cyera's third acquisition this year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+        "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+        "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+        "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sam Altman is ready to decelerate",
+        "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+        "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高34℃ / 最低22℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "summary": "The deal is Cyera's third acquisition this year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+        "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+        "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk’s X Money app is rolling out in the US",
+        "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+        "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高34℃ / 最低22℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高34℃ / 最低22℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Watch: The moment quake hit Japan",
+        "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+        "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran and US trade strikes, shattering brief lull in fighting",
+        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+        "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+        "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+        "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump administration bans new Chinese humanoid robots",
+        "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高30℃ / 最低20℃"
+  }
+}
