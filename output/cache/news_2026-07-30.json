@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米IT決算 マイクロソフト増益もメタ減益 AIで明暗分かれる",
+        "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190491000.html",
+        "summary": "アメリカの大手IT企業が先月までの3か月間の決算を相次いで発表し、このうち「マイクロソフト」はAI向けのクラウド事業が好調だったことなどで大幅な増益となった一方、「メタ」はAI関連などの費用が増えたことによって減益となりました。各社がAIへの投資を強化する中で明暗が分かれた形です。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "アンソロピックCEOなど米AI企業幹部 AI開発にペース管理必要",
+        "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189731000.html",
+        "summary": "AIの開発競争が過熱する中、アメリカのAI新興企業の幹部など1100人余りが、AIの開発ペースを調整する国際的な取り組みをアメリカ政府が支援するよう求める声明文を公表しました。「私たちの理解や制御能力を超えて、能力の開発が急速に進む現実的なリスクが存在する」としています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AIは「核兵器級の脅威」にも--OpenAIやAnthropicなどの1273人、開発減速の仕組みづくりを提言(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/cb808f16627c6c25e8f1c9d94659e82f24a06250?source=rss",
+        "summary": "OpenAI、Anthropic、Google DeepMind、Meta AIなど主要AI企業の従業員有志は米国時間7月29日、共同声明「Pacing the Frontier」を公開した。AI開",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高34℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US military says it launched a \"heavy\" attack on Iran in retaliation for attempted Iranian ballistic missile strikes on American forces.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+        "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+        "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+        "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 晴れ時々曇り、最高30℃ / 最低20℃"
+  }
+}
