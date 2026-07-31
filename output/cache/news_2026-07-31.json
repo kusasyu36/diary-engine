@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米アンソロピックのAI 試験中に外部組織に不正アクセス",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015192061000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は30日、自社のAIモデルが性能のテスト中にインターネットに接続し、サイバー攻撃や不正アクセスを行っていたことを明らかにしました。同じような事例は「オープンAI」でも今月、明らかになっていて、AI技術の急速な発展に安全対策が追いついていない実態が浮き彫りになっています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "アメリカGDP 4月-6月プラス1.5％ 堅調な個人消費やAI投資背景",
+        "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191341000.html",
+        "summary": "アメリカのことし4月から6月までのGDP＝国内総生産が発表され、前の3か月と比べた伸び率は、年率に換算してプラス1.5％となりました。前の期よりも減速したものの底堅い個人消費やAI関連への活発な投資などを背景に5期連続のプラスとなりました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AIが人間の認知機能に与える“ダメージ”とは　世界中で行われる「AIと副作用の研究」を解説(リアルサウンド)",
+        "link": "https://news.yahoo.co.jp/articles/044fec6be2c564121835a5d7aa287be4b49dd5ca?source=rss",
+        "summary": "生成AIは、ChatGPTの登場以降、現在ではインターネット検索と並ぶ情報技術として普及しつつある。多くのユーザーが、仕事や趣味でこの技術の恩恵にあずかっていることだろう。  　こうしたなか、様々な",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高33℃ / 最低24℃、降水量 2mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+        "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+        "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+        "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+        "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高33℃ / 最低24℃、降水量 2mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+        "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+        "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高33℃ / 最低24℃、降水量 2mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨、最高33℃ / 最低24℃、降水量 2mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+        "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+        "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+        "source": "BBC News"
+      },
+      {
+        "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+        "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高32℃ / 最低21℃"
+  }
+}
