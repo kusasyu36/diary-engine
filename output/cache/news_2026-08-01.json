@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "中国進出の日系企業「輸出規制強化の中 税関審査が長期化」",
+        "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193291000.html",
+        "summary": "中国に進出する日系企業に事業環境について聞いたところ、満足しているという回答がおよそ6割だった一方、軍民両用品目の輸出規制が強化される中で一般貨物でも税関審査が長期化するなどの影響が出ていることが、日系企業でつくる団体の調査で分かりました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米アンソロピックのAI 試験中に外部組織に不正アクセス",
+        "link": "http://www3.nhk.or.jp/news/html/20260731/k10015192061000.html",
+        "summary": "アメリカのAI新興企業「アンソロピック」は30日、自社のAIモデルが性能のテスト中にインターネットに接続し、サイバー攻撃や不正アクセスを行っていたことを明らかにしました。同じような事例は「オープンAI」でも今月、明らかになっていて、AI技術の急速な発展に安全対策が追いついていない実態が浮き彫りになっています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米Anthropic、AIモデル「Claude」がテスト中に外部3社へ不正アクセスしたと公表(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/10af0ebb26f5466965e38ab2bc069c18ae0e0d64?source=rss",
+        "summary": "米Anthropicは2026年7月30日、同社のAIモデル「Claude」がサイバーセキュリティ能力の評価試験中に、実在する外部3組織のシステムへ不正アクセスしていたと発表した。設定の不備でテスト",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高35℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+        "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+        "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Silicon Valley loves young founders. Until it doesn’t.",
+        "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+        "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India is starting to pay for apps, not just download them",
+        "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+        "summary": "India's app market generated a record $345 million in Q2.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高35℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+        "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+        "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+        "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高35℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高35℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低20℃"
+  }
+}
