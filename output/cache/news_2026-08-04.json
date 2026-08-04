@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "ネットワン、AIと監視カメラを組み合わせてクマの出没をリアルタイムで自動検知するソリューション(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/2f490fabf9726c78cef953fd134ff2c9f36ca340?source=rss",
+        "summary": "ネットワンシステムズ株式会社（以下、ネットワン）は3日、AIと監視カメラの組み合わせでクマの出没をリアルタイムで自動検知・自動通知する「AIクマ検知・通知ソリューション」を提供開始すると発表した。広",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "電通総研、AI活用に向けたデータカタログソリューション「DdataGallery」を提供開始(BCN)",
+        "link": "https://news.yahoo.co.jp/articles/2dff32bc6c8e1d65ad8b167a7dd04427fc6d6f4f?source=rss",
+        "summary": "電通総研は8月3日、「BusinessSPECTRE」シリーズのオプションとして、企業データ基盤の実現を促進するデータカタログソリューション「DdataGallery」を提供開始した。データをAIに",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Nyxとコノエ、「ハルシネーションしないAI」へ共同研究、Leanと圏論で出力を数学的に保証(あたらしい経済)",
+        "link": "https://news.yahoo.co.jp/articles/5b0f6828fe71f96eddb3efb15f26a5022e228480?source=rss",
+        "summary": "イーサリアム（Ethereum）に特化した日本の私設研究機関ニックス・ファウンデーション（Nyx Foundation：以下、Nyx）が、AIセーフティを専門とするコノエ・インテリジェンス（Konoe",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低22℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+        "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+        "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+        "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+        "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+        "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低22℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+        "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+        "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低22℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低22℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "EU calls for stronger borders after Ceuta migrant crossings",
+        "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+        "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高29℃ / 最低20℃"
+  }
+}
