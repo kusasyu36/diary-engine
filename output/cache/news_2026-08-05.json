@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
+        "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196821000.html",
+        "summary": "宇宙開発やAI事業を手掛けるアメリカの「スペースX」は上場後、初めてとなることし6月までの3か月間の決算を発表し、衛星通信サービスが好調だった一方、AI開発への投資が負担となり、最終的な損益は赤字となりました。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "デザイン業の倒産、14年ぶり高水準　生成AIによる内製化も影響か(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/8d430687e2a0b756748b480cccdc31a416a12e52?source=rss",
+        "summary": "東京商工リサーチは8月2日、グラフィックデザインやインテリアデザインなどを手がける「デザイン業」の倒産が急増しているとする調査結果を公表した。2026年上半期（1〜6月）の倒産は40件で、前年同期の",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "「くにゃっ」と握れるケーブルケースや斜め挿し充電器も　オウルテックの新ブランド「soft」のアイデアに注目(ITmedia Mobile)",
+        "link": "https://news.yahoo.co.jp/articles/d8f48d7d135dea2b373fb2921cb0374964b24418?source=rss",
+        "summary": "オウルテックが、スマートフォンアクセサリーの新ブランド「soft」を発表。ケーブルや充電器、スマホスタンドなどの製品を2026年9月上旬に発売する。  　softは文字通り、「やわらかく、そばにいる",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高29℃ / 最低21℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+        "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+        "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+        "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+        "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+        "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高29℃ / 最低21℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+        "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+        "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高29℃ / 最低21℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高29℃ / 最低21℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+        "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+        "source": "BBC News"
+      },
+      {
+        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+        "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington にわか雨、最高29℃ / 最低24℃、降水量 7mm"
+  }
+}
