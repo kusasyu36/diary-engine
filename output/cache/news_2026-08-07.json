@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "エイサー、Ryzen AI 7 450搭載の16型ゲーミングノート「Nitro V 16 AI」　実売約43万円から(ITmedia PC USER)",
+        "link": "https://news.yahoo.co.jp/articles/90ca3d644d4a25997983176b984e11f180a9bac7?source=rss",
+        "summary": "日本エイサーは8月7日、AMD Ryzen AI 7 450プロセッサーを搭載した16型ゲーミングノートPC「Nitro V 16 AI」3機種を発表した。価格は42万9800円から。  　「ANV",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始　利用は申請制(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/9640f8d855512d6fc7d2ede850d5a7a34df7dad8?source=rss",
+        "summary": "さくらインターネットは8月4日、生成AI向け推論API基盤「さくらのAI Engine」で、Preferred Networks（PFN）の国産大規模言語モデル（LLM）「PLaMo 3.0 Pri",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "ヒョンデのヒューマノイド計画が映し出す、フィジカルAIをめぐる混乱(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/96dffeaf295d6e73813c55b22cff97d3866a2b90?source=rss",
+        "summary": "労働者は、AIがもたらす技術の変化を、とりわけフィジカルAI（実世界で動くロボットなどに搭載され、物理的に作業をこなすAI）がもたらす変化をどう受け止めているのだろうか。  韓国の労働組合の動きを伝え",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高31℃ / 最低24℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+        "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+        "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Fr",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vogue just gave another nod of approval to the tech world",
+        "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+        "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
+        "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+        "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高31℃ / 最低24℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT brings unlimited text chats to free users",
+        "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+        "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok lays off 250 employees, shutters its Nashville office",
+        "link": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
+        "summary": "The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高31℃ / 最低24℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高31℃ / 最低24℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+        "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+        "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨、最高35℃ / 最低22℃、降水量 2mm"
+  }
+}
