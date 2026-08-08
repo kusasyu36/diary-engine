@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "OpenAI次世代モデル「Astra」の開発を一時制限　高いサイバー能力に懸念(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/91a0d6040cc286f6fa911624db505363d6748271?source=rss",
+        "summary": "OpenAIは7日(米国時間)、次世代モデル「Astra」について、社内評価で高い進歩を示す一方で、サイバー攻撃能力が社内の安全ガイドラインで最上位の「Critical(クリティカル)」になる可能性が",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Fable 5より105倍安いDeepSeek新AI、それでも「総コスト」が下がらない理由(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/1893444eadcc5ea8d2f24d3691a4788d6ad6e77b?source=rss",
+        "summary": "DeepSeekは先に最新モデル「V4 Flash」をリリースした。推計によると、ベンチマークタスク1回あたりのコストは0.03ドルで、Anthropicの「Claude Fable 5」（同3.15",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "米国はAI計算資源に78兆円、中国テンセンがは100万トークン20円のHy3で挑む(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/45984298426312caf82b5ad1ba0c3e72722d1dd7?source=rss",
+        "summary": "OpenAIとソフトバンク、オラクルは、Stargate（スターゲート）プロジェクトを通じてAIインフラに最大5000億ドル（約78兆5000億円）を投じようとしている。その傍らで、テンセントのHy3",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高32℃ / 最低25℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+        "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+        "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+        "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+        "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高32℃ / 最低25℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高32℃ / 最低25℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ、最高32℃ / 最低25℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+        "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+        "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+        "source": "BBC News"
+      },
+      {
+        "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+        "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+        "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧雨 (弱)、最高35℃ / 最低23℃"
+  }
+}
