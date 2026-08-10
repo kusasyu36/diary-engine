@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "VAIO、内蔵カメラに写る「顔」から心拍数や血管情報を推定する新機能　個人向けPCに搭載(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/957cc58bbb77a3cca7042dc3cc5eca886e8a42bf?source=rss",
+        "summary": "VAIOは8月10日、PCの内蔵カメラで「血管情報」と「心拍情報」を測定できるアプリ「VAIO ウェルネスケア」の先行プレビュー版を、個人向けノートPC「VAIO SX14-R」（VJS4R2シリー",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "KPMG、経営層の半数近くがコスト超過でAIエージェントを縮小と報告(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/1cfb7fa0a6e23cda8438cacc6ab35edb7677deb1?source=rss",
+        "summary": "ある統計がソーシャルメディアをにぎわせた。KPMGによれば、コストが効果を上回ったことを受けて、AIエージェントの導入を先送りしたり規模を縮小したりした経営層が半数近くにのぼるという。  予測市場（将",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "summary": "The AI-focused hedge fund is still making some big bets.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is turning Claude Code’s auto mode on by default",
+        "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "summary": "Programming with Claude Code will soon require even less human oversight.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+        "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Anthropic is turning Claude Code’s auto mode on by default",
+        "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "summary": "Programming with Claude Code will soon require even less human oversight.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The AI safety test is becoming a safety risk",
+        "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+        "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+        "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Evidence that South African special forces murdered top detective shared with BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Drones spotted over German base days after Leipzig bomb incident",
+        "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高36℃ / 最低23℃"
+  }
+}
