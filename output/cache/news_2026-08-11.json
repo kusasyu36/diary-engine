@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AIエージェントを「従業員化」する企業が急増、新たな組織図が招く自信喪失とミスの連鎖(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/ff4fa08d02f6a9b9b09e65f95c6750b5822633fa?source=rss",
+        "summary": "AIエージェントを従業員として位置づけるべきだろうか。  これは比喩表現ではない。CEOやリーダーたちが組織図を通じて答え始めている現実の問題である。  Harvard Business Review",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に　特化型「GPT-5.6-Cyber」投入(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/e82f67a7c80d5903b04a5adad467cbf66f97e42d?source=rss",
+        "summary": "米OpenAIは8月10日（現地時間）、サイバーセキュリティの防御者向けの取り組み「Daybreak」を拡張し、承認ユーザーに向けて「Daybreak Blue」「Daybreak Red」という2",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高28℃ / 最低22℃、降水量 24mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "summary": "San Francisco's housing market is in trouble again.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+        "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jeff Bezos might finally get his hands on a sports team",
+        "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+        "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Now Rippling is counter-suing tiny startup Runlayer",
+        "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+        "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高28℃ / 最低22℃、降水量 24mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "summary": "San Francisco's housing market is in trouble again.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+        "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+        "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+        "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高28℃ / 最低22℃、降水量 24mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高28℃ / 最低22℃、降水量 24mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "At least 132 killed in Colombia's largest  earthquake in years",
+        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Canada flight cancelled after child refuses to wear seat belt",
+        "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+        "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+        "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+        "source": "BBC News"
+      },
+      {
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高35℃ / 最低21℃"
+  }
+}
