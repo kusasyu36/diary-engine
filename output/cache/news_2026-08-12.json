@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AIエージェント「Manus」、Meta買収から8ヵ月で再独立へ　一部ユーザーデータ削除も(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/f6b48f2908b9a79a052e917a8acb691f456090ed?source=rss",
+        "summary": "Meta傘下に入ったAIエージェント「Manus」が、わずか8ヵ月ほどで再び独立企業に戻る。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "小4いとこと大学生がLINEでやり取り⇒小4の素朴すぎる質問に「唐突に浄化された」「ほっこりした」(ハフポスト日本版)",
+        "link": "https://news.yahoo.co.jp/articles/2b10bf8d8152319398479c4b290f2996cd66a927?source=rss",
+        "summary": "「小4のいとことLINE繋いだんだけど、流石にかわいすぎている」",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高26℃ / 最低22℃、降水量 60mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+        "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+        "summary": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+        "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+        "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+        "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber surprised robotics company Serve by selling its entire stake",
+        "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+        "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高26℃ / 最低22℃、降水量 60mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Gemini app surges to 1 billion users",
+        "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+        "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+        "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高26℃ / 最低22℃、降水量 60mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高26℃ / 最低22℃、降水量 60mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+        "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump says he switched planes after Nato summit because of possible threat",
+        "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "summary": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+        "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+        "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低22℃"
+  }
+}
