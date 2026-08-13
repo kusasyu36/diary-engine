@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "「AI生成コンテンツ、実は嫌いではない」　だが「客の半分が去る」本当の理由(＠IT)",
+        "link": "https://news.yahoo.co.jp/articles/e82a6a9fdbfca54e31586763957b8830d12a4639?source=rss",
+        "summary": "エンジニアプラットフォーム事業を展開するTWOSTONE＆Sonsは2026年8月4日、BtoB商材の比較検討や発注業務に携わる担当者を対象に実施した「コンテンツのAIっぽさに関する意識調査」の結果",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "グーグル、腕時計で呼吸異常をAI検知──Pixel Watch 5投入(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/ee75cf1c021e1fdf82b4f13bba43b440a317f94b?source=rss",
+        "summary": "米グーグルは8月12日（現地時間）、スマートウオッチ「Pixel Watch 5」を発表した。新機種の投入に合わせ、Google Healthで血圧とインスリン抵抗性の長期的な傾向を追跡する機能を9",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI nuclear power firm Fermi finally has a new CEO",
+        "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+        "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+        "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+        "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+        "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI nuclear power firm Fermi finally has a new CEO",
+        "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+        "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+        "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+        "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+        "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israeli settlers besieging Palestinian families in West Bank village",
+        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+        "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Three men will be executed on the same day as death penalties rise in US",
+        "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高34℃ / 最低23℃"
+  }
+}
