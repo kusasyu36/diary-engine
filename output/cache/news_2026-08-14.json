@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "広告リサーチ・AIツール「アド.com」、MCP連携（β版）の提供を開始(Yahoo!ニュース PR［PR］)",
+        "link": "https://news.yahoo.co.jp/articles/4cd00e2c0cdd70043f17f8160fa3c6e1279b8201?source=rss",
+        "summary": "広告リサーチ・AIツール「アド.com」を提供する株式会社アドドットコム(本社:東京都港区、代表取締役:杉山善則、高橋健斗)は、ClaudeやChatGPTなどのAIアシスタントから同ツールを直接操作",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "培養「ミニ脳」がAIを超える？ニューロンで動く「生物コンピューター」の衝撃(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/efeaf1795009610d7cce101b90957c96f1e74bcf?source=rss",
+        "summary": "「ミニ脳」と呼ばれる脳オルガノイドや培養神経細胞を、計算機として使う研究が進んでいる。培養神経は、限られた実験で少ない試行から学ぶ性質を示している。",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高29℃ / 最低23℃、降水量 12mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+        "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+        "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+        "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+        "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool w",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+        "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+        "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高29℃ / 最低23℃、降水量 12mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+        "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高29℃ / 最低23℃、降水量 12mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高29℃ / 最低23℃、降水量 12mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US says dozens of countries helped China dodge Trump's tariffs",
+        "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高29℃ / 最低24℃"
+  }
+}
