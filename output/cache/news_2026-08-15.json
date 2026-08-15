@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "トランプ家の暗号資産会社、米国の銀行免許取得を規制当局が承認(NADA NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/da49568f138bcc6a8a5ff60f3f327410a4dcaddf?source=rss",
+        "summary": "米通貨監督庁（OCC）は8月14日、トランプ米大統領の家族が関与する暗号資産（仮想通貨）事業World Liberty Financial（ワールド・リバティ・ファイナンシャル）による信託銀行の設立を",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "「Pixel 11」シリーズはスマホを見る時間を減らす？　Googleが目指した“AI×ユーザーの再定義”とは(ITmedia Mobile)",
+        "link": "https://news.yahoo.co.jp/articles/52a95712313388794715e359ba7cb0e969e52a05?source=rss",
+        "summary": "Googleは、8月12日にPixelの最新シリーズとなる「Pixel 11」シリーズを発表した。ラインアップは前モデルを踏襲しており、ベースモデルの「Pixel 11」と、画面サイズを分けた大小2",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+        "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+        "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Self-driving trucks are officially testing on California highways",
+        "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+        "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+        "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+        "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What we know about the alleged Iranian hacks on US water utilities",
+        "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+        "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly c",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+        "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+        "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+        "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+        "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (強)、最高28℃ / 最低23℃、降水量 2mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+        "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+        "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+        "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+        "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高32℃ / 最低23℃"
+  }
+}
