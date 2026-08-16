@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "OpenAIがChatGPTにPC操作履歴を記憶・学習させる機能「Computer History」を提供開始(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/5d5930be35a0594484cb67fe7336421e2a0e1270?source=rss",
+        "summary": "米OpenAIはChatGPTデスクトップアプリにおいて、ユーザーのPC操作履歴を記録・学習する新機能「Computer History」の提供をオプトイン方式で開始した。macOS向けから先行リリ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "酷暑の夏こそ〝顔サウナ〟!?オフィスでも瞬時にととのう「テックオシボリ」って何？(＠ＤＩＭＥ)",
+        "link": "https://news.yahoo.co.jp/articles/ae375a45379a7a63807efc353e6edc112da1ef03?source=rss",
+        "summary": "猛暑の中、汗だくで入った飲⾷店で、キンキンンに冷えたおしぼりや熱々のおしぼりで顔を拭いて、生き返った気持ちになった経験を持つ人は多いだろう。「あの快感をいつでも味わえたらいいのに」と思っている人に朗報",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低22℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to tell if your AI platforms’ accounts have been hacked",
+        "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低22℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to tell if your AI platforms’ accounts have been hacked",
+        "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低22℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高26℃ / 最低22℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington にわか雨 (強)、最高29℃ / 最低23℃、降水量 60mm"
+  }
+}
