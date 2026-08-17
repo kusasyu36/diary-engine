@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "学生さん、気を付けて。AIが作った文章に「見えない透かし」が入るってよ(ギズモード・ジャパン)",
+        "link": "https://news.yahoo.co.jp/articles/8e1475378295a5fe092187b21f22219100fdfbe6?source=rss",
+        "summary": "AI文章にもついに足跡が残る！  AIに作らせた文章を自分で書いたものとして提出している学生やビジネスマンにとって、今後ごまかすのが少し難しくなってきそうな動きです。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "スーパーのAIカート、客単価32％増と関連──買いすぎ懸念(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/20b6d000b7e93c63c7bda1e83707c5b21a5b0a7f?source=rss",
+        "summary": "AI搭載のスマートカートを使った買い物は、使わない場合よりも平均支出額が32％高いという。英ベイズ・ビジネススクールなどの研究チームが、ドイツのスーパーで1万2418回の購買データを分析したことから",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低22℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+        "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低22℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低22℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低22℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+        "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+        "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨 (弱)、最高33℃ / 最低23℃、降水量 2mm"
+  }
+}
