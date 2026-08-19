@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "グーグル、米国のAndroid向け「Chrome」にGeminiを統合 AIがブラウザ自動操作(ケータイ Watch)",
+        "link": "https://news.yahoo.co.jp/articles/c0ef94b26dd7202c6f10bdeb245fcd27850c14e7?source=rss",
+        "summary": "米グーグルは現地時間18日、米国の全ユーザーを対象に、Android版「Gemini in Chrome」の提供を開始したと発表した。  　Chromeに統合されたGeminiにより、閲覧中のWeb",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Sapeet、AI導入の新常識を提案！成果起点のAX実行組織始動(Yahoo!ニュース PR［PR］)",
+        "link": "https://news.yahoo.co.jp/articles/7c2fcfa9a460d350f656945c31d7249602532675?source=rss",
+        "summary": "AI導入のPoC（概念実証）で立ち止まっていませんか？Sapeetが提案する新しいアプローチ「SAPEET AX SDO」は、企業が求める成果を起点に一貫した支援を提供します。戦略策定から運用までをシ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高32℃ / 最低22℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+        "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+        "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok explores peer-to-peer payments via DMs, report says",
+        "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+        "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高32℃ / 最低22℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "TikTok explores peer-to-peer payments via DMs, report says",
+        "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+        "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高32℃ / 最低22℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高32℃ / 最低22℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Meta hooked children on Facebook and Instagram, US court hears",
+        "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+        "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+        "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低20℃"
+  }
+}
