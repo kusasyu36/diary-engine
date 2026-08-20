@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "なぜAnthropicなどAI企業は、古書を買い集め裁断し処分しているのか(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/4edb635e949baec7284f6028c73baf03fab74f8d?source=rss",
+        "summary": "作家、アーキビスト（文書や記録資料の保存を担う専門職）、歴史家、そして愛書家たちが、大手テック企業やAI開発企業に対してネット上で総攻撃を展開している。きっかけは、これらの企業が稀覯本や古書を大量に買",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "OpenAI、「2027年に上場」方針をCFOが示す　成長加速なら前倒しも(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/985975346233e92d17f5faf1baac553c7cf97bbb?source=rss",
+        "summary": "OpenAIの最高財務責任者（CFO）であるSarah Friar氏は全社集会で、同社が「2027年に上場企業になる」と語ったという。CNBCが米国時間8月19日、この発言を知る2人の人物の話とし",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+        "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+        "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高31℃ / 最低23℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "summary": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Giant whales move into Greenland waters as ice disappears",
+        "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+        "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 雨、最高33℃ / 最低22℃、降水量 3mm"
+  }
+}
