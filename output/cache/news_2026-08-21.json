@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "Adobe、無料で生成AI試せるように　画像、動画、音声も作れる(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/3e86bc0364618d9b2749828e8d060cccfe9595b8?source=rss",
+        "summary": "アドビは8月21日、日本向けに「Adobe Firefly AIアシスタント無料体験プログラム」の提供を始めた。対象ユーザーは毎日一定の回数まで画像、動画、音声を無料で生成できる。",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "人によって価格が違う「パーソナライズド・プライシング」、米FTCが規制案を公開(CNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/466c0239f537df5f720692fa0ef5b651f4fee009?source=rss",
+        "summary": "米連邦取引委員会（FTC）は、消費者向け価格は需給によって変動すべきだが、一部の企業は消費者のオンライン検索や購買行動に基づいて価格を変え始めていると指摘している。FTCは、こうした動きを規制したい",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+        "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+        "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+        "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+        "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+        "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders lev",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+        "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高30℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "source": "BBC News"
+      },
+      {
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "source": "BBC News"
+      },
+      {
+        "title": "El Niño set to be 'strongest in living memory', says Met Office",
+        "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Why the US economy is ringing alarm bells",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高29℃ / 最低18℃"
+  }
+}
