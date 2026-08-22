@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AIエージェントは「環境」で伸びる？ グーグルらが学習環境基盤EnvHarnessを公開(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/cef980c2e9cb50dfa826543d3328897616d26009?source=rss",
+        "summary": "米グーグル・クラウドのAI研究部門などの研究チームは、AIエージェントの学習環境を動的に調整する新基盤「EnvHarness」を公開した。既存環境の内部コードを変えず、エージェントの弱点に合わせて学",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Opus 4.8匹敵、DeepSeek V4 Flashの画像対応AIモデル公開(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/b7337d62e102c70a178d9644c12e6475c047006c?source=rss",
+        "summary": "DeepSeekのAIモデルが、ついに画像を扱えるようになった。DeepSeekは8月21日(日本時間)、画像を読めるマルチモーダルモデル「DeepSeek-V4-Flash-Vision-Exp」",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高30℃ / 最低24℃、降水量 3mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 m",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高30℃ / 最低24℃、降水量 3mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+        "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+        "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+        "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+        "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (強)、最高30℃ / 最低24℃、降水量 3mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (強)、最高30℃ / 最低24℃、降水量 3mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+        "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+        "source": "BBC News"
+      },
+      {
+        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+        "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+        "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧雨 (弱)、最高26℃ / 最低20℃"
+  }
+}
