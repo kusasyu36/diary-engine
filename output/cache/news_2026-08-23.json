@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AI事業者は学習データ開示、政府が知財保護基本指針案を発表(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/48527e76a3bb7acf9411b1d57788040ef0c5233b?source=rss",
+        "summary": "政府は2026年8月18日、生成AIの学習データ公開や権利者への情報開示などを定めた事業者向けの基本指針案を有識者会議で示し、大筋で了承された。日本向けに事業を展開する海外企業も対象とし、法的拘束力",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "“AIっぽい資料”を見抜く人が9割　見破られたコンテンツが招く商談機会の喪失(TechTargetジャパン)",
+        "link": "https://news.yahoo.co.jp/articles/2f04a4c7ad6ce06ee861d82475c622da53f934d6?source=rss",
+        "summary": "B2B商材の比較検討や発注業務において、Webコンテンツは重要な情報収集手段だ。製品選定担当者は日々膨大な資料や記事に目を通し、自社に最適なサービスを探し求めている。そこに「AIらしさ」を感じた場合",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高30℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+        "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+        "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+        "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高30℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高30℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高30℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+        "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+        "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧雨 (強)、最高30℃ / 最低20℃、降水量 2mm"
+  }
+}
