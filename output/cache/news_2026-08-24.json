@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "米国で若者のAI不安強まる…55％が「期待より懸念」、雇用減予想も増加(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/149a6aa27104c99942b2caa0438f5415868da209?source=rss",
+        "summary": "米調査機関ピュー・リサーチ・センターは8月18日、米国の30歳未満の55％がAIの利用拡大について「期待より懸念が大きい」と答えたとの分析を公表した。2021年の31％から24ポイント上昇した。さら",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "マウス、約95万円のRyzen AI Max+搭載ミニPC「DAIV CX-A9A60」発売(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/9963387b66e222cd5b0444531b2cd35b254bec4c?source=rss",
+        "summary": "比較的大きいモデルをローカルで実行できる環境としてRyzen AI Max+ 395を搭載したPCが人気だが、マウスコンピューターもついにこの市場に参入した。製品名は「DAIV CX-A9A60」で",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高32℃ / 最低24℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+        "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+        "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+        "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高32℃ / 最低24℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高32℃ / 最低24℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高32℃ / 最低24℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Guinea rubbish landfill collapse kills 30",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 晴れ、最高29℃ / 最低17℃"
+  }
+}
