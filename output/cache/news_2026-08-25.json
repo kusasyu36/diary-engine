@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "NVIDIA、エージェント型AIを最大4倍高速化する「Groq 3 LPX」(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/6a9114aba96ce23b8bf77dce8e84b94738ed15ce?source=rss",
+        "summary": "NVIDIAは8月24日、インタラクティブAI推論アクセラレーター「NVIDIA Groq 3 LPX」の量産開始を発表した。これによりNVIDIA Vera Rubinプラットフォームを拡張し、エー",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "シャオミ、独自AIチップ戦略を加速──自社半導体を3領域へ(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/3392e91e2e39b3e23ee28f56e0078ca024be7975?source=rss",
+        "summary": "中国スマートフォン・家電・EV大手のシャオミは8月24日、自社開発の「玄戒」シリーズで、スマートフォン向けSoC「O3」、端末AI向け加速チップ「O100」、自動運転向け「D100」の3製品を発表し",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高33℃ / 最低23℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+        "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+        "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+        "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+        "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高33℃ / 最低23℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+        "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+        "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ、最高33℃ / 最低23℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ、最高33℃ / 最低23℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+        "source": "BBC News"
+      },
+      {
+        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US removes Syria from list of state sponsors of terrorism",
+        "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "source": "BBC News"
+      },
+      {
+        "title": "French tourist dies in Death Valley after car gets stuck in mud",
+        "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高29℃ / 最低17℃"
+  }
+}
