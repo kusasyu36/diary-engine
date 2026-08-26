@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "ソフトバンク、AIグラス「Meta Glasses」を約5万円から発売　カラーや度付きレンズも組み合わせられる(ITmedia Mobile)",
+        "link": "https://news.yahoo.co.jp/articles/344f394bdff684ada84630b655be353ae7dbf371?source=rss",
+        "summary": "ソフトバンクは、8月26日にAIグラス「Meta Glasses」を販売開始。価格は5万600円からで、ソフトバンクオンラインショップや一部ソフトバンクショップで取り扱う。  　本製品はClassi",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "Meta、50600円の新AIグラス「Meta Glasses」(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/18624b5626518103130d3e8df4aceff7785a1e9a?source=rss",
+        "summary": "MetaとEssilorLuxotticaは、AIグラス「Meta Glasses」を日本で発売した。Meta.comとMetaの認定小売店で販売し、価格は50,600円から。カラー、レンズ、フレーム",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低25℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+        "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+        "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+        "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低25℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+        "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+        "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+        "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 曇り、最高34℃ / 最低25℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 曇り、最高34℃ / 最低25℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+        "source": "BBC News"
+      },
+      {
+        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "source": "BBC News"
+      },
+      {
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+        "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高30℃ / 最低18℃"
+  }
+}
