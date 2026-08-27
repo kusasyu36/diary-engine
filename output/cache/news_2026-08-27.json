@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "レイバンより2万円以上安くて機能同じ。コスパ重視派ニッコリなMeta AIグラス(ギズモード・ジャパン)",
+        "link": "https://news.yahoo.co.jp/articles/a1abb89ccc04e936208c46924132ecdb08dd4144?source=rss",
+        "summary": "体験重視なら、コレで！  Metaは今年5月21日にカメラ付きAIグラス「Ray-Ban Meta」、「Oakley Meta」を国内で販売開始。  Ray-Banブランド、Oakleyブランドなだけ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "AIブームで英国に「架空データセンター」急増…電力網を狂わせる投機案件を選別へ(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/73ff45cd5d4074042976508647b1bf01db06dfdf?source=rss",
+        "summary": "英国で、実現性の低いデータセンター計画が電力網の接続待ちを膨らませる「架空データセンター」問題が表面化している。英エネルギー規制当局オフジェムによると、需要接続の契約オファー容量は41GWから125",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+        "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+        "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+        "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+        "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+        "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+        "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+        "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+        "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+        "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+        "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+        "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高28℃ / 最低23℃、降水量 7mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+        "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+        "source": "BBC News"
+      },
+      {
+        "title": "What we know about deadly Nepal-Tibet floods",
+        "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+        "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+        "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+        "summary": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低23℃"
+  }
+}
