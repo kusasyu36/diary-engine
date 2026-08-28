@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "高市総理、AI家庭教師で「物価高対策シミュレーター」を作る 「こういうのが欲しかった」(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/9525d4194a5c1ffac012ca6b40904f6b93c0cf39?source=rss",
+        "summary": "高市総理は28日夕方、チームみらいの安野党首らから「AI家庭教師」を受け、最新AIの能力を体験した。簡単な音声のやりとりだけで「物価高対策シミュレーター」を作り、簡単にAIで政策の効果検討などに繋げら",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "「半導体はAIが設計、人間は監督に」 次世代EDAへの取り組み(EE Times Japan)",
+        "link": "https://news.yahoo.co.jp/articles/a2e38c07c4f28c3d97fb717db077e3679d19fd3a?source=rss",
+        "summary": "Keysight Technologies（以下、Keysight）の日本法人であるキーサイト・テクノロジー（以下、キーサイト）は2026年8月26日、設計／開発／検証エンジニア向けイベント「Key",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高32℃ / 最低23℃、降水量 2mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Apple TV is raising its subscription prices again",
+        "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+        "summary": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+        "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+        "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+        "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+        "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高32℃ / 最低23℃、降水量 2mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+        "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+        "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+        "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+        "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+        "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports in",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高32℃ / 最低23℃、降水量 2mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨、最高32℃ / 最低23℃、降水量 2mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+        "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump signs order to rename Lake Ontario as Lake America",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.",
+        "source": "BBC News"
+      },
+      {
+        "title": "World's youngest reigning traditional monarch dies aged 34",
+        "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+        "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高31℃ / 最低23℃"
+  }
+}
