@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "KDDIとみちのりHD、5GネットワークをAIで自動最適化　日立市の自動運転バスで検証へ(ITmedia Mobile)",
+        "link": "https://news.yahoo.co.jp/articles/007244dd300108207bef20370d045868486ccb09?source=rss",
+        "summary": "KDDIとみちのりホールディングス（みちのりHD）は、自動運転向けにAIが通信品質を自律的に最適化する通信技術を活用し、2026年9月1日から茨城県日立市で自動運転バスを用いた通信技術実証を実施する",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "OpenAI、Cursorへのモデル提供を終了　理由は「SpaceXによる買収」(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/ba747bf5e96a7d305babde15eb776d8164e17227?source=rss",
+        "summary": "OpenAIは28日(米国時間)、SpaceXによるCursor買収を受けて、コーディングエージェント「Cursor」へのOpenAIの最新モデルの提供を終了すると発表した。同日にSpaceXにモデル",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+        "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+        "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is the best way to watch a movie on a pair of sunglasses?",
+        "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+        "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "summary": "There's a lot of capital pouring into the business of giving models away.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+        "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+        "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "source": "BBC News"
+      },
+      {
+        "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+        "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+        "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 快晴、最高30℃ / 最低19℃"
+  }
+}
