@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "OpenAIがCursorへのモデル提供契約を終了へ、マスク氏のSpaceXによる買収を理由に(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/dde30091439b9bf647c178b78aadde486a5d4c44?source=rss",
+        "summary": "米OpenAIはAIコーディングツールCursorに対するモデル提供契約を11月12日で終了すると発表した。Cursor開発元の米Anysphereがイーロン・マスク氏率いるSpaceXに買収された",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "エヌビディアに挑むOpenAIの推論チップ「ハラペーニョ」、初のベンチマークで示された実力と限界(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/d25574498ce737e8785f7f5b443027b460021edb?source=rss",
+        "summary": "2027年まで量産出荷されないプロセッサーが、米国時間8月25日、性能試験にかけられ、その結果が誰でも確認できる形で公開された。比較相手はすでに市場で売られている競合製品であり、採点の物差しを作ったの",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+        "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+        "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+        "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hollywood celebs are getting into microdrama apps",
+        "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+        "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+        "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+        "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨、最高26℃ / 最低20℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+        "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+        "summary": "Five others in their twenties were injured after shots were fired in Aarau, near Zurich overnight.",
+        "source": "BBC News"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iceland on track to reject EU referendum as counting nears end",
+        "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "summary": "Broadcaster RUV reports the nation looks set to reject resuming EU membership talks as the final votes are tallied.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高33℃ / 最低20℃"
+  }
+}
