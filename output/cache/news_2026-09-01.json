@@ -1,0 +1,104 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "TCL、Google TV搭載テレビにAIアシスタント「Gemini for Google TV」を提供開始(ITmedia PC USER)",
+        "link": "https://news.yahoo.co.jp/articles/cd72de9b86f56e783e510a1bbb3e7913aa395e00?source=rss",
+        "summary": "TCL JAPAN ELECTRONICSはこのほど、同社製Google TV搭載テレビにAIアシスタント「Gemini for Google TV」の提供を発表、順次対応を開始した。  　Gemi",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低22℃"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+        "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+        "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+        "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+        "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+        "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+        "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低22℃"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低22℃"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 晴れ時々曇り、最高29℃ / 最低22℃"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+        "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+        "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+        "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+        "source": "BBC News"
+      },
+      {
+        "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+        "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+        "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高36℃ / 最低23℃"
+  }
+}
