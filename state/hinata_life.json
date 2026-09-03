@@ -2,7 +2,7 @@
   "id": "hinata",
   "display_name": "星野 ひなた",
   "start_date": "2026-04-07",
-  "current_day_num": 131,
+  "current_day_num": 132,
   "fields": {
     "age": 15,
     "occupation": "AR/VRスタートアップとの共同創業者（CEO面談を経て正式決定）",
@@ -800,6 +800,12 @@
       "summary": "CEO面談を経て、AR/VRスタートアップとの共同創業者となることを正式に決定した。",
       "day_num": 131,
       "in_world_date": "2026-08-15"
+    },
+    {
+      "label": "共同創業者決定",
+      "summary": "AR/VRスタートアップとの共同創業者に決定し、AIと共に新たな事業を始めることになった。",
+      "day_num": 132,
+      "in_world_date": "2026-08-16"
     }
   ]
 }

@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "F5、NVIDIA NeMo Guardrailsと統合したAIセキュリティ「F5 AIガードレール」を発表(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/72fde7867c06f820a4210b2e3399f96333b20643?source=rss",
+        "summary": "米F5は現地時間7月29日、LLMの安全・制御機構「NVIDIA NeMo Guardrails」と統合した「F5 AIガードレール」を発表した。同ソリューションはAIネイティブなセキュリティソリュ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "約9割の日本企業が「AI導入のスピードが人材・組織の適応を上回っている」と実感(ZDNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/a4b6f877ea0333ec52e8529565a541b8d279f2ed?source=rss",
+        "summary": "キンドリルジャパンは9月2日、世界8カ国の経営幹部およびITリーダー1100人を対象に実施した「キンドリル ピープル・レディネス・レポート2026」の日本に関する調査結果を発表した。  　調査は、キ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低24℃、降水量 1mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+        "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+        "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低24℃、降水量 1mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低24℃、降水量 1mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 霧雨 (弱)、最高29℃ / 最低24℃、降水量 1mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+        "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+        "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+        "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+        "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高37℃ / 最低21℃"
+  }
+}
