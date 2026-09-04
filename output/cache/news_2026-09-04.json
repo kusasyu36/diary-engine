@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "AIエージェントの影響が広がるECの3領域とは？ 購買体験は「検索」から「相談」、購買体験は「検索」から「相談」、出会いは「Web検索」から「AI検索」へ(ネットショップ担当者フォーラム)",
+        "link": "https://news.yahoo.co.jp/articles/3c5cc4705d661da5eb7b724e19cd3a2bfc26f336?source=rss",
+        "summary": "EC向け生成AIサービスを展開するプレティアジャパンは、「エージェントコマースの循環モデル」を提唱している。AIエージェントがECに与える影響を「ECサイト内のCX」「AIとの対話を通じた顧客理解」「",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "リコージャパン、Notesアーカイブデータを生成AI「Dify」で活用可能にするアプリを開発(クラウド Watch)",
+        "link": "https://news.yahoo.co.jp/articles/33af21f7235b0ea70ee701f1183bb8e375210bcf?source=rss",
+        "summary": "リコージャパン株式会社は3日、企業内に蓄積されたNotesアーカイブデータを生成AIで活用可能にするアプリケーションを開発したと発表した。生成AIアプリ開発基盤「Dify」上で、Notesのアーカイ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低22℃、降水量 11mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+        "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+        "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oura files to go public",
+        "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+        "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+        "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+        "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低22℃、降水量 11mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Abliteration.ai is making a business out of removing AI guardrails",
+        "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+        "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低22℃、降水量 11mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (弱)、最高24℃ / 最低22℃、降水量 11mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+        "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+        "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+        "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US investigating if missile hit Iran wedding, Vance says",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧、最高34℃ / 最低22℃"
+  }
+}
