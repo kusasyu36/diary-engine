@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "OpenAIが数万台のMacを調達、なぜ今AI企業にMacが人気なのか(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/b3665d32bf8f930701fcfb98e249745b84535c50?source=rss",
+        "summary": "OpenAIがここ数カ月で、AppleのMac miniとMac Studioを数万台規模で購入していると米テックメディアが報じた。AIエージェントがPCを操作する「ChatGPT Work」の利用",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "OpenAIがAI検索仕様を変更、Redditの引用シェアが数日で3.8％から0.5％に崩落(Forbes JAPAN)",
+        "link": "https://news.yahoo.co.jp/articles/dd0de073baca3c49f9e91128ae427d5e8cae4214?source=rss",
+        "summary": "検索エンジンの1ページ目に載るかどうかが、企業の集客を左右してきた。現在はそこに、もう1つの土俵が加わっている。ChatGPTやGoogleのAIが答えを返すとき、その中で自社が引用されるかどうかであ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高22℃ / 最低19℃、降水量 56mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+        "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+        "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高22℃ / 最低19℃、降水量 56mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高22℃ / 最低19℃、降水量 56mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高22℃ / 最低19℃、降水量 56mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+        "source": "BBC News"
+      },
+      {
+        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+        "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 晴れ時々曇り、最高29℃ / 最低17℃"
+  }
+}
