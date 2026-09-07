@@ -1,0 +1,104 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "バイトダンス、AI投資へ296億ドル融資…ソフトバンクに次ぐアジア2位規模(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/f685cb6bbb2fc593fd43121f86c418568db22be5?source=rss",
+        "summary": "中国バイトダンスが296億ドル（約4兆6,200億円）規模の融資を確保し、正式署名を前に最終調整に入った。アジアでは2026年に入り2番目の規模となる。AIへの巨額投資が続く中、無担保で大型資金を集",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高24℃ / 最低21℃、降水量 106mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+        "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+        "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+        "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+        "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高24℃ / 最低21℃、降水量 106mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高24℃ / 最低21℃、降水量 106mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高24℃ / 最低21℃、降水量 106mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
+        "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+        "summary": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
+        "source": "BBC News"
+      },
+      {
+        "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+        "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高28℃ / 最低16℃"
+  }
+}
