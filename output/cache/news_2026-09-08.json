@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "企業内検索基盤「活文」最新版、MCPに対応--AIエージェントに信頼性の高い情報を提供(ZDNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/909f306119ced3682965fea85a7bb3645f7f0356?source=rss",
+        "summary": "日立ソリューションズは、AIエージェントと接続するためのオープンプロトコルである「Model Context Protocol（MCP）」に対応した、エンタープライズサーチプラットフォーム（ESP）",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "NTTPCら、水冷GPU搭載のオンプレミスAI基盤をパッケージで提供(ZDNET Japan)",
+        "link": "https://news.yahoo.co.jp/articles/ff037c5af7a4e16a730877e8a84a6bf9c40d1247?source=rss",
+        "summary": "NTTPCコミュニケーションズ、ゲットワークス、フィックスターズの3社は9月8日、コンテナー型データセンターと水冷GPUサーバー、統合監視、運用支援サービスをワンパッケージ化した「水冷GPUコンテナ",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高28℃ / 最低22℃、降水量 44mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+        "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+        "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-f",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+        "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+        "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What we expect from the upcoming Apple launch",
+        "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+        "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高28℃ / 最低22℃、降水量 44mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨 (強)、最高28℃ / 最低22℃、降水量 44mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨 (強)、最高28℃ / 最低22℃、降水量 44mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+        "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+        "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+        "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Flight recorders recovered from Amazon cargo plane crash",
+        "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+        "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "summary": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高30℃ / 最低15℃"
+  }
+}
