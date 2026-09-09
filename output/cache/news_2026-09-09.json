@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "日本からのAI開発　Google DeepMind日本拠点のグローバル開発とゲーム・高齢化対策(Impress Watch)",
+        "link": "https://news.yahoo.co.jp/articles/681b212e6ad258271c70b7610bd6308400c3b164?source=rss",
+        "summary": "Googleは9日、日本におけるGoogle DeepMindの取り組みについて説明した。DeepMindの日本拠点は、日本語などのローカライズではなく、Geminiへの研究成果の展開などグローバル規",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "動画編集もAIにやってもらう時代？　言葉で指示するAI編集ツール「Palmier Pro」を使ってみた(ITmedia NEWS)",
+        "link": "https://news.yahoo.co.jp/articles/e28ca5b3ee59f7112fb119f8f7c8b527da835c58?source=rss",
+        "summary": "前回は米Adobeが公開した「ChatGPT」向けプラグインをテストした。1つのプラグインで写真やイラスト、動画が扱えるということで、従来のアプリを横断しての作業や、特にツールを指定せずやりたいこと",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高31℃ / 最低20℃、降水量 13mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+        "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+        "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+        "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+        "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+        "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+        "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+        "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高31℃ / 最低20℃、降水量 13mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+        "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+        "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高31℃ / 最低20℃、降水量 13mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高31℃ / 最低20℃、降水量 13mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+        "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+        "source": "BBC News"
+      },
+      {
+        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+        "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+        "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+        "source": "BBC News"
+      },
+      {
+        "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+        "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+        "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高32℃ / 最低18℃"
+  }
+}
