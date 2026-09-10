@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "音声でメール検索やスプレッドシートのミニアプリ化など、グーグルが「Google AI」新機能を紹介(ケータイ Watch)",
+        "link": "https://news.yahoo.co.jp/articles/1548a86811fcc7fa936aab8ec70ee9bf686e7391?source=rss",
+        "summary": "米グーグルは9日（現地時間）、「Google AI」の有料プランで利用できる各種機能を紹介した。  　Google Workspaceでは複数の新機能が追加されている。Gmail、Google ドキ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "中国EC大手・京東集団、GPU10万枚級クラスター構築へ…フィジカルAI戦略を加速(ビジネス＋IT)",
+        "link": "https://news.yahoo.co.jp/articles/c4db5a619e965198ba5389c2206977ac778ef6e3?source=rss",
+        "summary": "中国EC大手の京東集団（JD.com）が、AIを画面の中から物流やロボットなど現実空間へ広げる「フィジカルAI」戦略を加速する。強みとする供給網を、データ収集、モデル開発、ロボット運用を循環させる実",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高21℃ / 最低18℃、降水量 8mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+        "summary": "Mullenweg said in a company Slack message that it was against his will.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+        "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高21℃ / 最低18℃、降水量 8mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高21℃ / 最低18℃、降水量 8mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高21℃ / 最低18℃、降水量 8mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+        "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Iran war won't end until after crucial November elections, says Trump",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+        "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 霧雨 (弱)、最高33℃ / 最低23℃"
+  }
+}
