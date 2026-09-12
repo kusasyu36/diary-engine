@@ -1,0 +1,110 @@
+{
+  "ren": {
+    "items": [
+      {
+        "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+        "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+        "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+        "source": "NHKニュース|国際"
+      },
+      {
+        "title": "タオバオのアプリに秘められた中華無料ゲームにハマってしまう　規制があるはずが日本人も無制限で遊べた！(アスキー)",
+        "link": "https://news.yahoo.co.jp/articles/b308a4afa3996e22f261e88a1e1f308cd602db7b?source=rss",
+        "summary": "中国のECサイト「タオバオ」のアプリ内にあるライトゲームに 思いっきりハマってしまった 　 　中国ITを書き続けるライターたるもの中国のゲームも遊ばなくてはならぬ。遊び始めたところ1ヵ月後には中国スマ",
+        "source": "IT - Yahoo!ニュース"
+      },
+      {
+        "title": "ChatGPTが本日もリセット。OpenAIがGPT-6 Astraの不具合3件を修正(PC Watch)",
+        "link": "https://news.yahoo.co.jp/articles/69eab40b7a5d0f9b07d8f02e48f038130e2c9369?source=rss",
+        "summary": "「本日もリセットが届く」。OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が9月12日(日本時間)、Xに投稿した。GPT-6 Astraを",
+        "source": "IT - Yahoo!ニュース"
+      }
+    ],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "engineer": {
+    "items": [
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+        "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+        "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "hinata": {
+    "items": [
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "source": "TechCrunch"
+      }
+    ],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "mimamori": {
+    "items": [],
+    "weather": "Tokyo 雨、最高25℃ / 最低20℃、降水量 11mm"
+  },
+  "president": {
+    "items": [
+      {
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+        "source": "BBC News"
+      },
+      {
+        "title": "Passenger train derails in France leaving at least 44 injured",
+        "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+        "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+        "source": "BBC News"
+      }
+    ],
+    "weather": "Washington 曇り、最高29℃ / 最低18℃"
+  }
+}
